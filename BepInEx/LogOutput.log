@@ -1,0 +1,459 @@
+[Message:   BepInEx] BepInEx 5.4.15.0 - valheim (02.07.2021 14:23:10)
+[Info   :   BepInEx] Running under Unity v2019.4.24.6137584
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.15.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.MonoMod.HookGenPatcher 1.1.0.0]
+[Info   :   BepInEx] 2 patcher plugins loaded
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 106 plugins to load
+[Info   :   BepInEx] Loading [This Goes Here 1.1.0]
+[Info   :   BepInEx] Loading [serverblankpassword 1.0.0.0]
+[Info   :   BepInEx] Loading [PlantEverything 1.8.0]
+[Info   : PlantEverything] Initialized Server Authoritative Config Manager.
+[Info   :   BepInEx] Loading [Compass 0.8.0]
+[Info   :   BepInEx] Loading [Valheim Configuration Manager 0.5.0]
+[Info   :   BepInEx] Loading [Custom Textures 2.3.0]
+[Info   :   BepInEx] Loading [Death Tweaks 0.7.0]
+[Info   :   BepInEx] Loading [Instant Monster Drop 0.3.3]
+[Info   :   BepInEx] Loading [Map Coordinate Display 0.3.0]
+[Info   :   BepInEx] Loading [Mining Mod 0.6.1]
+[Info   :   BepInEx] Loading [Real Clock Mod 0.3.1]
+[Info   :   BepInEx] Loading [Custom Raids 1.4.0]
+[Info   :Custom Raids] Loading configurations...
+[Info   :   BepInEx] Loading [RagnarsRökare Mob AI 0.3.2]
+[Info   :   BepInEx] Loading [Creature Level & Loot Control 4.4.1]
+[Info   : Unity Log] 12/13/2021 18:27:53: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 12/13/2021 18:27:53: Failed to load language file localization_extra
+
+[Info   : Unity Log] 12/13/2021 18:27:53: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 12/13/2021 18:27:53: Failed to load language file localization_extra
+
+[Info   : Unity Log] 12/13/2021 18:27:53: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 12/13/2021 18:27:53: Failed to load language file localization_extra
+
+[Info   : Unity Log] 12/13/2021 18:27:53: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 12/13/2021 18:27:53: Failed to load language file localization_extra
+
+[Info   : Unity Log] 12/13/2021 18:27:53: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 12/13/2021 18:27:53: Failed to load language file localization_extra
+
+[Info   :   BepInEx] Loading [Project Auga 1.0.3]
+[Info   :   BepInEx] Loading [Extended Item Data Framework 1.0.3]
+[Info   :   BepInEx] Loading [Epic Loot 0.8.4]
+[Info   :   BepInEx] Loading [Spawn That! 0.11.2]
+[Message:Spawn That!] Loading general configurations
+[Message:Spawn That!] Finished loading general configurations
+[Info   :   BepInEx] Loading [Drop That! 2.1.0]
+[Message:Drop That!] Loading general configuration from C:\Games\Valheim\BepInEx\config\drop_that.cfg.
+[Info   :   BepInEx] Loading [Sell That! 1.2.0]
+[Info   :Sell That!] Loading configurations...
+[Info   :Sell That!] Configurations loaded.
+[Info   :   BepInEx] Loading [FarmGrid 0.2.0]
+[Info   :   BepInEx] Loading [Better Continents 0.6.3]
+[Info   : Unity Log] [BetterContinents] Awake
+[Info   :   BepInEx] Loading [FloatingItems 1.0.0]
+[Info   :   BepInEx] Loading [RRRCore 0.2.9]
+[Info   :   BepInEx] Loading [RRRNpcs 0.2.3]
+[Info   :   BepInEx] Loading [RRRMonsters 0.2.2]
+[Info   :   BepInEx] Loading [RRRBetterRaids 0.2.1]
+[Info   :   BepInEx] Loading [Jotunn 2.2.9]
+[Info   :    Jotunn] Initializing LocalizationManager
+[Info   :    Jotunn] Initializing CommandManager
+[Info   :    Jotunn] Initializing InputManager
+[Info   :    Jotunn] Initializing SkillManager
+[Info   :    Jotunn] Initializing PrefabManager
+[Info   :    Jotunn] Initializing ItemManager
+[Info   :    Jotunn] Initializing PieceManager
+[Info   :    Jotunn] Initializing MockManager
+[Info   :    Jotunn] Initializing KitbashManager
+[Info   :    Jotunn] Initializing GUIManager
+[Info   :    Jotunn] Initializing SynchronizationManager
+[Info   :    Jotunn] Jötunn v2.2.9 loaded successfully
+[Info   :   BepInEx] Loading [Use Equipment in Water 0.2.2.0]
+[Info   :   BepInEx] Loading [SkillInjectorMod 1.1.1]
+[Info   :   BepInEx] Loading [BoneAppetit 3.0.2]
+[Message:Boneappetit.BoneAppetit] Prepping Kitchen...
+[Message:Boneappetit.BoneAppetit] Big thanks to MeatwareMonster!
+[Info   :   BepInEx] Loading [SkToolbox 1.10.4.0]
+[Info   :   BepInEx] Loading [Skills Give More Carry Weight 1.0.3]
+[Info   :Skills Give More Carry Weight] Trying to load configuration
+[Info   :Skills Give More Carry Weight] Succesfully loaded configuration
+[Info   :Skills Give More Carry Weight] Succesfully loaded Skills Give More Carry Weight 1.0.3
+[Info   :   BepInEx] Loading [Better Wagon Mod 1.1.0]
+[Info   :   BepInEx] Loading [DeathIconUpdate 1.0.0]
+[Info   :   BepInEx] Loading [Crawler 0.0.7]
+[Info   : Unity Log] Loading Nasty Crawler
+[Info   :   BepInEx] Loading [MonsterLabZ 1.7.0]
+[Info   :   BepInEx] Loading [Digitalroot EpicLoot Adventure Bounties 2.0.7]
+[Info   :   BepInEx] Loading [DoD Assets 0.4]
+[Info   :   BepInEx] Loading [Useful Trophies Mod 1.1.0]
+[Info   :   BepInEx] Loading [BlacksmithTools 2.0.1]
+[Info   :   BepInEx] Loading [combatFrontFacing 1.0.0.0]
+[Info   : Unity Log] loaded combatFrontFacing
+[Info   :   BepInEx] Loading [JudesEquipment 1.4.0]
+[Info   :   BepInEx] Loading [Golem 0.0.7]
+[Info   : Unity Log] Loading Golem
+[Info   :   BepInEx] Loading [Potions 1.1.0]
+[Info   :   BepInEx] Loading [Reduce Wolf Howl 0.1.0]
+[Info   :   BepInEx] Loading [DoOrDieMonsters 0.3.4]
+[Info   : Unity Log] Loading AoENomad
+[Info   : Unity Log] Loading AoEAuraFrost
+[Info   : Unity Log] Loading AoEAuraShadow
+[Info   : Unity Log] Loading AoEAuraFire
+[Info   : Unity Log] Loading AoEAuraStorm
+[Info   :   BepInEx] Loading [Hugo's Armory 5.0.0]
+[Info   :   BepInEx] Loading [Better Archery 1.6.2]
+[Info   :   BepInEx] Loading [Keezy's Better Wolves 0.2.1.0]
+[Info   :   BepInEx] Loading [Mount Up 2.0.3]
+[Info   :   BepInEx] Loading [MagicOverhaul 1.3.0]
+[Info   :   BepInEx] Loading [Build Camera 1.5]
+[Info   :   BepInEx] Loading [PlanBuild 0.5.2]
+[Info   :PlanBuild.Blueprints.BlueprintManager] Initializing BlueprintManager
+[Info   :PlanBuild.Blueprints.Marketplace.BlueprintSync] Loading known blueprints
+[Info   :PlanBuild.Patches] Applying BuildCamera patches
+[Info   :   BepInEx] Loading [Seed Totem 1.1.5]
+[Info   :   BepInEx] Loading [Transparent Sails 1.1.1]
+[Info   :   BepInEx] Loading [WeightlessCoins 1.0.0.0]
+[Info   :   BepInEx] Loading [Monsterzz 0.0.7]
+[Info   :   BepInEx] Loading [MoreSkills 0.1.9.2]
+[Info   :   BepInEx] Loading [MoreSkills: Crafting 0.0.3]
+[Info   : Unity Log] Loading All MoreSkills Configs. Please, wait a moment...
+[Info   : Unity Log] Loading CraftingSkill
+[Info   : Unity Log] Crafting Skill Patched!
+[Warning: Unity Log] [MoreSkills]: Crafting Mod Disabled
+[Info   : Unity Log] Crafting Skill Loaded!
+[Info   :   BepInEx] Loading [MoreSkills: Fishing 0.0.1]
+[Info   : Unity Log] Loading Fishing Skill...
+[Info   : Unity Log] Fishing Skill Patched!
+[Info   : Unity Log] [MoreSkills] Fishing Skill Enabled
+[Info   : Unity Log] [MoreSkills] Fishing/Fish Stack Amount  Mod Enabled
+[Info   : Unity Log] [MoreSkills]Fishing/Fish Base Hook Chance Mod Enabled
+[Info   : Unity Log] [MoreSkills]Fishing/Variety Mod Enabled
+[Info   : Unity Log] [MoreSkills]Fishing/Stamina Drain Decrease Mod Enabled
+[Info   : Unity Log] Fishing Skill Loaded!
+[Info   :   BepInEx] Loading [MoreSkills: Hunting 0.0.5]
+[Info   : Unity Log] Loading Hunting Skill...
+[Info   : Unity Log] Hunting Skill Patched!
+[Warning: Unity Log] [MoreSkills]: Hunting Skill Mod Disabled
+[Info   : Unity Log] Hunting Skill Loaded!
+[Info   :   BepInEx] Loading [MoreSkills: Overhauls 0.0.7]
+[Info   : Unity Log] Loading All Overhauls...
+[Info   : Unity Log] Overhauls Patched!
+[Info   : Unity Log] [MoreSkills]: Crouch Mod Enabled
+[Info   : Unity Log] [MoreSkills]: Swim Mod Enabled
+[Info   : Unity Log] [MoreSkills]: Swim/Speed Mod Enabled
+[Info   : Unity Log] [MoreSkills]: Swim/Stamina Mod Enabled
+[Warning: Unity Log] [MoreSkills]: Pickaxe Drop Mod Disabled
+[Warning: Unity Log] [MoreSkills]: WoodCutting Drop Mod Disabled
+[Info   : Unity Log] [MoreSkills]: Jump Mod Enabled
+[Info   : Unity Log] [MoreSkills]: Jump/Higher Mod Enabled
+[Info   : Unity Log] [MoreSkills]: Jump/Decreased Fall Damage Mod Enabled
+[Info   : Unity Log] [MoreSkills]: Jump/Need to Shift for Higher Jump Mod Enabled
+[Info   : Unity Log] [MoreSkills]: Jump/Roll On Fall Mod Enabled
+[Info   : Unity Log] [MoreSkills]: Jump/Max Fall Altitude Mod Enabled
+[Info   : Unity Log] All Overhauls Loaded!
+[Info   :   BepInEx] Loading [MoreSkills: Sailing 0.0.1]
+[Info   : Unity Log] Loading Sailing Skill...
+[Info   : Unity Log] Sailing Skill Patched!
+[Info   : Unity Log] [MoreSkills] Mod Enabled
+[Info   : Unity Log] [MoreSkills]Sailing/Ship Acceleration Mod Enabled
+[Info   : Unity Log] [MoreSkills]Sailing/CrewMates Mod Enabled
+[Info   : Unity Log] Sailing Skill Loaded!
+[Info   :   BepInEx] Loading [MoreSkills: Strength 0.0.3]
+[Info   : Unity Log] Loading Strength Skill...
+[Info   : Unity Log] Strength Skill Patched!
+[Warning: Unity Log] [MoreSkills] Strength Skill Disabled
+[Info   : Unity Log] Strength Skill Loaded!
+[Info   :   BepInEx] Loading [MoreSkills: Taming 0.0.6]
+[Info   : Unity Log] Loading Taming Skill...
+[Info   : Unity Log] Taming Skill Patched!
+[Info   : Unity Log] [MoreSkills] Skill Mod Enabled
+[Warning: Unity Log] [MoreSkills]Taming/AllTamableCompatibility Disabled
+[Error  : Unity Log] [MoreSkills]: IF YOU HAVE ALLTAMABLECOMPATIBILTY (by buzz) INSTALLED, I WOULD RECOMMEND ACTIVATING THIS IN THE CONFIG, OTHERWISE EVERYTHING IS OKAY :D
+[Info   : Unity Log] [MoreSkills]Taming/Unlocks Mod Enabled
+[Info   : Unity Log] [MoreSkills]Taming/Time Mod Enabled
+[Info   : Unity Log] [MoreSkills]Taming/Eat Mod Enabled
+[Info   : Unity Log] Taming Skill Loaded!
+[Info   :   BepInEx] Loading [MoreSkills: Vitality 0.0.3]
+[Info   : Unity Log] Loading Vitality...
+[Info   : Unity Log] Vitality Skill Patched!
+[Info   : Unity Log] [MoreSkills]: Health Mod Enabled
+[Info   : Unity Log] Vitality Loaded!
+[Info   : Unity Log] Everything is Loaded. Hope you love the mod :D
+[Info   :   BepInEx] Loading [QuickConnect 1.4.0]
+[Info   :   BepInEx] Loading [BiggerPickupRadius 1.1.3]
+[Info   :BiggerPickupRadius] BiggerPickupRadius loaded.
+[Info   :   BepInEx] Loading [ItemStacks 1.2.0]
+[Info   :ItemStacks] ItemStacks loaded.
+[Info   :   BepInEx] Loading [Speedy Paths Mod 1.0.5]
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Initialized Server Authoritative Config Manager.
+[Info   :   BepInEx] Loading [HoneyPlus 2.0.2]
+[Info   :   BepInEx] Loading [BeastsOfBurden 1.0.4]
+[Info   :BeastsOfBurden] Loading Beasts of Burden 
+[Info   :   BepInEx] Loading [Stamina Regeneration from Food 1.3]
+[Info   :   BepInEx] Loading [Less Food Degradation 1.0]
+[Info   :   BepInEx] Loading [Norse Core 1.0.0.0]
+[Info   :Norse Core] Norse Core: Loaded
+[Info   :   BepInEx] Loading [Norse No Hugin 1.0.0.0]
+[Info   :Norse No Hugin] Norse No Hugin: Loaded
+[Info   :   BepInEx] Loading [Steady Regeneration 1.0]
+[Info   :   BepInEx] Loading [Display BepInEx Info In-Game 1.1.0]
+[Info   :   BepInEx] Loading [Mead Base Icon Fix 1.0.2]
+[Info   :   BepInEx] Loading [Blast Furnace Fix 1.0.0.0]
+[Info   :   BepInEx] Loading [Fermenter Percentage 0.0.5]
+[Info   :   BepInEx] Loading [Mod Config Enforcer 2.1.1]
+[Info   :   BepInEx] Loading [Combat Evolved 0.4.7]
+[Info   :   BepInEx] Loading [Skip Intro 1.0.0]
+[Info   :   BepInEx] Loading [ForcePVP 1.0.0.5]
+[Info   :  ForcePVP] ForcedPVP [1.0.0.5] is up to date.
+[Info   :   BepInEx] Loading [Passive Forsaken Powers 1.0.1]
+[Info   :   BepInEx] Loading [Jam 1.0.3]
+[Info   :   BepInEx] Loading [ChaosArmor 7.0.0]
+[Info   :   BepInEx] Loading [ChangeEquipmentByWheel 1.1.0]
+[Info   :   BepInEx] Loading [Sailing Overhaul 1.0.1]
+[Info   :   BepInEx] Loading [TeleportActivationDistanceFix 1.0.2]
+[Info   : Unity Log] Starting loading mod - TeleportActivationDistanceFix
+[Info   : Unity Log] Finish loading mod - TeleportActivationDistanceFix
+[Info   :   BepInEx] Loading [Show Plant Progress 1.4.0]
+[Info   :   BepInEx] Loading [Friendlies 0.0.8]
+[Info   :   BepInEx] Loading [FriendliesAI 0.0.8]
+[Warning: Unity Log] MobController:RagnarsRokare.MobAI.SorterAI
+[Warning: Unity Log] MobController:RagnarsRokare.MobAI.FixerAI
+[Warning: Unity Log] MobController:RagnarsRokare.MobAI.WorkerAI
+[Warning: Unity Log] MobController:RagnarsRokare.MobAI.Mobs.ExampleAI
+[Info   : Unity Log] Null
+[Info   :   BepInEx] Loading [FriendliesAssets 0.0.8]
+[Info   :   BepInEx] Loading [BlackMetalOverhaul 0.6.2.0]
+[Info   :   BepInEx] Loading [TrollArmorRework 1.3.0.0]
+[Info   :   BepInEx] Loading [Teleporter Title 0.1.0.0]
+[Info   :   BepInEx] Loading [Hold Attack 0.4.2]
+[Info   :   BepInEx] Loading [Teleport Wolves 0.2.2]
+[Info   :   BepInEx] Loading [WendigoMonsterZZ 0.0.7]
+[Info   : Unity Log] Loading Wendigo1
+[Info   : Unity Log] Loading Wendigo2
+[Info   :   BepInEx] Loading [WereBearZZ 0.0.7]
+[Info   : Unity Log] Loading Bear1
+[Info   : Unity Log] Loading Bear2
+[Info   : Unity Log] Loading Bear3
+[Info   :   BepInEx] Loading [WhereWolves 0.0.7]
+[Info   : Unity Log] Loading Wolf1
+[Info   : Unity Log] Loading Wolf2
+[Info   : Unity Log] Loading Wolf3
+[Info   : Unity Log] Loading Wolf4
+[Info   : Unity Log] Loading Wolf5
+[Info   :   BepInEx] Loading [Wizard 0.0.7]
+[Info   : Unity Log] Loading Wizard
+[Info   :   BepInEx] Loading [YetiMonsterZ 0.0.7]
+[Info   : Unity Log] Loading Yeti
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] 12/13/2021 18:28:38: Starting to load scene:start
+
+[Info   : Unity Log] ConfigurationManager Searching for vanilla Config Manager.
+[Info   : Unity Log] ConfigurationManager Vanilla Config Manager not found.
+[Info   : Unity Log] loaded Blacksmith's Tools
+[Message:JudesEquipment] Blacksmith's tools found.
+[Info   : Unity Log] (SkToolbox) ->  (CONTROLLER) ->  (NOTIFY) -> LOADING... | WAITING FOR TOOLBOX.  
+[Info   : Unity Log] (SkToolbox) ->  (TOOLBOX) ->  (NOTIFY) -> LOADING... | MODULES LOADING...  
+[Info   : Unity Log] (SkToolbox) ->  (TOOLBOX) ->  (MODULE) ->  (NOTIFY) -> NAME: PLAYER | STATUS: READY  
+[Info   : Unity Log] (SkToolbox) ->  (TOOLBOX) ->  (MODULE) ->  (NOTIFY) -> NAME: WORLD | STATUS: READY  
+[Info   : Unity Log] (SkToolbox) ->  (TOOLBOX) ->  (MODULE) ->  (NOTIFY) -> NAME: CC CONTROLLER | STATUS: READY  
+[Info   : Unity Log] (SkToolbox) ->  (TOOLBOX) ->  (NOTIFY) -> 3 MODULES LOADED | TOOLBOX READY.  
+[Info   : Unity Log] (SkToolbox) ->  (CONTROLLER) ->  (NOTIFY) -> READY.  
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Info   : Unity Log] 12/13/2021 18:29:09: Valheim version:0.156.2
+
+[Info   : Unity Log] 12/13/2021 18:29:09: Render threading mode:MultiThreaded
+
+[Info   : Unity Log] 12/13/2021 18:29:09: Using environment steamid 892970
+
+[Info   : Unity Log] 12/13/2021 18:29:09: Using steam APPID:892970
+
+[Info   : Unity Log] 12/13/2021 18:29:09: Authentication:k_ESteamNetworkingAvailability_Attempting
+
+[Info   : Unity Log] 12/13/2021 18:29:09: Steam initialized, persona:Macilvoy
+
+[Warning: Unity Log] 12/13/2021 18:29:09: Missing audio clip in music respawn
+
+[Info   : Unity Log] 12/13/2021 18:29:09: Checking for installed DLCs
+
+[Info   : Unity Log] 12/13/2021 18:29:09: DLC installed:1515960
+
+[Info   : Unity Log] 12/13/2021 18:29:09: DLC:beta installed:True
+
+[Info   : Unity Log] CustomTextures Clutter system awake
+[Info   : Unity Log] CustomTextures Checking 17 clutters
+[Info   : Unity Log] CustomTextures Clutter System RunTime 00:00:00.00
+[Info   :QuickConnect] Loaded 3 server entries
+[Info   :Jotunn.Managers.LocalizationManager] Loading custom localizations
+[Info   : Unity Log] 12/13/2021 18:29:10: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 12/13/2021 18:29:10: Failed to load language file localization_extra
+
+[Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'English'
+[Warning:RRRMonsters] True
+[Info   : Unity Log] Trying to register Items
+[Info   : Unity Log] MeadBaseIconFix ObjectDb Awake Patch Start
+[Info   : Unity Log] MeadBaseIconFix ObjectDb Awake Patch End
+[Message:Boneappetit.BoneAppetit] Loaded Game VFX and SFX
+[Message:Boneappetit.BoneAppetit] Load Complete. Bone Appetit yall.
+[Info   :Seed Totem] Updating color
+[Info   :Seed Totem] Registering Seed Totem Piece
+[Info   :Jotunn.Managers.KitbashManager] Applying Kitbash in 1 objects
+[Info   :Jotunn.Managers.ItemManager] Adding 94 custom items to the ObjectDB
+[Warning:RRRMonsters] True
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_BoneSkeletonTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EyeGreydwarfTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_AntlerDeerTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HideTrollTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_CoreSurtlingTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Lesser_Spiritual_Healing_Vial
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Lesser_Healing_Tide_Vial
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Lesser_Stamina_Vial
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Medium_Healing_Tide_Flask
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Medium_Stamina_Flask
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Medium_Spiritual_Healing_Flask
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Grand_Stealth_Elixir
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Grand_Spiritual_Healing_Potion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Grand_Healing_Tide_Potion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Grand_Stamina_Elixir
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Flask_of_Second_Wind
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Flask_of_Magelight
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Flask_of_Fortification
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Flask_of_the_Gods
+[Info   : Unity Log] Trying to register Items
+[Info   : Unity Log] [PrefabCreator] Skipped recipe: LeatherQuiver
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ArrowWoodAnywhere
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FireArrowTransform
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_PoisonArrowTransform
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverArrowTransform
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FrostArrowTransform
+[Info   : Unity Log] MeadBaseIconFix ObjectDB CopyOtherDb Patch Start
+[Info   : Unity Log] MeadBaseIconFix Updating icon for MeadBaseFrostResist
+[Info   : Unity Log] MeadBaseIconFix Updating icon for MeadBaseHealthMedium
+[Info   : Unity Log] MeadBaseIconFix Updating icon for MeadBaseHealthMinor
+[Info   : Unity Log] MeadBaseIconFix Updating icon for MeadBasePoisonResist
+[Info   : Unity Log] MeadBaseIconFix Updating icon for MeadBaseStaminaMedium
+[Info   : Unity Log] MeadBaseIconFix Updating icon for MeadBaseStaminaMinor
+[Info   : Unity Log] MeadBaseIconFix Updating icon for MeadBaseTasty
+[Info   : Unity Log] MeadBaseIconFix Updating icon for BarleyWineBase
+[Info   : Unity Log] MeadBaseIconFix ObjectDB CopyOtherDb Patch End
+[Info   : Unity Log] [Passive Forsaken Powers] Made GP_Bonemass status effect passive.
+[Info   : Unity Log] [Passive Forsaken Powers] Made GP_Eikthyr status effect passive.
+[Info   : Unity Log] [Passive Forsaken Powers] Made GP_Moder status effect passive.
+[Info   : Unity Log] [Passive Forsaken Powers] Made GP_TheElder status effect passive.
+[Info   : Unity Log] [Passive Forsaken Powers] Made GP_Yagluth status effect passive.
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RaspberryJam
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HoneyRaspberryJam
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_BlueberryJam
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HoneyBlueberryJam
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_CloudberryJam
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HoneyCloudberryJam
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_KingsJam
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_NordicJam
+[Info   : Unity Log] CustomTextures SetupObjectDB postfix
+[Info   : Unity Log] CustomTextures Replacing textures for 807 objects
+[Info   : Unity Log] CustomTextures SetupObjectDB RunTime 00:00:00.21
+[Info   :Jotunn.Managers.InputManager] Registering 3 custom inputs
+[Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
+[Info   :BiggerPickupRadius] 2
+[Info   :BiggerPickupRadius] Player pickup range set to 6
+[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
+Stack trace:
+ConfigurationManager.Patches.SetupMenuButton () (at <9edb05592bc445f5bb0c8d2eab8bf234>:0)
+ConfigurationManager.Patches.Start () (at <9edb05592bc445f5bb0c8d2eab8bf234>:0)
+(wrapper dynamic-method) FejdStartup.DMD<FejdStartup::Start>(FejdStartup)
+
+[Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
+[Info   :BiggerPickupRadius] 2
+[Info   :BiggerPickupRadius] Player pickup range set to 6
+[Info   : Unity Log] 12/13/2021 18:29:12: UI Group status changed Menu = True
+
+[Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
+[Info   :BiggerPickupRadius] 2
+[Info   :BiggerPickupRadius] Player pickup range set to 6
+[Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
+[Info   :BiggerPickupRadius] 2
+[Info   :BiggerPickupRadius] Player pickup range set to 6
+[Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
+[Info   :BiggerPickupRadius] 2
+[Info   :BiggerPickupRadius] Player pickup range set to 6
+[Info   : Unity Log] 12/13/2021 18:29:15: UI Group status changed Menu = True
+
+[Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
+[Info   :BiggerPickupRadius] 2
+[Info   :BiggerPickupRadius] Player pickup range set to 6
+[Info   : Unity Log] 12/13/2021 18:32:26: Steam manager on destroy
+
+[Info   : Unity Log] Compass Destroying plugin
+[Warning:  HarmonyX] UnpatchAll has been called with harmonyID=null - This will remove ALL HARMONY PATCHES. If you want to only unpatch patches created by this instance (harmony-auto-2cbe9831-22b0-464f-b5c4-1d44c1d9249f), use UnpatchSelf() instead.
+[Info   : Unity Log] Crafting Skill UnPatched!
+[Info   : Unity Log] Fishing Skill UnPatched!
+[Info   : Unity Log] Hunting Skill UnPatched!
+[Info   : Unity Log] Overhauls UnPatched!
+[Info   : Unity Log] Sailing Skill UnPatched!
+[Info   : Unity Log] Strength Skill UnPatched!
+[Info   : Unity Log] Taming Skill UnPatched!
+[Info   : Unity Log] Vitality Skill UnPatched!
+[Warning:  HarmonyX] UnpatchAll has been called with harmonyID=null - This will remove ALL HARMONY PATCHES. If you want to only unpatch patches created by this instance (MeadBaseIconFix), use UnpatchSelf() instead.
