@@ -109,7 +109,7 @@
     // Can enter the sea or river
     "bAvoidWater": true,
     // Spawn Message
-    "sSpawnMessage": "Magic fills the air",
+    "sSpawnMessage": "",
     // Death Message
     "sDeathMessage": "Magic leaves the air"
   },
@@ -131,12 +131,12 @@
     "fCircleTargetDuration": 2,
     "fCircleTargetDistance": 10,
     "aConsumeItems": [
-      "CookedMeat"
+      "Coins"
     ],
     "fConsumeRange": 2,
     "fConsumeSearchRange": 5,
     "fConsumeSearchInterval": 10,
-    "fConsumeHeal": 100
+    "fConsumeHeal": 1
   },
   "Category_CharacterDrop": {
     "bReplaceOriginalDrops": true,
@@ -147,7 +147,7 @@
   // Taming
   "Category_Special": {
     "bCanTame": true,
-    "bAlwaysTame": true,
+    "bAlwaysTame": false,
     "bCommandableWhenTame": true,
     "bCanProcreateWhenTame": false,
     "bSfxNoAlert": true,

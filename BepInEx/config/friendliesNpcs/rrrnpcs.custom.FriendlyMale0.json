@@ -91,13 +91,12 @@
       "fCircleTargetDuration" : 3,
       "fCircleTargetDistance" : 5,
       "aConsumeItems" : [
-         "CookedMeat",
-         "NeckTailGrilled"
+         "Coins"
       ],
       "fConsumeRange" : 2,
       "fConsumeSearchRange" : 5,
       "fConsumeSearchInterval" : 10,
-      "fConsumeHeal" : 30
+      "fConsumeHeal" : 1
    },
    "Category_CharacterDrop" : {
       "bReplaceOriginalDrops" : true,
@@ -107,7 +106,7 @@
    },
    "Category_Special" : {
       "bCanTame" : true,
-      "bAlwaysTame" : true,
+      "bAlwaysTame" : false,
       "bCommandableWhenTame" : true,
       "bCanProcreateWhenTame" : false,
       "bSfxNoAlert" : false,

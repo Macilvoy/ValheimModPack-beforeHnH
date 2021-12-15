@@ -118,7 +118,7 @@
 	  // Can enter the sea or river
       "bAvoidWater" : true,
 	  // Spawn Message
-      "sSpawnMessage" : "Eir is here to help",
+      "sSpawnMessage" : "",
 	  // Death Message
       "sDeathMessage" : "Eir has been slain"
    },
@@ -140,12 +140,12 @@
       "fCircleTargetDuration" : 4,
       "fCircleTargetDistance" : 30,
       "aConsumeItems" : [
-         "CookedMeat"
+         "Coins"
       ],
       "fConsumeRange" : 2,
       "fConsumeSearchRange" : 5,
       "fConsumeSearchInterval" : 10,
-      "fConsumeHeal" : 100
+      "fConsumeHeal" : 1
    },
    "Category_CharacterDrop" : {
       "bReplaceOriginalDrops" : true,
@@ -156,7 +156,7 @@
    // Taming
    "Category_Special": {
     "bCanTame": true,
-    "bAlwaysTame": true,
+    "bAlwaysTame": false,
     "bCommandableWhenTame": true,
     "bCanProcreateWhenTame": false,
     "bSfxNoAlert": true,

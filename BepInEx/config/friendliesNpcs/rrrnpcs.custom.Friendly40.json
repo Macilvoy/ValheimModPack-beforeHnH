@@ -92,14 +92,12 @@
       "fCircleTargetDuration" : 3,
       "fCircleTargetDistance" : 5,
       "aConsumeItems" : [
-         "LoxPie",
-         "FishWraps",
-         "Bread"
+         "Coins"
       ],
       "fConsumeRange" : 2,
       "fConsumeSearchRange" : 5,
       "fConsumeSearchInterval" : 10,
-      "fConsumeHeal" : 20
+      "fConsumeHeal" : 1
    },
    "Category_CharacterDrop" : {
       "bReplaceOriginalDrops" : true,
@@ -109,7 +107,7 @@
    },
    "Category_Special" : {
       "bCanTame" : true,
-      "bAlwaysTame" : true,
+      "bAlwaysTame" : false,
       "bCommandableWhenTame" : true,
       "bCanProcreateWhenTame" : false,
       "bSfxNoAlert" : true,

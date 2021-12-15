@@ -116,7 +116,7 @@
 	  // Can enter the sea or river
       "bAvoidWater" : true,
 	  // Spawn Message
-      "sSpawnMessage" : "Know This! I am Ashe! I am the Bow!.",
+      "sSpawnMessage" : "",
 	  // Death Message
       "sDeathMessage" : "The cold does not forgive..."
    },
@@ -138,12 +138,12 @@
       "fCircleTargetDuration" : 4,
       "fCircleTargetDistance" : 30,
       "aConsumeItems" : [
-         "CookedMeat"
+         "Coins"
       ],
       "fConsumeRange" : 2,
       "fConsumeSearchRange" : 5,
       "fConsumeSearchInterval" : 10,
-      "fConsumeHeal" : 100
+      "fConsumeHeal" : 1
    },
    "Category_CharacterDrop" : {
       "bReplaceOriginalDrops" : true,
@@ -154,7 +154,7 @@
    // Taming
    "Category_Special": {
     "bCanTame": true,
-    "bAlwaysTame": true,
+    "bAlwaysTame": false,
     "bCommandableWhenTame": true,
     "bCanProcreateWhenTame": false,
     "bSfxNoAlert": true,

@@ -95,7 +95,7 @@
       "bAvoidFire" : false,
       "bAfraidOfFire" : false,
       "bAvoidWater" : true,
-      "sSpawnMessage" : "I have risen, and my people will rise too",
+      "sSpawnMessage" : "",
       "sDeathMessage" : "Back to the abyss.."
    },
    "Category_MonsterAI" : {
@@ -116,12 +116,12 @@
       "fCircleTargetDuration" : 2,
       "fCircleTargetDistance" : 13,
       "aConsumeItems" : [
-         "CookedMeat"
+         "Coins"
       ],
       "fConsumeRange" : 2,
       "fConsumeSearchRange" : 5,
       "fConsumeSearchInterval" : 10,
-      "fConsumeHeal" : 50
+      "fConsumeHeal" : 1
    },
    "Category_CharacterDrop" : {
       "bReplaceOriginalDrops" : true,
@@ -131,7 +131,7 @@
    },
    "Category_Special" : {
       "bCanTame" : true,
-      "bAlwaysTame" : true,
+      "bAlwaysTame" : false,
       "bCommandableWhenTame" : true,
       "bCanProcreateWhenTame" : false,
       "bFxNoTame" : true,

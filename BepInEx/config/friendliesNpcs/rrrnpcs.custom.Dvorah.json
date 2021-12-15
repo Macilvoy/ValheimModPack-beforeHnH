@@ -79,7 +79,7 @@
       "bAvoidFire" : false,
       "bAfraidOfFire" : false,
       "bAvoidWater" : true,
-      "sSpawnMessage" : "This One will enjoy your death...",
+      "sSpawnMessage" : "",
       "sDeathMessage" : "This One must retreat... for now"
    },
    "Category_MonsterAI" : {
@@ -100,12 +100,12 @@
       "fCircleTargetDuration" : 4,
       "fCircleTargetDistance" : 15,
       "aConsumeItems" : [
-         
+         "Coins"
       ],
       "fConsumeRange" : 2,
       "fConsumeSearchRange" : 5,
       "fConsumeSearchInterval" : 10,
-      "fConsumeHeal" : 0
+      "fConsumeHeal" : 1
    },
    "Category_CharacterDrop" : {
       "bReplaceOriginalDrops" : true,
@@ -115,7 +115,7 @@
    },
    "Category_Special" : {
       "bCanTame" : true,
-      "bAlwaysTame" : true,
+      "bAlwaysTame" : false,
       "bCommandableWhenTame" : true,
       "bCanProcreateWhenTame" : false,
       "bFxNoTame" : true,

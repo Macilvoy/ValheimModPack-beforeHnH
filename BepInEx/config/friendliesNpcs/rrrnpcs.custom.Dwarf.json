@@ -102,12 +102,12 @@
     "fCircleTargetDuration": 3,
     "fCircleTargetDistance": 5,
     "aConsumeItems": [
-
+      "Coins"
     ],
     "fConsumeRange": 2,
     "fConsumeSearchRange": 5,
     "fConsumeSearchInterval": 10,
-    "fConsumeHeal": 0
+    "fConsumeHeal": 1
   },
   "Category_CharacterDrop": {
     "bReplaceOriginalDrops": true,
@@ -117,7 +117,7 @@
   },
   "Category_Special": {
     "bCanTame": true,
-    "bAlwaysTame": true,
+    "bAlwaysTame": false,
     "bCommandableWhenTame": true,
     "bCanProcreateWhenTame": false,
     "bFxNoTame": true,
