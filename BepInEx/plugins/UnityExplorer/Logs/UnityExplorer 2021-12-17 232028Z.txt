@@ -1,0 +1,663 @@
+UnityExplorer 4.4.0 initializing...
+Cached AppDomain assemblies in 0,4020786 seconds
+Finished core setup, waiting for delayed setup...
+Finished core setup, waiting for late setup...
+[Unity] Loading Nasty Crawler
+[Unity] loaded combatFrontFacing
+[Unity] Loading Golem
+[Unity] Loading AoENomad
+[Unity] Loading AoEAuraFrost
+[Unity] Loading AoEAuraShadow
+[Unity] Loading AoEAuraFire
+[Unity] Loading AoEAuraStorm
+[Unity] Resources ValheimMod.testitem,ValheimMod.Resources.runemagic_server_config.cfg,ValheimMod.Resources.runemagic_player_config.cfg,ValheimMod.Resources.runemagic_internal_config.cfg
+[Unity] Registering Item: RuneFocus: RuneFocus (UnityEngine.GameObject)
+[Unity] Registering: runemagic_RestoreTerrain: runemagic_RestoreTerrain (UnityEngine.GameObject)
+[Unity] Registering: runemagic_LevelTerrain: runemagic_LevelTerrain (UnityEngine.GameObject)
+[Unity] Registering: runemagic_ShatteringRune: runemagic_ShatteringRune (UnityEngine.GameObject)
+[Unity] Registering: runemagic_BlastingRune: runemagic_BlastingRune (UnityEngine.GameObject)
+[Unity] Registering: runemagic_passive_Alertness: runemagic_passive_Alertness (UnityEngine.GameObject)
+[Unity] Registering: runemagic_passive_BoatPropulsion: runemagic_passive_BoatPropulsion (UnityEngine.GameObject)
+[Unity] Registering: runemagic_passive_WaterWalking: runemagic_passive_WaterWalking (UnityEngine.GameObject)
+[Unity] Registering: runemagic_passive_Decumberance: runemagic_passive_Decumberance (UnityEngine.GameObject)
+[Unity] Registering: runemagic_CanopyRune: runemagic_CanopyRune (UnityEngine.GameObject)
+[Unity] Registering: runemagic_DryLandRune: runemagic_DryLandRune (UnityEngine.GameObject)
+[Unity] Registering: runemagic_CalmWatersRune: runemagic_CalmWatersRune (UnityEngine.GameObject)
+[Unity] Registering: runemagic_RepairRune: runemagic_RepairRune (UnityEngine.GameObject)
+[Unity] Registering: runemagic_raise: runemagic_raise (UnityEngine.GameObject)
+[Unity] Registering: runemagic_lower: runemagic_lower (UnityEngine.GameObject)
+[Unity] Registering: runemagic_flatten: runemagic_flatten (UnityEngine.GameObject)
+[Unity] Registering: runemagic_reset: runemagic_reset (UnityEngine.GameObject)
+[Unity] Registering: vfx_Decumberance: vfx_Decumberance (UnityEngine.GameObject)
+[Unity] Registering: vfx_OceanCurrents: vfx_OceanCurrents (UnityEngine.GameObject)
+[Unity] Registering status effect: Rune of Frozen Footsteps
+[Unity] Registering status effect: Rune of Decumberance
+[Unity] Registering status effect: Rune of Alertness
+[Unity] Registering status effect: Rune of Ocean Currents
+[Unity] Reloading Standard shader on GameObject runemagic_StandingStone
+[Unity] Registering: runemagic_StandingStone: runemagic_StandingStone (UnityEngine.GameObject)
+[Unity] Registering recipe for item: RuneFocus
+[Unity] Registering recipe for prefab: runemagic_StandingStone
+[Unity] Reloading Standard shader on GameObject iceberg0
+[Unity] Registering: iceberg0: iceberg0 (UnityEngine.GameObject)
+[Unity] Reloading Standard shader on GameObject iceberg1
+[Unity] Registering: iceberg1: iceberg1 (UnityEngine.GameObject)
+[Unity] Reloading Standard shader on GameObject iceberg2
+[Unity] Registering: iceberg2: iceberg2 (UnityEngine.GameObject)
+[Unity] Reloading Standard shader on GameObject iceberg3
+[Unity] Registering: iceberg3: iceberg3 (UnityEngine.GameObject)
+[Unity] Reloading Standard shader on GameObject iceberg4
+[Unity] Registering: iceberg4: iceberg4 (UnityEngine.GameObject)
+[Unity] Reloading Standard shader on GameObject iceberg5
+[Unity] Registering: iceberg5: iceberg5 (UnityEngine.GameObject)
+[Unity] Reloading Standard shader on GameObject iceberg6
+[Unity] Registering: iceberg6: iceberg6 (UnityEngine.GameObject)
+[Unity] Reloading Standard shader on GameObject iceberg7
+[Unity] Registering: iceberg7: iceberg7 (UnityEngine.GameObject)
+[Unity] Reloading Standard shader on GameObject iceberg8
+[Unity] Registering: iceberg8: iceberg8 (UnityEngine.GameObject)
+[Unity] Reloading Standard shader on GameObject iceberg9
+[Unity] Registering: iceberg9: iceberg9 (UnityEngine.GameObject)
+[Unity] Reloading Standard shader on GameObject iceberg10
+[Unity] Registering: iceberg10: iceberg10 (UnityEngine.GameObject)
+[Unity] Reloading Standard shader on GameObject iceberg11
+[Unity] Registering: iceberg11: iceberg11 (UnityEngine.GameObject)
+[Unity] Reloading Standard shader on GameObject iceberg12
+[Unity] Registering: iceberg12: iceberg12 (UnityEngine.GameObject)
+[Unity] Reloading Standard shader on GameObject iceberg13
+[Unity] Registering: iceberg13: iceberg13 (UnityEngine.GameObject)
+[Unity] Reloading Standard shader on GameObject iceberg14
+[Unity] Registering: iceberg14: iceberg14 (UnityEngine.GameObject)
+[Unity] Reloading Standard shader on GameObject iceberg15
+[Unity] Registering: iceberg15: iceberg15 (UnityEngine.GameObject)
+[Unity] Reloading Standard shader on GameObject iceberg16
+[Unity] Registering: iceberg16: iceberg16 (UnityEngine.GameObject)
+[Unity] Reloading Standard shader on GameObject iceberg17
+[Unity] Registering: iceberg17: iceberg17 (UnityEngine.GameObject)
+[Unity] Reloading Standard shader on GameObject iceberg18
+[Unity] Registering: iceberg18: iceberg18 (UnityEngine.GameObject)
+[Unity] Reloading Standard shader on GameObject iceberg19
+[Unity] Registering: iceberg19: iceberg19 (UnityEngine.GameObject)
+[Unity] Reloading Standard shader on GameObject iceberg20
+[Unity] Registering: iceberg20: iceberg20 (UnityEngine.GameObject)
+[Unity] Reloading Standard shader on GameObject iceberg21
+[Unity] Registering: iceberg21: iceberg21 (UnityEngine.GameObject)
+[Unity] Reloading Standard shader on GameObject iceberg22
+[Unity] Registering: iceberg22: iceberg22 (UnityEngine.GameObject)
+[Unity] Reloading Standard shader on GameObject iceberg23
+[Unity] Registering: iceberg23: iceberg23 (UnityEngine.GameObject)
+[Unity] Reloading Standard shader on GameObject iceberg24
+[Unity] Registering: iceberg24: iceberg24 (UnityEngine.GameObject)
+[Unity] Reloading Standard shader on GameObject iceberg25
+[Unity] Registering: iceberg25: iceberg25 (UnityEngine.GameObject)
+[Unity] Reloading Standard shader on GameObject iceberg26
+[Unity] Registering: iceberg26: iceberg26 (UnityEngine.GameObject)
+[Unity] Reloading Standard shader on GameObject iceberg27
+[Unity] Registering: iceberg27: iceberg27 (UnityEngine.GameObject)
+[Unity] Reloading Standard shader on GameObject iceberg28
+[Unity] Registering: iceberg28: iceberg28 (UnityEngine.GameObject)
+[Unity] Calculated centers for 29 icebergs
+[Unity] Loading All MoreSkills Configs. Please, wait a moment...
+[Unity] Loading CraftingSkill
+[Unity] Crafting Skill Patched!
+[Unity] [MoreSkills]: Crafting Mod Disabled
+[Unity] Crafting Skill Loaded!
+[Unity] Loading Fishing Skill...
+[Unity] Fishing Skill Patched!
+[Unity] [MoreSkills] Fishing Skill Enabled
+[Unity] [MoreSkills] Fishing/Fish Stack Amount  Mod Enabled
+[Unity] [MoreSkills]Fishing/Fish Base Hook Chance Mod Enabled
+[Unity] [MoreSkills]Fishing/Variety Mod Enabled
+[Unity] [MoreSkills]Fishing/Stamina Drain Decrease Mod Enabled
+[Unity] Fishing Skill Loaded!
+[Unity] Loading Hunting Skill...
+[Unity] Hunting Skill Patched!
+[Unity] [MoreSkills]: Hunting Skill Mod Disabled
+[Unity] Hunting Skill Loaded!
+[Unity] Loading All Overhauls...
+[Unity] Overhauls Patched!
+[Unity] [MoreSkills]: Crouch Mod Enabled
+[Unity] [MoreSkills]: Swim Mod Enabled
+[Unity] [MoreSkills]: Swim/Speed Mod Enabled
+[Unity] [MoreSkills]: Swim/Stamina Mod Enabled
+[Unity] [MoreSkills]: Pickaxe Drop Mod Disabled
+[Unity] [MoreSkills]: WoodCutting Drop Mod Disabled
+[Unity] [MoreSkills]: Jump Mod Enabled
+[Unity] [MoreSkills]: Jump/Higher Mod Enabled
+[Unity] [MoreSkills]: Jump/Decreased Fall Damage Mod Enabled
+[Unity] [MoreSkills]: Jump/Need to Shift for Higher Jump Mod Enabled
+[Unity] [MoreSkills]: Jump/Roll On Fall Mod Enabled
+[Unity] [MoreSkills]: Jump/Max Fall Altitude Mod Enabled
+[Unity] All Overhauls Loaded!
+[Unity] Loading Sailing Skill...
+[Unity] Sailing Skill Patched!
+[Unity] [MoreSkills] Mod Enabled
+[Unity] [MoreSkills]Sailing/Ship Acceleration Mod Enabled
+[Unity] [MoreSkills]Sailing/CrewMates Mod Enabled
+[Unity] Sailing Skill Loaded!
+[Unity] Loading Strength Skill...
+[Unity] Strength Skill Patched!
+[Unity] [MoreSkills] Strength Skill Disabled
+[Unity] Strength Skill Loaded!
+[Unity] Loading Taming Skill...
+[Unity] Taming Skill Patched!
+[Unity] [MoreSkills] Skill Mod Enabled
+[Unity] [MoreSkills]Taming/AllTamableCompatibility Disabled
+[Unity] [MoreSkills]: IF YOU HAVE ALLTAMABLECOMPATIBILTY (by buzz) INSTALLED, I WOULD RECOMMEND ACTIVATING THIS IN THE CONFIG, OTHERWISE EVERYTHING IS OKAY :D
+[Unity] [MoreSkills]Taming/Unlocks Mod Enabled
+[Unity] [MoreSkills]Taming/Time Mod Enabled
+[Unity] [MoreSkills]Taming/Eat Mod Enabled
+[Unity] Taming Skill Loaded!
+[Unity] Loading Vitality...
+[Unity] Vitality Skill Patched!
+[Unity] [MoreSkills]: Health Mod Enabled
+[Unity] Vitality Loaded!
+[Unity] Everything is Loaded. Hope you love the mod :D
+[Unity] Starting loading mod - TeleportActivationDistanceFix
+[Unity] Finish loading mod - TeleportActivationDistanceFix
+[Unity] MobController:RagnarsRokare.MobAI.SorterAI
+[Unity] MobController:RagnarsRokare.MobAI.FixerAI
+[Unity] MobController:RagnarsRokare.MobAI.WorkerAI
+[Unity] MobController:RagnarsRokare.MobAI.Mobs.ExampleAI
+[Unity] Null
+[Unity] Loading Wendigo1
+[Unity] Loading Wendigo2
+[Unity] Loading Bear1
+[Unity] Loading Bear2
+[Unity] Loading Bear3
+[Unity] Loading Wolf1
+[Unity] Loading Wolf2
+[Unity] Loading Wolf3
+[Unity] Loading Wolf4
+[Unity] Loading Wolf5
+[Unity] Loading Wizard
+[Unity] Loading Yeti
+[Unity] 12/17/2021 23:19:58: Starting to load scene:start
+
+[Unity] ConfigurationManager Searching for vanilla Config Manager.
+[Unity] ConfigurationManager Vanilla Config Manager not found.
+[Unity] loaded Blacksmith's Tools
+[Unity] (SkToolbox) ->  (CONTROLLER) ->  (NOTIFY) -> LOADING... | WAITING FOR TOOLBOX.  
+[Unity] (SkToolbox) ->  (TOOLBOX) ->  (NOTIFY) -> LOADING... | MODULES LOADING...  
+[Unity] (SkToolbox) ->  (TOOLBOX) ->  (MODULE) ->  (NOTIFY) -> NAME: PLAYER | STATUS: READY  
+[Unity] (SkToolbox) ->  (TOOLBOX) ->  (MODULE) ->  (NOTIFY) -> NAME: WORLD | STATUS: READY  
+[Unity] (SkToolbox) ->  (TOOLBOX) ->  (MODULE) ->  (NOTIFY) -> NAME: CC CONTROLLER | STATUS: READY  
+[Unity] (SkToolbox) ->  (TOOLBOX) ->  (NOTIFY) -> 3 MODULES LOADED | TOOLBOX READY.  
+[Unity] (SkToolbox) ->  (CONTROLLER) ->  (NOTIFY) -> READY.  
+[Unity] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Unity] 12/17/2021 23:20:24: Valheim version:0.156.2
+
+[Unity] 12/17/2021 23:20:24: Render threading mode:MultiThreaded
+
+[Unity] 12/17/2021 23:20:24: Using environment steamid 892970
+
+[Unity] 12/17/2021 23:20:24: Using steam APPID:892970
+
+[Unity] 12/17/2021 23:20:25: Authentication:k_ESteamNetworkingAvailability_Attempting
+
+[Unity] 12/17/2021 23:20:25: Steam initialized, persona:Macilvoy
+
+[Unity] 12/17/2021 23:20:25: Missing audio clip in music respawn
+
+[Unity] 12/17/2021 23:20:25: Checking for installed DLCs
+
+[Unity] 12/17/2021 23:20:25: DLC installed:1515960
+
+[Unity] 12/17/2021 23:20:25: DLC:beta installed:True
+
+[Unity] CustomTextures Clutter system awake
+[Unity] CustomTextures Checking 17 clutters
+[Unity] CustomTextures Clutter System RunTime 00:00:00.00
+[Unity] 12/17/2021 23:20:25: Loaded localization CSV:localization language:English
+
+[Unity] 12/17/2021 23:20:25: Failed to load language file localization_extra
+
+[Unity] Trying to register Items
+[Unity] ObjectDB_Awake_Patch ran
+[Unity] MeadBaseIconFix ObjectDb Awake Patch Start
+[Unity] MeadBaseIconFix ObjectDb Awake Patch End
+[Unity] [PrefabCreator] Added recipe: Recipe_LeatherBelt
+[Unity] [PrefabCreator] Added recipe: Recipe_SilverRing
+[Unity] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
+[Unity] [PrefabCreator] Added recipe: Recipe_ShardRareUpgrade
+[Unity] [PrefabCreator] Added recipe: Recipe_ShardEpicUpgrade
+[Unity] [PrefabCreator] Added recipe: Recipe_ShardLegendaryUpgrade
+[Unity] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
+[Unity] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
+[Unity] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
+[Unity] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
+[Unity] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
+[Unity] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
+[Unity] [PrefabCreator] Added recipe: Recipe_EssenceRareUpgrade
+[Unity] [PrefabCreator] Added recipe: Recipe_EssenceEpicUpgrade
+[Unity] [PrefabCreator] Added recipe: Recipe_EssenceLegendaryUpgrade
+[Unity] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
+[Unity] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
+[Unity] [PrefabCreator] Added recipe: Recipe_RunestoneLegendaryUpgrade
+[Unity] [PrefabCreator] Added recipe: Recipe_MagicShardToDust_Conversion
+[Unity] [PrefabCreator] Added recipe: Recipe_MagicShardToEssence_Conversion
+[Unity] [PrefabCreator] Added recipe: Recipe_MagicShardToReagent_Conversion
+[Unity] [PrefabCreator] Added recipe: Recipe_RareShardToDust_Conversion
+[Unity] [PrefabCreator] Added recipe: Recipe_RareShardToEssence_Conversion
+[Unity] [PrefabCreator] Added recipe: Recipe_RareShardToReagent_Conversion
+[Unity] [PrefabCreator] Added recipe: Recipe_EpicShardToDust_Conversion
+[Unity] [PrefabCreator] Added recipe: Recipe_EpicShardToEssence_Conversion
+[Unity] [PrefabCreator] Added recipe: Recipe_EpicShardToReagent_Conversion
+[Unity] [PrefabCreator] Added recipe: Recipe_LegendaryShardToDust_Conversion
+[Unity] [PrefabCreator] Added recipe: Recipe_LegendaryShardToEssence_Conversion
+[Unity] [PrefabCreator] Added recipe: Recipe_LegendaryShardToReagent_Conversion
+[Unity] [PrefabCreator] Added recipe: Recipe_BoneSkeletonTrophy
+[Unity] [PrefabCreator] Added recipe: Recipe_EyeGreydwarfTrophy
+[Unity] [PrefabCreator] Added recipe: Recipe_AntlerDeerTrophy
+[Unity] [PrefabCreator] Added recipe: Recipe_HideTrollTrophy
+[Unity] [PrefabCreator] Added recipe: Recipe_CoreSurtlingTrophy
+[Unity] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
+[Unity] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
+[Unity] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
+[Unity] [PrefabCreator] Added recipe: Recipe_Lesser_Spiritual_Healing_Vial
+[Unity] [PrefabCreator] Added recipe: Recipe_Lesser_Healing_Tide_Vial
+[Unity] [PrefabCreator] Added recipe: Recipe_Lesser_Stamina_Vial
+[Unity] [PrefabCreator] Added recipe: Recipe_Medium_Healing_Tide_Flask
+[Unity] [PrefabCreator] Added recipe: Recipe_Medium_Stamina_Flask
+[Unity] [PrefabCreator] Added recipe: Recipe_Medium_Spiritual_Healing_Flask
+[Unity] [PrefabCreator] Added recipe: Recipe_Grand_Stealth_Elixir
+[Unity] [PrefabCreator] Added recipe: Recipe_Grand_Spiritual_Healing_Potion
+[Unity] [PrefabCreator] Added recipe: Recipe_Grand_Healing_Tide_Potion
+[Unity] [PrefabCreator] Added recipe: Recipe_Grand_Stamina_Elixir
+[Unity] [PrefabCreator] Added recipe: Recipe_Flask_of_Second_Wind
+[Unity] [PrefabCreator] Added recipe: Recipe_Flask_of_Magelight
+[Unity] [PrefabCreator] Added recipe: Recipe_Flask_of_Fortification
+[Unity] [PrefabCreator] Added recipe: Recipe_Flask_of_the_Gods
+[Unity] Trying to register Items
+[Unity] ObjectDB_CopyOtherDB_Patch ran
+[Unity] [RecipeHandler] Added recipe: 
+[Unity] [PrefabCreator] Skipped recipe: LeatherQuiver
+[Unity] [PrefabCreator] Added recipe: Recipe_ArrowWoodAnywhere
+[Unity] [PrefabCreator] Added recipe: Recipe_FireArrowTransform
+[Unity] [PrefabCreator] Added recipe: Recipe_PoisonArrowTransform
+[Unity] [PrefabCreator] Added recipe: Recipe_SilverArrowTransform
+[Unity] [PrefabCreator] Added recipe: Recipe_FrostArrowTransform
+[Unity] MeadBaseIconFix ObjectDB CopyOtherDb Patch Start
+[Unity] MeadBaseIconFix Updating icon for MeadBaseFrostResist
+[Unity] MeadBaseIconFix Updating icon for MeadBaseHealthMedium
+[Unity] MeadBaseIconFix Updating icon for MeadBaseHealthMinor
+[Unity] MeadBaseIconFix Updating icon for MeadBasePoisonResist
+[Unity] MeadBaseIconFix Updating icon for MeadBaseStaminaMedium
+[Unity] MeadBaseIconFix Updating icon for MeadBaseStaminaMinor
+[Unity] MeadBaseIconFix Updating icon for MeadBaseTasty
+[Unity] MeadBaseIconFix Updating icon for BarleyWineBase
+[Unity] MeadBaseIconFix ObjectDB CopyOtherDb Patch End
+[Unity] [Passive Forsaken Powers] Made GP_Bonemass status effect passive.
+[Unity] [Passive Forsaken Powers] Made GP_Eikthyr status effect passive.
+[Unity] [Passive Forsaken Powers] Made GP_Moder status effect passive.
+[Unity] [Passive Forsaken Powers] Made GP_TheElder status effect passive.
+[Unity] [Passive Forsaken Powers] Made GP_Yagluth status effect passive.
+[Unity] [PrefabCreator] Added recipe: Recipe_RaspberryJam
+[Unity] [PrefabCreator] Added recipe: Recipe_HoneyRaspberryJam
+[Unity] [PrefabCreator] Added recipe: Recipe_BlueberryJam
+[Unity] [PrefabCreator] Added recipe: Recipe_HoneyBlueberryJam
+[Unity] [PrefabCreator] Added recipe: Recipe_CloudberryJam
+[Unity] [PrefabCreator] Added recipe: Recipe_HoneyCloudberryJam
+[Unity] [PrefabCreator] Added recipe: Recipe_KingsJam
+[Unity] [PrefabCreator] Added recipe: Recipe_NordicJam
+[Unity] CustomTextures SetupObjectDB postfix
+[Unity] CustomTextures Replacing textures for 808 objects
+[Unity] CustomTextures SetupObjectDB RunTime 00:00:00.20
+[Unity] 12/17/2021 23:20:27: Failed to find item prefab RRRN_SvartalfrHeavy_Custom_SledgeStagbreaker_1
+
+[Unity] NullReferenceException: Object reference not set to an instance of an object
+[Unity] 12/17/2021 23:20:27: Failed to find item prefab RRRN_SvartalfrHeavy_Custom_SledgeStagbreaker_1
+
+[Unity] 12/17/2021 23:20:27: UI Group status changed Menu = True
+
+Initialized Legacy Input support
+Loaded modern bundle for Unity 2019.4.24f1
+UniverseLib 1.0.0 initialized.
+Setting up late core features...
+Creating UI...
+
+UnityExplorer 4.4.0 initialized.
+[Unity] 12/17/2021 23:20:32: UI Group status changed Menu = True
+
+[Unity] 12/17/2021 23:20:32: Failed to find item prefab RRRN_SvartalfrHeavy_Custom_SledgeStagbreaker_1
+
+[Unity] 12/17/2021 23:20:56: show character selection
+
+[Unity] 12/17/2021 23:21:00: OnCharacterStart
+
+[Unity] [BetterContinents] Selected world TamrielTest, applying settings
+[Unity] [BetterContinents] Time to load C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Tamriel.png: 567 ms
+[Unity] [BetterContinents] Time to process C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Tamriel.png: 277 ms
+[Unity] [BetterContinents] Time to load C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Biomes.png: 336 ms
+[Unity] [BetterContinents] Time to calculate biomes from C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Biomes.png: 1524 ms
+[Unity] [BetterContinents] Version 6
+[Unity] [BetterContinents] WorldUId 302882358
+[Unity] [BetterContinents] GlobalScale 0,9999999
+[Unity] [BetterContinents] MountainsAmount 0,5
+[Unity] [BetterContinents] SeaLevelAdjustment 0,125
+[Unity] [BetterContinents] OceanChannelsEnabled False
+[Unity] [BetterContinents] RiversEnabled False
+[Unity] [BetterContinents] DisableMapEdgeDropoff False
+[Unity] [BetterContinents] MountainsAllowedAtCenter False
+[Unity] [BetterContinents] Heightmap file C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Tamriel.png
+[Unity] [BetterContinents] Heightmap size 4096x4096, amount 0,5, blend 1, add 0, mask 0
+[Unity] [BetterContinents] Biomemap file C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Biomes.png
+[Unity] [BetterContinents] Biomemap size 4096x4096
+[Unity] [BetterContinents] Spawnmap file C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Spawn.png
+[Unity] [BetterContinents] Spawnmap includes spawns for 2 types
+[Unity] [BetterContinents] Roughmap disabled
+[Unity] [BetterContinents] Flatmap disabled
+[Unity] [BetterContinents] ForestScale 0,9999999
+[Unity] [BetterContinents] ForestAmountOffset 0
+[Unity] [BetterContinents] Forestmap disabled
+[Unity] [BetterContinents] MaxRidgeHeight 0,5
+[Unity] [BetterContinents] RidgeScale 0,9999999
+[Unity] [BetterContinents] RidgeBlendSigmoidB -30
+[Unity] [BetterContinents] RidgeBlendSigmoidXOffset 1
+[Unity] 12/17/2021 23:21:10: Loading player profile dod
+
+[Unity] CustomTextures Reloading ZoneSystem textures _GameMain _Zone
+[Unity] 12/17/2021 23:21:10: Zonesystem Awake 863
+
+[Unity] 12/17/2021 23:21:10: DungeonDB Awake 863
+
+[Unity] 12/17/2021 23:21:10: Steam initialized, persona:Macilvoy
+
+[Unity] Registered 'CL&LC ConfigSync' RPC - waiting for incoming connections
+[Unity] Registered 'randyknapp.mods.epicloot ConfigSync' RPC - waiting for incoming connections
+[Unity] Registered 'htd.armory ConfigSync' RPC - waiting for incoming connections
+[Unity] Registered 'org.bepinex.plugins.steadyregeneration ConfigSync' RPC - waiting for incoming connections
+[Unity] Registered 'GoldenJude_JudesEquipment ConfigSync' RPC - waiting for incoming connections
+[Unity] Registered 'com.alexanderstrada.rrrcore ConfigSync' RPC - waiting for incoming connections
+[Unity] Loading the eggs
+[Unity] Loading the eggs
+[Unity] Trying to register Prefabs
+[Unity] ZNetScene_Awake_Patch ran
+[Unity] Registering: RuneFocus
+[Unity] Registering: runemagic_RestoreTerrain
+[Unity] Registering: runemagic_LevelTerrain
+[Unity] Registering: runemagic_ShatteringRune
+[Unity] Registering: runemagic_BlastingRune
+[Unity] Registering: runemagic_passive_Alertness
+[Unity] Registering: runemagic_passive_BoatPropulsion
+[Unity] Registering: runemagic_passive_WaterWalking
+[Unity] Registering: runemagic_passive_Decumberance
+[Unity] Registering: runemagic_CanopyRune
+[Unity] Registering: runemagic_DryLandRune
+[Unity] Registering: runemagic_CalmWatersRune
+[Unity] Registering: runemagic_RepairRune
+[Unity] Registering: runemagic_raise
+[Unity] Registering: runemagic_lower
+[Unity] Registering: runemagic_flatten
+[Unity] Registering: runemagic_reset
+[Unity] Registering: vfx_Decumberance
+[Unity] Registering: vfx_OceanCurrents
+[Unity] Registering: runemagic_StandingStone
+[Unity] Registering: iceberg0
+[Unity] Registering: iceberg1
+[Unity] Registering: iceberg2
+[Unity] Registering: iceberg3
+[Unity] Registering: iceberg4
+[Unity] Registering: iceberg5
+[Unity] Registering: iceberg6
+[Unity] Registering: iceberg7
+[Unity] Registering: iceberg8
+[Unity] Registering: iceberg9
+[Unity] Registering: iceberg10
+[Unity] Registering: iceberg11
+[Unity] Registering: iceberg12
+[Unity] Registering: iceberg13
+[Unity] Registering: iceberg14
+[Unity] Registering: iceberg15
+[Unity] Registering: iceberg16
+[Unity] Registering: iceberg17
+[Unity] Registering: iceberg18
+[Unity] Registering: iceberg19
+[Unity] Registering: iceberg20
+[Unity] Registering: iceberg21
+[Unity] Registering: iceberg22
+[Unity] Registering: iceberg23
+[Unity] Registering: iceberg24
+[Unity] Registering: iceberg25
+[Unity] Registering: iceberg26
+[Unity] Registering: iceberg27
+[Unity] Registering: iceberg28
+[Unity] Loading the eggs
+[Unity] Loading the eggs
+[Unity] Loading the eggs
+[Unity] Loading the eggs
+[Unity] Loading the eggs
+[Unity] Loading the eggs
+[Unity] CustomTextures ZNetScene awake
+[Unity] CustomTextures Checking 2149 prefabs
+[Unity] CustomTextures ZNetScene RunTime 00:00:00.68
+[Unity] CustomTextures Reloading Environment textures
+[Unity] CustomTextures Reloading 9 Environment textures
+[Unity] CustomTextures 
+environment YggdrasilBranch, MeshRenderer branch, material yggdrasil_branch (Instance), texture yggbark_d, using texture_yggbark_d_MainTex for _MainTex.
+loading custom texture for texture_yggbark_d_MainTex 0 layers
+loading custom texture file for texture_yggbark_d_MainTex
+environment YggdrasilBranch, MeshRenderer branch, material yggdrasil_branch (Instance), texture yggbark_n, using texture_yggbark_n_BumpMap for _BumpMap.
+loading custom texture for texture_yggbark_n_BumpMap 0 layers
+loading custom texture file for texture_yggbark_n_BumpMap
+environment YggdrasilBranch, MeshRenderer branch, material yggdrasil_branch (Instance), texture yggdrasil_emissive, using texture_yggdrasil_emissive_EmissiveTex for _EmissiveTex.
+loading custom texture for texture_yggdrasil_emissive_EmissiveTex 0 layers
+loading custom texture file for texture_yggdrasil_emissive_EmissiveTex
+environment YggdrasilBranch, MeshRenderer branch, material yggdrasil_branch (Instance), texture ygg_moss, using texture_ygg_moss_MossTex for _MossTex.
+loading custom texture for texture_ygg_moss_MossTex 0 layers
+loading custom texture file for texture_ygg_moss_MossTex
+environment YggdrasilBranch, MeshRenderer branch, material yggdrasil_branch (Instance), texture yggdrasil_emissivmask, using texture_yggdrasil_emissivmask_EmissiveMaskTex for _EmissiveMaskTex.
+loading custom texture for texture_yggdrasil_emissivmask_EmissiveMaskTex 0 layers
+loading custom texture file for texture_yggdrasil_emissivmask_EmissiveMaskTex
+environment YggdrasilBranch, MeshRenderer branch, material yggdrasil_branch_leafs (Instance), texture ygg_leaf_d, using texture_ygg_leaf_d_MainTex for _MainTex.
+loading custom texture for texture_ygg_leaf_d_MainTex 0 layers
+loading custom texture file for texture_ygg_leaf_d_MainTex
+environment YggdrasilBranch, MeshRenderer branch, material yggdrasil_branch_leafs (Instance), texture ygg_leaf_n, using texture_ygg_leaf_n_BumpMap for _BumpMap.
+loading custom texture for texture_ygg_leaf_n_BumpMap 0 layers
+loading custom texture file for texture_ygg_leaf_n_BumpMap
+[Unity] getting fonts
+[Unity] got font AveriaSerifLibre-Bold
+[Unity] [PrefabCreator] Added recipe: Recipe_LeatherBelt
+[Unity] [PrefabCreator] Added recipe: Recipe_SilverRing
+[Unity] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
+[Unity] [PrefabCreator] Added recipe: Recipe_ShardRareUpgrade
+[Unity] [PrefabCreator] Added recipe: Recipe_ShardEpicUpgrade
+[Unity] [PrefabCreator] Added recipe: Recipe_ShardLegendaryUpgrade
+[Unity] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
+[Unity] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
+[Unity] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
+[Unity] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
+[Unity] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
+[Unity] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
+[Unity] [PrefabCreator] Added recipe: Recipe_EssenceRareUpgrade
+[Unity] [PrefabCreator] Added recipe: Recipe_EssenceEpicUpgrade
+[Unity] [PrefabCreator] Added recipe: Recipe_EssenceLegendaryUpgrade
+[Unity] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
+[Unity] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
+[Unity] [PrefabCreator] Added recipe: Recipe_RunestoneLegendaryUpgrade
+[Unity] [PrefabCreator] Added recipe: Recipe_MagicShardToDust_Conversion
+[Unity] [PrefabCreator] Added recipe: Recipe_MagicShardToEssence_Conversion
+[Unity] [PrefabCreator] Added recipe: Recipe_MagicShardToReagent_Conversion
+[Unity] [PrefabCreator] Added recipe: Recipe_RareShardToDust_Conversion
+[Unity] [PrefabCreator] Added recipe: Recipe_RareShardToEssence_Conversion
+[Unity] [PrefabCreator] Added recipe: Recipe_RareShardToReagent_Conversion
+[Unity] [PrefabCreator] Added recipe: Recipe_EpicShardToDust_Conversion
+[Unity] [PrefabCreator] Added recipe: Recipe_EpicShardToEssence_Conversion
+[Unity] [PrefabCreator] Added recipe: Recipe_EpicShardToReagent_Conversion
+[Unity] [PrefabCreator] Added recipe: Recipe_LegendaryShardToDust_Conversion
+[Unity] [PrefabCreator] Added recipe: Recipe_LegendaryShardToEssence_Conversion
+[Unity] [PrefabCreator] Added recipe: Recipe_LegendaryShardToReagent_Conversion
+[Unity] [PrefabCreator] Added recipe: Recipe_BoneSkeletonTrophy
+[Unity] [PrefabCreator] Added recipe: Recipe_EyeGreydwarfTrophy
+[Unity] [PrefabCreator] Added recipe: Recipe_AntlerDeerTrophy
+[Unity] [PrefabCreator] Added recipe: Recipe_HideTrollTrophy
+[Unity] [PrefabCreator] Added recipe: Recipe_CoreSurtlingTrophy
+[Unity] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
+[Unity] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
+[Unity] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
+[Unity] [PrefabCreator] Added recipe: Recipe_Lesser_Spiritual_Healing_Vial
+[Unity] [PrefabCreator] Added recipe: Recipe_Lesser_Healing_Tide_Vial
+[Unity] [PrefabCreator] Added recipe: Recipe_Lesser_Stamina_Vial
+[Unity] [PrefabCreator] Added recipe: Recipe_Medium_Healing_Tide_Flask
+[Unity] [PrefabCreator] Added recipe: Recipe_Medium_Stamina_Flask
+[Unity] [PrefabCreator] Added recipe: Recipe_Medium_Spiritual_Healing_Flask
+[Unity] [PrefabCreator] Added recipe: Recipe_Grand_Stealth_Elixir
+[Unity] [PrefabCreator] Added recipe: Recipe_Grand_Spiritual_Healing_Potion
+[Unity] [PrefabCreator] Added recipe: Recipe_Grand_Healing_Tide_Potion
+[Unity] [PrefabCreator] Added recipe: Recipe_Grand_Stamina_Elixir
+[Unity] [PrefabCreator] Added recipe: Recipe_Flask_of_Second_Wind
+[Unity] [PrefabCreator] Added recipe: Recipe_Flask_of_Magelight
+[Unity] [PrefabCreator] Added recipe: Recipe_Flask_of_Fortification
+[Unity] [PrefabCreator] Added recipe: Recipe_Flask_of_the_Gods
+[Unity] Trying to register Items
+[Unity] ObjectDB_Awake_Patch ran
+[Unity] [RecipeHandler] Added recipe: 
+[Unity] [PrefabCreator] Skipped recipe: LeatherQuiver
+[Unity] [PrefabCreator] Added recipe: Recipe_ArrowWoodAnywhere
+[Unity] [PrefabCreator] Added recipe: Recipe_FireArrowTransform
+[Unity] [PrefabCreator] Added recipe: Recipe_PoisonArrowTransform
+[Unity] [PrefabCreator] Added recipe: Recipe_SilverArrowTransform
+[Unity] [PrefabCreator] Added recipe: Recipe_FrostArrowTransform
+[Unity] MeadBaseIconFix ObjectDb Awake Patch Start
+[Unity] MeadBaseIconFix Updating icon for MeadBaseFrostResist
+[Unity] MeadBaseIconFix Updating icon for MeadBaseHealthMedium
+[Unity] MeadBaseIconFix Updating icon for MeadBaseHealthMinor
+[Unity] MeadBaseIconFix Updating icon for MeadBasePoisonResist
+[Unity] MeadBaseIconFix Updating icon for MeadBaseStaminaMedium
+[Unity] MeadBaseIconFix Updating icon for MeadBaseStaminaMinor
+[Unity] MeadBaseIconFix Updating icon for MeadBaseTasty
+[Unity] MeadBaseIconFix Updating icon for BarleyWineBase
+[Unity] MeadBaseIconFix ObjectDb Awake Patch End
+[Unity] [PrefabCreator] Added recipe: Recipe_RaspberryJam
+[Unity] [PrefabCreator] Added recipe: Recipe_HoneyRaspberryJam
+[Unity] [PrefabCreator] Added recipe: Recipe_BlueberryJam
+[Unity] [PrefabCreator] Added recipe: Recipe_HoneyBlueberryJam
+[Unity] [PrefabCreator] Added recipe: Recipe_CloudberryJam
+[Unity] [PrefabCreator] Added recipe: Recipe_HoneyCloudberryJam
+[Unity] [PrefabCreator] Added recipe: Recipe_KingsJam
+[Unity] [PrefabCreator] Added recipe: Recipe_NordicJam
+[Unity] Updated Status Effect: AoE Lesser HoT
+[Unity] Updated Status Effect: AoE HoT
+[Unity] Updated Status Effect: AoE Greater HoT
+[Unity] Updated Status Effect: AoE Lesser Regen
+[Unity] Updated Status Effect: AoE Regen
+[Unity] Updated Status Effect: AoE Greater Regen
+[Unity] Updated Status Effect: AoE Lesser Shield
+[Unity] Updated Status Effect: AoE Shield
+[Unity] Updated Status Effect: AoE Greater Shield
+[Unity] Updated Status Effect: AoE Lesser Bleeding
+[Unity] Updated Status Effect: AoE Bleeding
+[Unity] Updated Status Effect: AoE Greater Bleeding
+[Unity] Updated Status Effect: AoE Infected
+[Unity] Updated Status Effect: AoE Diseased
+[Unity] Updated Status Effect: AoE Weak
+[Unity] Updated Status Effect: AoE Bitterstump Heal
+[Unity] Updated Status Effect: AoE Skir Sandburst Nova
+[Unity] Updated Status Effect: AoE Rogue Sword
+[Unity] Updated AttackSE: SkirSandburst_Shield_DoD
+[Unity] Updated AttackSE: SkirSandburst_Heal_DoD
+[Unity] Updated AttackSE: Bitterstump_Heal_DoD
+[Unity] Updated AttackSE: Rambore_Gore_DoD
+[Unity] Updated AttackSE: Farkas_FrostBite_DoD
+[Unity] Updated AttackSE: Farkas_Hamper_Attack_DoD
+[Unity] Updated AttackSE: Farkas_Bleed_DoD
+[Unity] Updated AttackSE: Bhygshan_SprayFrost_DoD
+[Unity] Updated AttackSE: Bitterstump_SprayFrost_DoD
+[Unity] Updated AttackSE: Bhygshan_Fireball_DoD
+[Unity] Updated AttackSE: Skir_Voidbolt_Projectile_DoD
+[Unity] 12/17/2021 23:21:16: Audioman already exist, destroying self
+
+[Unity] Compass Added compass to hud
+[Unity] 12/17/2021 23:21:16: Checking for installed DLCs
+
+[Unity] 12/17/2021 23:21:16: DLC installed:1515960
+
+[Unity] 12/17/2021 23:21:16: DLC:beta installed:True
+
+[Unity] CustomTextures Clutter system awake
+[Unity] CustomTextures Checking 17 clutters
+[Unity] CustomTextures Clutter System RunTime 00:00:00.00
+[Unity] CustomTextures Starting ZoneSystem Location prefab replacement
+[Unity] CustomTextures ZoneSystem Locations RunTime 00:00:00.00
+[Unity] 12/17/2021 23:21:19: Zonesystem Start 863
+
+[Unity] ZoneSystem_Start_Patch ran
+[Unity] Skipping BossStone_Bonemass
+[Unity] Skipping BossStone_DragonQueen
+[Unity] Skipping BossStone_Yagluth
+[Unity] Skipping BossStone_TheElder
+[Unity] Skipping BossStone_Eikthyr
+[Unity] Skipping BossStone_Bonemass
+[Unity] Skipping BossStone_DragonQueen
+[Unity] Skipping BossStone_Yagluth
+[Unity] Skipping BossStone_TheElder
+[Unity] Skipping BossStone_Eikthyr
+[Unity] 12/17/2021 23:21:20: DungeonDB Start 863
+
+[Unity] 12/17/2021 23:21:20: Load world TamrielTest
+
+[Unity] 12/17/2021 23:21:20: Loading 1301107 zdos , my id 1290403847 data version:27
+
+[Unity] 12/17/2021 23:21:24: Loaded 21321 dead zdos
+
+[Unity] 12/17/2021 23:21:24: Removed 0 OLD generated ZDOS
+
+[Unity] 12/17/2021 23:21:24: Loaded 6459 locations
+
+[Unity] 12/17/2021 23:21:25: Starting respawn
+
+[Unity] GetZoomSens: 10
+[Unity] 12/17/2021 23:21:28: tip:$loadscreen_tip04
+
+[Unity] 12/17/2021 23:21:31: Vis equip model set to 1
+
+[Unity] 12/17/2021 23:21:32: Vis equip model set to 1
+
+[Unity] 12/17/2021 23:21:36: Spawned after 8,019994
+
+[Unity] Caching server config
+[Unity] Sending server config to 0 clients
+[Unity] Caching server config
+[Unity] Sending server config to 0 clients
+[Unity] 12/17/2021 23:21:36: Minimap: Adding unique location (369.1, 47.4, -97.4)
+
+[Unity] 12/17/2021 23:21:36: Minimap: Adding unique location (-253.0, 61.2, 3311.4)
+
+[Unity] Compass scale 1 1080 50
+[Unity] 12/17/2021 23:21:38: Resumed music meadows at 0
+
+[Unity] Caching server config
+[Unity] Sending server config to 0 clients
+[Unity] 12/17/2021 23:21:55: UI Group status changed MenuRoot = True
+
+[Unity] 12/17/2021 23:21:57: UI Group status changed MenuRoot = False
+
+[Unity] 12/17/2021 23:21:59: Game - OnApplicationQuit
+
+[Unity] 12/17/2021 23:21:59: Shuting down
+
+[Unity] 12/17/2021 23:21:59: ZNet Shutdown
+
+[Unity] 12/17/2021 23:22:01: clone 2333
+
+[Unity] 12/17/2021 23:22:04: Sending disconnect msg
+
+[Unity] 12/17/2021 23:22:06: Steam manager on destroy
+
+[Unity] 12/17/2021 23:22:06: FOund selected ButtonYes
+
+[Unity] 12/17/2021 23:22:06: ZNet OnDestroy
+
+[Unity] 12/17/2021 23:22:06: Net scene destroyed
+
+[Unity] 12/17/2021 23:22:07: Local player destroyed
+
+[Unity] Compass Destroying plugin
+[Unity] Crafting Skill UnPatched!
+[Unity] Fishing Skill UnPatched!
+[Unity] Hunting Skill UnPatched!
+[Unity] Overhauls UnPatched!
+[Unity] Sailing Skill UnPatched!
+[Unity] Strength Skill UnPatched!
+[Unity] Taming Skill UnPatched!
+[Unity] Vitality Skill UnPatched!

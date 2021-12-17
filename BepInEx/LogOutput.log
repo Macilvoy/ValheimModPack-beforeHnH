@@ -29,7 +29,8 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 107 plugins to load
+[Info   :   BepInEx] 111 plugins to load
+[Warning:   BepInEx] Plugin [UnityExplorer 4.4.0] targets a wrong version of BepInEx (5.4.16.0) and might not work until you update
 [Info   :   BepInEx] Loading [This Goes Here 1.1.0]
 [Info   :   BepInEx] Loading [serverblankpassword 1.0.0.0]
 [Info   :   BepInEx] Loading [PlantEverything 1.8.0]
@@ -46,25 +47,25 @@
 [Info   :Custom Raids] Loading configurations...
 [Info   :   BepInEx] Loading [RagnarsRökare Mob AI 0.3.2]
 [Info   :   BepInEx] Loading [Creature Level & Loot Control 4.4.1]
-[Info   : Unity Log] 12/15/2021 21:14:09: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 12/18/2021 00:11:59: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 12/15/2021 21:14:09: Failed to load language file localization_extra
+[Info   : Unity Log] 12/18/2021 00:11:59: Failed to load language file localization_extra
 
-[Info   : Unity Log] 12/15/2021 21:14:09: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 12/18/2021 00:11:59: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 12/15/2021 21:14:09: Failed to load language file localization_extra
+[Info   : Unity Log] 12/18/2021 00:11:59: Failed to load language file localization_extra
 
-[Info   : Unity Log] 12/15/2021 21:14:09: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 12/18/2021 00:11:59: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 12/15/2021 21:14:09: Failed to load language file localization_extra
+[Info   : Unity Log] 12/18/2021 00:11:59: Failed to load language file localization_extra
 
-[Info   : Unity Log] 12/15/2021 21:14:09: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 12/18/2021 00:11:59: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 12/15/2021 21:14:09: Failed to load language file localization_extra
+[Info   : Unity Log] 12/18/2021 00:11:59: Failed to load language file localization_extra
 
-[Info   : Unity Log] 12/15/2021 21:14:09: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 12/18/2021 00:11:59: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 12/15/2021 21:14:09: Failed to load language file localization_extra
+[Info   : Unity Log] 12/18/2021 00:11:59: Failed to load language file localization_extra
 
 [Info   :   BepInEx] Loading [Project Auga 1.0.3]
 [Info   :   BepInEx] Loading [Extended Item Data Framework 1.0.3]
@@ -103,6 +104,11 @@
 [Info   :   BepInEx] Loading [BoneAppetit 3.0.2]
 [Message:Boneappetit.BoneAppetit] Prepping Kitchen...
 [Message:Boneappetit.BoneAppetit] Big thanks to MeatwareMonster!
+[Info   :   BepInEx] Loading [UnityExplorer 4.4.0]
+[Message:UnityExplorer] UnityExplorer 4.4.0 initializing...
+[Message:UnityExplorer] Cached AppDomain assemblies in 0,4223537 seconds
+[Message:UnityExplorer] Finished core setup, waiting for delayed setup...
+[Message:UnityExplorer] Finished core setup, waiting for late setup...
 [Info   :   BepInEx] Loading [SkToolbox 1.10.4.0]
 [Info   :   BepInEx] Loading [Skills Give More Carry Weight 1.0.3]
 [Info   :Skills Give More Carry Weight] Trying to load configuration
@@ -112,6 +118,8 @@
 [Info   :   BepInEx] Loading [DeathIconUpdate 1.0.0]
 [Info   :   BepInEx] Loading [Crawler 0.0.7]
 [Info   : Unity Log] Loading Nasty Crawler
+[Message:UnityExplorer] [Unity] Loading Nasty Crawler
+[Info   :   BepInEx] Loading [Dig Deeper 1.1.0.0]
 [Info   :   BepInEx] Loading [MonsterLabZ 1.7.0]
 [Info   :   BepInEx] Loading [Digitalroot EpicLoot Adventure Bounties 2.0.7]
 [Info   :   BepInEx] Loading [DoD Assets 0.4]
@@ -119,107 +127,202 @@
 [Info   :   BepInEx] Loading [BlacksmithTools 2.0.1]
 [Info   :   BepInEx] Loading [combatFrontFacing 1.0.0.0]
 [Info   : Unity Log] loaded combatFrontFacing
+[Message:UnityExplorer] [Unity] loaded combatFrontFacing
 [Info   :   BepInEx] Loading [JudesEquipment 1.4.0]
 [Info   :   BepInEx] Loading [Golem 0.0.7]
 [Info   : Unity Log] Loading Golem
+[Message:UnityExplorer] [Unity] Loading Golem
 [Info   :   BepInEx] Loading [Potions 1.1.0]
 [Info   :   BepInEx] Loading [Reduce Wolf Howl 0.1.0]
 [Info   :   BepInEx] Loading [DoOrDieMonsters 0.3.4]
 [Info   : Unity Log] Loading AoENomad
+[Message:UnityExplorer] [Unity] Loading AoENomad
 [Info   : Unity Log] Loading AoEAuraFrost
+[Message:UnityExplorer] [Unity] Loading AoEAuraFrost
 [Info   : Unity Log] Loading AoEAuraShadow
+[Message:UnityExplorer] [Unity] Loading AoEAuraShadow
 [Info   : Unity Log] Loading AoEAuraFire
+[Message:UnityExplorer] [Unity] Loading AoEAuraFire
 [Info   : Unity Log] Loading AoEAuraStorm
+[Message:UnityExplorer] [Unity] Loading AoEAuraStorm
 [Info   :   BepInEx] Loading [Hugo's Armory 5.0.0]
 [Info   :   BepInEx] Loading [RuneMagic 1.0.5]
 [Info   : Unity Log] Resources ValheimMod.testitem,ValheimMod.Resources.runemagic_server_config.cfg,ValheimMod.Resources.runemagic_player_config.cfg,ValheimMod.Resources.runemagic_internal_config.cfg
+[Message:UnityExplorer] [Unity] Resources ValheimMod.testitem,ValheimMod.Resources.runemagic_server_config.cfg,ValheimMod.Resources.runemagic_player_config.cfg,ValheimMod.Resources.runemagic_internal_config.cfg
 [Info   : Unity Log] Registering Item: RuneFocus: RuneFocus (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering Item: RuneFocus: RuneFocus (UnityEngine.GameObject)
 [Info   : Unity Log] Registering: runemagic_RestoreTerrain: runemagic_RestoreTerrain (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: runemagic_RestoreTerrain: runemagic_RestoreTerrain (UnityEngine.GameObject)
 [Info   : Unity Log] Registering: runemagic_LevelTerrain: runemagic_LevelTerrain (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: runemagic_LevelTerrain: runemagic_LevelTerrain (UnityEngine.GameObject)
 [Info   : Unity Log] Registering: runemagic_ShatteringRune: runemagic_ShatteringRune (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: runemagic_ShatteringRune: runemagic_ShatteringRune (UnityEngine.GameObject)
 [Info   : Unity Log] Registering: runemagic_BlastingRune: runemagic_BlastingRune (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: runemagic_BlastingRune: runemagic_BlastingRune (UnityEngine.GameObject)
 [Info   : Unity Log] Registering: runemagic_passive_Alertness: runemagic_passive_Alertness (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: runemagic_passive_Alertness: runemagic_passive_Alertness (UnityEngine.GameObject)
 [Info   : Unity Log] Registering: runemagic_passive_BoatPropulsion: runemagic_passive_BoatPropulsion (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: runemagic_passive_BoatPropulsion: runemagic_passive_BoatPropulsion (UnityEngine.GameObject)
 [Info   : Unity Log] Registering: runemagic_passive_WaterWalking: runemagic_passive_WaterWalking (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: runemagic_passive_WaterWalking: runemagic_passive_WaterWalking (UnityEngine.GameObject)
 [Info   : Unity Log] Registering: runemagic_passive_Decumberance: runemagic_passive_Decumberance (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: runemagic_passive_Decumberance: runemagic_passive_Decumberance (UnityEngine.GameObject)
 [Info   : Unity Log] Registering: runemagic_CanopyRune: runemagic_CanopyRune (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: runemagic_CanopyRune: runemagic_CanopyRune (UnityEngine.GameObject)
 [Info   : Unity Log] Registering: runemagic_DryLandRune: runemagic_DryLandRune (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: runemagic_DryLandRune: runemagic_DryLandRune (UnityEngine.GameObject)
 [Info   : Unity Log] Registering: runemagic_CalmWatersRune: runemagic_CalmWatersRune (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: runemagic_CalmWatersRune: runemagic_CalmWatersRune (UnityEngine.GameObject)
 [Info   : Unity Log] Registering: runemagic_RepairRune: runemagic_RepairRune (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: runemagic_RepairRune: runemagic_RepairRune (UnityEngine.GameObject)
 [Info   : Unity Log] Registering: runemagic_raise: runemagic_raise (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: runemagic_raise: runemagic_raise (UnityEngine.GameObject)
 [Info   : Unity Log] Registering: runemagic_lower: runemagic_lower (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: runemagic_lower: runemagic_lower (UnityEngine.GameObject)
 [Info   : Unity Log] Registering: runemagic_flatten: runemagic_flatten (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: runemagic_flatten: runemagic_flatten (UnityEngine.GameObject)
 [Info   : Unity Log] Registering: runemagic_reset: runemagic_reset (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: runemagic_reset: runemagic_reset (UnityEngine.GameObject)
 [Info   : Unity Log] Registering: vfx_Decumberance: vfx_Decumberance (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: vfx_Decumberance: vfx_Decumberance (UnityEngine.GameObject)
 [Info   : Unity Log] Registering: vfx_OceanCurrents: vfx_OceanCurrents (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: vfx_OceanCurrents: vfx_OceanCurrents (UnityEngine.GameObject)
 [Info   : Unity Log] Registering status effect: Rune of Frozen Footsteps
+[Message:UnityExplorer] [Unity] Registering status effect: Rune of Frozen Footsteps
 [Info   : Unity Log] Registering status effect: Rune of Decumberance
+[Message:UnityExplorer] [Unity] Registering status effect: Rune of Decumberance
 [Info   : Unity Log] Registering status effect: Rune of Alertness
+[Message:UnityExplorer] [Unity] Registering status effect: Rune of Alertness
 [Info   : Unity Log] Registering status effect: Rune of Ocean Currents
+[Message:UnityExplorer] [Unity] Registering status effect: Rune of Ocean Currents
 [Info   : Unity Log] Reloading Standard shader on GameObject runemagic_StandingStone
+[Message:UnityExplorer] [Unity] Reloading Standard shader on GameObject runemagic_StandingStone
 [Info   : Unity Log] Registering: runemagic_StandingStone: runemagic_StandingStone (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: runemagic_StandingStone: runemagic_StandingStone (UnityEngine.GameObject)
 [Info   : Unity Log] Registering recipe for item: RuneFocus
+[Message:UnityExplorer] [Unity] Registering recipe for item: RuneFocus
 [Info   : Unity Log] Registering recipe for prefab: runemagic_StandingStone
+[Message:UnityExplorer] [Unity] Registering recipe for prefab: runemagic_StandingStone
 [Info   : Unity Log] Reloading Standard shader on GameObject iceberg0
+[Message:UnityExplorer] [Unity] Reloading Standard shader on GameObject iceberg0
 [Info   : Unity Log] Registering: iceberg0: iceberg0 (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: iceberg0: iceberg0 (UnityEngine.GameObject)
 [Info   : Unity Log] Reloading Standard shader on GameObject iceberg1
+[Message:UnityExplorer] [Unity] Reloading Standard shader on GameObject iceberg1
 [Info   : Unity Log] Registering: iceberg1: iceberg1 (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: iceberg1: iceberg1 (UnityEngine.GameObject)
 [Info   : Unity Log] Reloading Standard shader on GameObject iceberg2
+[Message:UnityExplorer] [Unity] Reloading Standard shader on GameObject iceberg2
 [Info   : Unity Log] Registering: iceberg2: iceberg2 (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: iceberg2: iceberg2 (UnityEngine.GameObject)
 [Info   : Unity Log] Reloading Standard shader on GameObject iceberg3
+[Message:UnityExplorer] [Unity] Reloading Standard shader on GameObject iceberg3
 [Info   : Unity Log] Registering: iceberg3: iceberg3 (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: iceberg3: iceberg3 (UnityEngine.GameObject)
 [Info   : Unity Log] Reloading Standard shader on GameObject iceberg4
+[Message:UnityExplorer] [Unity] Reloading Standard shader on GameObject iceberg4
 [Info   : Unity Log] Registering: iceberg4: iceberg4 (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: iceberg4: iceberg4 (UnityEngine.GameObject)
 [Info   : Unity Log] Reloading Standard shader on GameObject iceberg5
+[Message:UnityExplorer] [Unity] Reloading Standard shader on GameObject iceberg5
 [Info   : Unity Log] Registering: iceberg5: iceberg5 (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: iceberg5: iceberg5 (UnityEngine.GameObject)
 [Info   : Unity Log] Reloading Standard shader on GameObject iceberg6
+[Message:UnityExplorer] [Unity] Reloading Standard shader on GameObject iceberg6
 [Info   : Unity Log] Registering: iceberg6: iceberg6 (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: iceberg6: iceberg6 (UnityEngine.GameObject)
 [Info   : Unity Log] Reloading Standard shader on GameObject iceberg7
+[Message:UnityExplorer] [Unity] Reloading Standard shader on GameObject iceberg7
 [Info   : Unity Log] Registering: iceberg7: iceberg7 (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: iceberg7: iceberg7 (UnityEngine.GameObject)
 [Info   : Unity Log] Reloading Standard shader on GameObject iceberg8
+[Message:UnityExplorer] [Unity] Reloading Standard shader on GameObject iceberg8
 [Info   : Unity Log] Registering: iceberg8: iceberg8 (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: iceberg8: iceberg8 (UnityEngine.GameObject)
 [Info   : Unity Log] Reloading Standard shader on GameObject iceberg9
+[Message:UnityExplorer] [Unity] Reloading Standard shader on GameObject iceberg9
 [Info   : Unity Log] Registering: iceberg9: iceberg9 (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: iceberg9: iceberg9 (UnityEngine.GameObject)
 [Info   : Unity Log] Reloading Standard shader on GameObject iceberg10
+[Message:UnityExplorer] [Unity] Reloading Standard shader on GameObject iceberg10
 [Info   : Unity Log] Registering: iceberg10: iceberg10 (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: iceberg10: iceberg10 (UnityEngine.GameObject)
 [Info   : Unity Log] Reloading Standard shader on GameObject iceberg11
+[Message:UnityExplorer] [Unity] Reloading Standard shader on GameObject iceberg11
 [Info   : Unity Log] Registering: iceberg11: iceberg11 (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: iceberg11: iceberg11 (UnityEngine.GameObject)
 [Info   : Unity Log] Reloading Standard shader on GameObject iceberg12
+[Message:UnityExplorer] [Unity] Reloading Standard shader on GameObject iceberg12
 [Info   : Unity Log] Registering: iceberg12: iceberg12 (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: iceberg12: iceberg12 (UnityEngine.GameObject)
 [Info   : Unity Log] Reloading Standard shader on GameObject iceberg13
+[Message:UnityExplorer] [Unity] Reloading Standard shader on GameObject iceberg13
 [Info   : Unity Log] Registering: iceberg13: iceberg13 (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: iceberg13: iceberg13 (UnityEngine.GameObject)
 [Info   : Unity Log] Reloading Standard shader on GameObject iceberg14
+[Message:UnityExplorer] [Unity] Reloading Standard shader on GameObject iceberg14
 [Info   : Unity Log] Registering: iceberg14: iceberg14 (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: iceberg14: iceberg14 (UnityEngine.GameObject)
 [Info   : Unity Log] Reloading Standard shader on GameObject iceberg15
+[Message:UnityExplorer] [Unity] Reloading Standard shader on GameObject iceberg15
 [Info   : Unity Log] Registering: iceberg15: iceberg15 (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: iceberg15: iceberg15 (UnityEngine.GameObject)
 [Info   : Unity Log] Reloading Standard shader on GameObject iceberg16
+[Message:UnityExplorer] [Unity] Reloading Standard shader on GameObject iceberg16
 [Info   : Unity Log] Registering: iceberg16: iceberg16 (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: iceberg16: iceberg16 (UnityEngine.GameObject)
 [Info   : Unity Log] Reloading Standard shader on GameObject iceberg17
+[Message:UnityExplorer] [Unity] Reloading Standard shader on GameObject iceberg17
 [Info   : Unity Log] Registering: iceberg17: iceberg17 (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: iceberg17: iceberg17 (UnityEngine.GameObject)
 [Info   : Unity Log] Reloading Standard shader on GameObject iceberg18
+[Message:UnityExplorer] [Unity] Reloading Standard shader on GameObject iceberg18
 [Info   : Unity Log] Registering: iceberg18: iceberg18 (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: iceberg18: iceberg18 (UnityEngine.GameObject)
 [Info   : Unity Log] Reloading Standard shader on GameObject iceberg19
+[Message:UnityExplorer] [Unity] Reloading Standard shader on GameObject iceberg19
 [Info   : Unity Log] Registering: iceberg19: iceberg19 (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: iceberg19: iceberg19 (UnityEngine.GameObject)
 [Info   : Unity Log] Reloading Standard shader on GameObject iceberg20
+[Message:UnityExplorer] [Unity] Reloading Standard shader on GameObject iceberg20
 [Info   : Unity Log] Registering: iceberg20: iceberg20 (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: iceberg20: iceberg20 (UnityEngine.GameObject)
 [Info   : Unity Log] Reloading Standard shader on GameObject iceberg21
+[Message:UnityExplorer] [Unity] Reloading Standard shader on GameObject iceberg21
 [Info   : Unity Log] Registering: iceberg21: iceberg21 (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: iceberg21: iceberg21 (UnityEngine.GameObject)
 [Info   : Unity Log] Reloading Standard shader on GameObject iceberg22
+[Message:UnityExplorer] [Unity] Reloading Standard shader on GameObject iceberg22
 [Info   : Unity Log] Registering: iceberg22: iceberg22 (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: iceberg22: iceberg22 (UnityEngine.GameObject)
 [Info   : Unity Log] Reloading Standard shader on GameObject iceberg23
+[Message:UnityExplorer] [Unity] Reloading Standard shader on GameObject iceberg23
 [Info   : Unity Log] Registering: iceberg23: iceberg23 (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: iceberg23: iceberg23 (UnityEngine.GameObject)
 [Info   : Unity Log] Reloading Standard shader on GameObject iceberg24
+[Message:UnityExplorer] [Unity] Reloading Standard shader on GameObject iceberg24
 [Info   : Unity Log] Registering: iceberg24: iceberg24 (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: iceberg24: iceberg24 (UnityEngine.GameObject)
 [Info   : Unity Log] Reloading Standard shader on GameObject iceberg25
+[Message:UnityExplorer] [Unity] Reloading Standard shader on GameObject iceberg25
 [Info   : Unity Log] Registering: iceberg25: iceberg25 (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: iceberg25: iceberg25 (UnityEngine.GameObject)
 [Info   : Unity Log] Reloading Standard shader on GameObject iceberg26
+[Message:UnityExplorer] [Unity] Reloading Standard shader on GameObject iceberg26
 [Info   : Unity Log] Registering: iceberg26: iceberg26 (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: iceberg26: iceberg26 (UnityEngine.GameObject)
 [Info   : Unity Log] Reloading Standard shader on GameObject iceberg27
+[Message:UnityExplorer] [Unity] Reloading Standard shader on GameObject iceberg27
 [Info   : Unity Log] Registering: iceberg27: iceberg27 (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: iceberg27: iceberg27 (UnityEngine.GameObject)
 [Info   : Unity Log] Reloading Standard shader on GameObject iceberg28
+[Message:UnityExplorer] [Unity] Reloading Standard shader on GameObject iceberg28
 [Info   : Unity Log] Registering: iceberg28: iceberg28 (UnityEngine.GameObject)
+[Message:UnityExplorer] [Unity] Registering: iceberg28: iceberg28 (UnityEngine.GameObject)
 [Info   : Unity Log] Calculated centers for 29 icebergs
+[Message:UnityExplorer] [Unity] Calculated centers for 29 icebergs
 [Info   :   BepInEx] Loading [Better Archery 1.6.2]
+[Info   :   BepInEx] Loading [No Roof Workbench 1.0.0]
 [Info   :   BepInEx] Loading [Keezy's Better Wolves 0.2.1.0]
 [Info   :   BepInEx] Loading [Mount Up 2.0.3]
 [Info   :   BepInEx] Loading [MagicOverhaul 1.3.0]
@@ -235,68 +338,124 @@
 [Info   :   BepInEx] Loading [MoreSkills 0.1.9.2]
 [Info   :   BepInEx] Loading [MoreSkills: Crafting 0.0.3]
 [Info   : Unity Log] Loading All MoreSkills Configs. Please, wait a moment...
+[Message:UnityExplorer] [Unity] Loading All MoreSkills Configs. Please, wait a moment...
 [Info   : Unity Log] Loading CraftingSkill
+[Message:UnityExplorer] [Unity] Loading CraftingSkill
 [Info   : Unity Log] Crafting Skill Patched!
+[Message:UnityExplorer] [Unity] Crafting Skill Patched!
 [Warning: Unity Log] [MoreSkills]: Crafting Mod Disabled
+[Warning:UnityExplorer] [Unity] [MoreSkills]: Crafting Mod Disabled
 [Info   : Unity Log] Crafting Skill Loaded!
+[Message:UnityExplorer] [Unity] Crafting Skill Loaded!
 [Info   :   BepInEx] Loading [MoreSkills: Fishing 0.0.1]
 [Info   : Unity Log] Loading Fishing Skill...
+[Message:UnityExplorer] [Unity] Loading Fishing Skill...
 [Info   : Unity Log] Fishing Skill Patched!
+[Message:UnityExplorer] [Unity] Fishing Skill Patched!
 [Info   : Unity Log] [MoreSkills] Fishing Skill Enabled
+[Message:UnityExplorer] [Unity] [MoreSkills] Fishing Skill Enabled
 [Info   : Unity Log] [MoreSkills] Fishing/Fish Stack Amount  Mod Enabled
+[Message:UnityExplorer] [Unity] [MoreSkills] Fishing/Fish Stack Amount  Mod Enabled
 [Info   : Unity Log] [MoreSkills]Fishing/Fish Base Hook Chance Mod Enabled
+[Message:UnityExplorer] [Unity] [MoreSkills]Fishing/Fish Base Hook Chance Mod Enabled
 [Info   : Unity Log] [MoreSkills]Fishing/Variety Mod Enabled
+[Message:UnityExplorer] [Unity] [MoreSkills]Fishing/Variety Mod Enabled
 [Info   : Unity Log] [MoreSkills]Fishing/Stamina Drain Decrease Mod Enabled
+[Message:UnityExplorer] [Unity] [MoreSkills]Fishing/Stamina Drain Decrease Mod Enabled
 [Info   : Unity Log] Fishing Skill Loaded!
+[Message:UnityExplorer] [Unity] Fishing Skill Loaded!
 [Info   :   BepInEx] Loading [MoreSkills: Hunting 0.0.5]
 [Info   : Unity Log] Loading Hunting Skill...
+[Message:UnityExplorer] [Unity] Loading Hunting Skill...
 [Info   : Unity Log] Hunting Skill Patched!
+[Message:UnityExplorer] [Unity] Hunting Skill Patched!
 [Warning: Unity Log] [MoreSkills]: Hunting Skill Mod Disabled
+[Warning:UnityExplorer] [Unity] [MoreSkills]: Hunting Skill Mod Disabled
 [Info   : Unity Log] Hunting Skill Loaded!
+[Message:UnityExplorer] [Unity] Hunting Skill Loaded!
 [Info   :   BepInEx] Loading [MoreSkills: Overhauls 0.0.7]
 [Info   : Unity Log] Loading All Overhauls...
+[Message:UnityExplorer] [Unity] Loading All Overhauls...
 [Info   : Unity Log] Overhauls Patched!
+[Message:UnityExplorer] [Unity] Overhauls Patched!
 [Info   : Unity Log] [MoreSkills]: Crouch Mod Enabled
+[Message:UnityExplorer] [Unity] [MoreSkills]: Crouch Mod Enabled
 [Info   : Unity Log] [MoreSkills]: Swim Mod Enabled
+[Message:UnityExplorer] [Unity] [MoreSkills]: Swim Mod Enabled
 [Info   : Unity Log] [MoreSkills]: Swim/Speed Mod Enabled
+[Message:UnityExplorer] [Unity] [MoreSkills]: Swim/Speed Mod Enabled
 [Info   : Unity Log] [MoreSkills]: Swim/Stamina Mod Enabled
+[Message:UnityExplorer] [Unity] [MoreSkills]: Swim/Stamina Mod Enabled
 [Warning: Unity Log] [MoreSkills]: Pickaxe Drop Mod Disabled
+[Warning:UnityExplorer] [Unity] [MoreSkills]: Pickaxe Drop Mod Disabled
 [Warning: Unity Log] [MoreSkills]: WoodCutting Drop Mod Disabled
+[Warning:UnityExplorer] [Unity] [MoreSkills]: WoodCutting Drop Mod Disabled
 [Info   : Unity Log] [MoreSkills]: Jump Mod Enabled
+[Message:UnityExplorer] [Unity] [MoreSkills]: Jump Mod Enabled
 [Info   : Unity Log] [MoreSkills]: Jump/Higher Mod Enabled
+[Message:UnityExplorer] [Unity] [MoreSkills]: Jump/Higher Mod Enabled
 [Info   : Unity Log] [MoreSkills]: Jump/Decreased Fall Damage Mod Enabled
+[Message:UnityExplorer] [Unity] [MoreSkills]: Jump/Decreased Fall Damage Mod Enabled
 [Info   : Unity Log] [MoreSkills]: Jump/Need to Shift for Higher Jump Mod Enabled
+[Message:UnityExplorer] [Unity] [MoreSkills]: Jump/Need to Shift for Higher Jump Mod Enabled
 [Info   : Unity Log] [MoreSkills]: Jump/Roll On Fall Mod Enabled
+[Message:UnityExplorer] [Unity] [MoreSkills]: Jump/Roll On Fall Mod Enabled
 [Info   : Unity Log] [MoreSkills]: Jump/Max Fall Altitude Mod Enabled
+[Message:UnityExplorer] [Unity] [MoreSkills]: Jump/Max Fall Altitude Mod Enabled
 [Info   : Unity Log] All Overhauls Loaded!
+[Message:UnityExplorer] [Unity] All Overhauls Loaded!
 [Info   :   BepInEx] Loading [MoreSkills: Sailing 0.0.1]
 [Info   : Unity Log] Loading Sailing Skill...
+[Message:UnityExplorer] [Unity] Loading Sailing Skill...
 [Info   : Unity Log] Sailing Skill Patched!
+[Message:UnityExplorer] [Unity] Sailing Skill Patched!
 [Info   : Unity Log] [MoreSkills] Mod Enabled
+[Message:UnityExplorer] [Unity] [MoreSkills] Mod Enabled
 [Info   : Unity Log] [MoreSkills]Sailing/Ship Acceleration Mod Enabled
+[Message:UnityExplorer] [Unity] [MoreSkills]Sailing/Ship Acceleration Mod Enabled
 [Info   : Unity Log] [MoreSkills]Sailing/CrewMates Mod Enabled
+[Message:UnityExplorer] [Unity] [MoreSkills]Sailing/CrewMates Mod Enabled
 [Info   : Unity Log] Sailing Skill Loaded!
+[Message:UnityExplorer] [Unity] Sailing Skill Loaded!
 [Info   :   BepInEx] Loading [MoreSkills: Strength 0.0.3]
 [Info   : Unity Log] Loading Strength Skill...
+[Message:UnityExplorer] [Unity] Loading Strength Skill...
 [Info   : Unity Log] Strength Skill Patched!
+[Message:UnityExplorer] [Unity] Strength Skill Patched!
 [Warning: Unity Log] [MoreSkills] Strength Skill Disabled
+[Warning:UnityExplorer] [Unity] [MoreSkills] Strength Skill Disabled
 [Info   : Unity Log] Strength Skill Loaded!
+[Message:UnityExplorer] [Unity] Strength Skill Loaded!
 [Info   :   BepInEx] Loading [MoreSkills: Taming 0.0.6]
 [Info   : Unity Log] Loading Taming Skill...
+[Message:UnityExplorer] [Unity] Loading Taming Skill...
 [Info   : Unity Log] Taming Skill Patched!
+[Message:UnityExplorer] [Unity] Taming Skill Patched!
 [Info   : Unity Log] [MoreSkills] Skill Mod Enabled
+[Message:UnityExplorer] [Unity] [MoreSkills] Skill Mod Enabled
 [Warning: Unity Log] [MoreSkills]Taming/AllTamableCompatibility Disabled
+[Warning:UnityExplorer] [Unity] [MoreSkills]Taming/AllTamableCompatibility Disabled
 [Error  : Unity Log] [MoreSkills]: IF YOU HAVE ALLTAMABLECOMPATIBILTY (by buzz) INSTALLED, I WOULD RECOMMEND ACTIVATING THIS IN THE CONFIG, OTHERWISE EVERYTHING IS OKAY :D
+[Error  :UnityExplorer] [Unity] [MoreSkills]: IF YOU HAVE ALLTAMABLECOMPATIBILTY (by buzz) INSTALLED, I WOULD RECOMMEND ACTIVATING THIS IN THE CONFIG, OTHERWISE EVERYTHING IS OKAY :D
 [Info   : Unity Log] [MoreSkills]Taming/Unlocks Mod Enabled
+[Message:UnityExplorer] [Unity] [MoreSkills]Taming/Unlocks Mod Enabled
 [Info   : Unity Log] [MoreSkills]Taming/Time Mod Enabled
+[Message:UnityExplorer] [Unity] [MoreSkills]Taming/Time Mod Enabled
 [Info   : Unity Log] [MoreSkills]Taming/Eat Mod Enabled
+[Message:UnityExplorer] [Unity] [MoreSkills]Taming/Eat Mod Enabled
 [Info   : Unity Log] Taming Skill Loaded!
+[Message:UnityExplorer] [Unity] Taming Skill Loaded!
 [Info   :   BepInEx] Loading [MoreSkills: Vitality 0.0.3]
 [Info   : Unity Log] Loading Vitality...
+[Message:UnityExplorer] [Unity] Loading Vitality...
 [Info   : Unity Log] Vitality Skill Patched!
+[Message:UnityExplorer] [Unity] Vitality Skill Patched!
 [Info   : Unity Log] [MoreSkills]: Health Mod Enabled
+[Message:UnityExplorer] [Unity] [MoreSkills]: Health Mod Enabled
 [Info   : Unity Log] Vitality Loaded!
+[Message:UnityExplorer] [Unity] Vitality Loaded!
 [Info   : Unity Log] Everything is Loaded. Hope you love the mod :D
+[Message:UnityExplorer] [Unity] Everything is Loaded. Hope you love the mod :D
 [Info   :   BepInEx] Loading [QuickConnect 1.4.0]
 [Info   :   BepInEx] Loading [BiggerPickupRadius 1.1.3]
 [Info   :BiggerPickupRadius] BiggerPickupRadius loaded.
@@ -330,88 +489,152 @@
 [Info   :   BepInEx] Loading [Sailing Overhaul 1.0.1]
 [Info   :   BepInEx] Loading [TeleportActivationDistanceFix 1.0.2]
 [Info   : Unity Log] Starting loading mod - TeleportActivationDistanceFix
+[Message:UnityExplorer] [Unity] Starting loading mod - TeleportActivationDistanceFix
 [Info   : Unity Log] Finish loading mod - TeleportActivationDistanceFix
+[Message:UnityExplorer] [Unity] Finish loading mod - TeleportActivationDistanceFix
 [Info   :   BepInEx] Loading [Show Plant Progress 1.4.0]
 [Info   :   BepInEx] Loading [Friendlies 0.0.8]
 [Info   :   BepInEx] Loading [FriendliesAI 0.0.8]
 [Warning: Unity Log] MobController:RagnarsRokare.MobAI.SorterAI
+[Warning:UnityExplorer] [Unity] MobController:RagnarsRokare.MobAI.SorterAI
 [Warning: Unity Log] MobController:RagnarsRokare.MobAI.FixerAI
+[Warning:UnityExplorer] [Unity] MobController:RagnarsRokare.MobAI.FixerAI
 [Warning: Unity Log] MobController:RagnarsRokare.MobAI.WorkerAI
+[Warning:UnityExplorer] [Unity] MobController:RagnarsRokare.MobAI.WorkerAI
 [Warning: Unity Log] MobController:RagnarsRokare.MobAI.Mobs.ExampleAI
+[Warning:UnityExplorer] [Unity] MobController:RagnarsRokare.MobAI.Mobs.ExampleAI
 [Info   : Unity Log] Null
+[Message:UnityExplorer] [Unity] Null
 [Info   :   BepInEx] Loading [FriendliesAssets 0.0.8]
 [Info   :   BepInEx] Loading [BlackMetalOverhaul 0.6.2.0]
 [Info   :   BepInEx] Loading [TrollArmorRework 1.3.0.0]
 [Info   :   BepInEx] Loading [Teleporter Title 0.1.0.0]
 [Info   :   BepInEx] Loading [Hold Attack 0.4.2]
 [Info   :   BepInEx] Loading [Teleport Wolves 0.2.2]
+[Info   :   BepInEx] Loading [MerchantFinder 1.0]
 [Info   :   BepInEx] Loading [WendigoMonsterZZ 0.0.7]
 [Info   : Unity Log] Loading Wendigo1
+[Message:UnityExplorer] [Unity] Loading Wendigo1
 [Info   : Unity Log] Loading Wendigo2
+[Message:UnityExplorer] [Unity] Loading Wendigo2
 [Info   :   BepInEx] Loading [WereBearZZ 0.0.7]
 [Info   : Unity Log] Loading Bear1
+[Message:UnityExplorer] [Unity] Loading Bear1
 [Info   : Unity Log] Loading Bear2
+[Message:UnityExplorer] [Unity] Loading Bear2
 [Info   : Unity Log] Loading Bear3
+[Message:UnityExplorer] [Unity] Loading Bear3
 [Info   :   BepInEx] Loading [WhereWolves 0.0.7]
 [Info   : Unity Log] Loading Wolf1
+[Message:UnityExplorer] [Unity] Loading Wolf1
 [Info   : Unity Log] Loading Wolf2
+[Message:UnityExplorer] [Unity] Loading Wolf2
 [Info   : Unity Log] Loading Wolf3
+[Message:UnityExplorer] [Unity] Loading Wolf3
 [Info   : Unity Log] Loading Wolf4
+[Message:UnityExplorer] [Unity] Loading Wolf4
 [Info   : Unity Log] Loading Wolf5
+[Message:UnityExplorer] [Unity] Loading Wolf5
 [Info   :   BepInEx] Loading [Wizard 0.0.7]
 [Info   : Unity Log] Loading Wizard
+[Message:UnityExplorer] [Unity] Loading Wizard
 [Info   :   BepInEx] Loading [YetiMonsterZ 0.0.7]
 [Info   : Unity Log] Loading Yeti
+[Message:UnityExplorer] [Unity] Loading Yeti
 [Message:   BepInEx] Chainloader startup complete
-[Info   : Unity Log] 12/15/2021 21:15:02: Starting to load scene:start
+[Info   : Unity Log] 12/18/2021 00:12:49: Starting to load scene:start
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:12:49: Starting to load scene:start
 
 [Info   : Unity Log] ConfigurationManager Searching for vanilla Config Manager.
+[Message:UnityExplorer] [Unity] ConfigurationManager Searching for vanilla Config Manager.
 [Info   : Unity Log] ConfigurationManager Vanilla Config Manager not found.
+[Message:UnityExplorer] [Unity] ConfigurationManager Vanilla Config Manager not found.
 [Info   : Unity Log] loaded Blacksmith's Tools
+[Message:UnityExplorer] [Unity] loaded Blacksmith's Tools
 [Message:JudesEquipment] Blacksmith's tools found.
 [Info   : Unity Log] (SkToolbox) ->  (CONTROLLER) ->  (NOTIFY) -> LOADING... | WAITING FOR TOOLBOX.  
+[Message:UnityExplorer] [Unity] (SkToolbox) ->  (CONTROLLER) ->  (NOTIFY) -> LOADING... | WAITING FOR TOOLBOX.  
 [Info   : Unity Log] (SkToolbox) ->  (TOOLBOX) ->  (NOTIFY) -> LOADING... | MODULES LOADING...  
+[Message:UnityExplorer] [Unity] (SkToolbox) ->  (TOOLBOX) ->  (NOTIFY) -> LOADING... | MODULES LOADING...  
 [Info   : Unity Log] (SkToolbox) ->  (TOOLBOX) ->  (MODULE) ->  (NOTIFY) -> NAME: PLAYER | STATUS: READY  
+[Message:UnityExplorer] [Unity] (SkToolbox) ->  (TOOLBOX) ->  (MODULE) ->  (NOTIFY) -> NAME: PLAYER | STATUS: READY  
 [Info   : Unity Log] (SkToolbox) ->  (TOOLBOX) ->  (MODULE) ->  (NOTIFY) -> NAME: WORLD | STATUS: READY  
+[Message:UnityExplorer] [Unity] (SkToolbox) ->  (TOOLBOX) ->  (MODULE) ->  (NOTIFY) -> NAME: WORLD | STATUS: READY  
 [Info   : Unity Log] (SkToolbox) ->  (TOOLBOX) ->  (MODULE) ->  (NOTIFY) -> NAME: CC CONTROLLER | STATUS: READY  
+[Message:UnityExplorer] [Unity] (SkToolbox) ->  (TOOLBOX) ->  (MODULE) ->  (NOTIFY) -> NAME: CC CONTROLLER | STATUS: READY  
 [Info   : Unity Log] (SkToolbox) ->  (TOOLBOX) ->  (NOTIFY) -> 3 MODULES LOADED | TOOLBOX READY.  
+[Message:UnityExplorer] [Unity] (SkToolbox) ->  (TOOLBOX) ->  (NOTIFY) -> 3 MODULES LOADED | TOOLBOX READY.  
 [Info   : Unity Log] (SkToolbox) ->  (CONTROLLER) ->  (NOTIFY) -> READY.  
+[Message:UnityExplorer] [Unity] (SkToolbox) ->  (CONTROLLER) ->  (NOTIFY) -> READY.  
 [Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-[Info   : Unity Log] 12/15/2021 21:15:34: Valheim version:0.156.2
+[Warning:UnityExplorer] [Unity] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Info   : Unity Log] 12/18/2021 00:13:19: Valheim version:0.156.2
 
-[Info   : Unity Log] 12/15/2021 21:15:34: Render threading mode:MultiThreaded
+[Message:UnityExplorer] [Unity] 12/18/2021 00:13:19: Valheim version:0.156.2
 
-[Info   : Unity Log] 12/15/2021 21:15:34: Using environment steamid 892970
+[Info   : Unity Log] 12/18/2021 00:13:19: Render threading mode:MultiThreaded
 
-[Info   : Unity Log] 12/15/2021 21:15:34: Using steam APPID:892970
+[Message:UnityExplorer] [Unity] 12/18/2021 00:13:19: Render threading mode:MultiThreaded
 
-[Info   : Unity Log] 12/15/2021 21:15:34: Authentication:k_ESteamNetworkingAvailability_Attempting
+[Info   : Unity Log] 12/18/2021 00:13:19: Using environment steamid 892970
 
-[Info   : Unity Log] 12/15/2021 21:15:34: Steam initialized, persona:Macilvoy
+[Message:UnityExplorer] [Unity] 12/18/2021 00:13:19: Using environment steamid 892970
 
-[Warning: Unity Log] 12/15/2021 21:15:34: Missing audio clip in music respawn
+[Info   : Unity Log] 12/18/2021 00:13:19: Using steam APPID:892970
 
-[Info   : Unity Log] 12/15/2021 21:15:34: Checking for installed DLCs
+[Message:UnityExplorer] [Unity] 12/18/2021 00:13:19: Using steam APPID:892970
 
-[Info   : Unity Log] 12/15/2021 21:15:35: DLC installed:1515960
+[Info   : Unity Log] 12/18/2021 00:13:19: Authentication:k_ESteamNetworkingAvailability_Attempting
 
-[Info   : Unity Log] 12/15/2021 21:15:35: DLC:beta installed:True
+[Message:UnityExplorer] [Unity] 12/18/2021 00:13:19: Authentication:k_ESteamNetworkingAvailability_Attempting
+
+[Info   : Unity Log] 12/18/2021 00:13:19: Steam initialized, persona:Macilvoy
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:13:19: Steam initialized, persona:Macilvoy
+
+[Warning: Unity Log] 12/18/2021 00:13:19: Missing audio clip in music respawn
+
+[Warning:UnityExplorer] [Unity] 12/18/2021 00:13:19: Missing audio clip in music respawn
+
+[Info   : Unity Log] 12/18/2021 00:13:19: Checking for installed DLCs
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:13:19: Checking for installed DLCs
+
+[Info   : Unity Log] 12/18/2021 00:13:19: DLC installed:1515960
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:13:19: DLC installed:1515960
+
+[Info   : Unity Log] 12/18/2021 00:13:19: DLC:beta installed:True
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:13:19: DLC:beta installed:True
 
 [Info   : Unity Log] CustomTextures Clutter system awake
+[Message:UnityExplorer] [Unity] CustomTextures Clutter system awake
 [Info   : Unity Log] CustomTextures Checking 17 clutters
+[Message:UnityExplorer] [Unity] CustomTextures Checking 17 clutters
 [Info   : Unity Log] CustomTextures Clutter System RunTime 00:00:00.00
-[Info   :QuickConnect] Loaded 3 server entries
+[Message:UnityExplorer] [Unity] CustomTextures Clutter System RunTime 00:00:00.00
+[Info   :QuickConnect] Loaded 1 server entries
 [Info   :Jotunn.Managers.LocalizationManager] Loading custom localizations
-[Info   : Unity Log] 12/15/2021 21:15:35: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 12/18/2021 00:13:20: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 12/15/2021 21:15:35: Failed to load language file localization_extra
+[Message:UnityExplorer] [Unity] 12/18/2021 00:13:20: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 12/18/2021 00:13:20: Failed to load language file localization_extra
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:13:20: Failed to load language file localization_extra
 
 [Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'English'
 [Warning:RRRMonsters] True
 [Info   : Unity Log] Trying to register Items
+[Message:UnityExplorer] [Unity] Trying to register Items
 [Info   : Unity Log] ObjectDB_Awake_Patch ran
+[Message:UnityExplorer] [Unity] ObjectDB_Awake_Patch ran
 [Info   : Unity Log] MeadBaseIconFix ObjectDb Awake Patch Start
+[Message:UnityExplorer] [Unity] MeadBaseIconFix ObjectDb Awake Patch Start
 [Info   : Unity Log] MeadBaseIconFix ObjectDb Awake Patch End
+[Message:UnityExplorer] [Unity] MeadBaseIconFix ObjectDb Awake Patch End
 [Message:Boneappetit.BoneAppetit] Loaded Game VFX and SFX
 [Message:Boneappetit.BoneAppetit] Load Complete. Bone Appetit yall.
 [Info   :Seed Totem] Updating color
@@ -420,92 +643,179 @@
 [Info   :Jotunn.Managers.ItemManager] Adding 94 custom items to the ObjectDB
 [Warning:RRRMonsters] True
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_LeatherBelt
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_SilverRing
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardRareUpgrade
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_ShardRareUpgrade
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardEpicUpgrade
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_ShardEpicUpgrade
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardLegendaryUpgrade
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_ShardLegendaryUpgrade
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceRareUpgrade
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_EssenceRareUpgrade
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceEpicUpgrade
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_EssenceEpicUpgrade
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceLegendaryUpgrade
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_EssenceLegendaryUpgrade
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneLegendaryUpgrade
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_RunestoneLegendaryUpgrade
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToDust_Conversion
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_MagicShardToDust_Conversion
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToEssence_Conversion
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_MagicShardToEssence_Conversion
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToReagent_Conversion
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_MagicShardToReagent_Conversion
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToDust_Conversion
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_RareShardToDust_Conversion
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToEssence_Conversion
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_RareShardToEssence_Conversion
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToReagent_Conversion
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_RareShardToReagent_Conversion
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToDust_Conversion
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_EpicShardToDust_Conversion
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToEssence_Conversion
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_EpicShardToEssence_Conversion
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToReagent_Conversion
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_EpicShardToReagent_Conversion
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToDust_Conversion
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_LegendaryShardToDust_Conversion
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToEssence_Conversion
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_LegendaryShardToEssence_Conversion
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToReagent_Conversion
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_LegendaryShardToReagent_Conversion
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_BoneSkeletonTrophy
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_BoneSkeletonTrophy
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EyeGreydwarfTrophy
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_EyeGreydwarfTrophy
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_AntlerDeerTrophy
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_AntlerDeerTrophy
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HideTrollTrophy
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_HideTrollTrophy
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_CoreSurtlingTrophy
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_CoreSurtlingTrophy
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Lesser_Spiritual_Healing_Vial
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_Lesser_Spiritual_Healing_Vial
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Lesser_Healing_Tide_Vial
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_Lesser_Healing_Tide_Vial
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Lesser_Stamina_Vial
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_Lesser_Stamina_Vial
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Medium_Healing_Tide_Flask
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_Medium_Healing_Tide_Flask
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Medium_Stamina_Flask
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_Medium_Stamina_Flask
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Medium_Spiritual_Healing_Flask
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_Medium_Spiritual_Healing_Flask
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Grand_Stealth_Elixir
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_Grand_Stealth_Elixir
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Grand_Spiritual_Healing_Potion
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_Grand_Spiritual_Healing_Potion
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Grand_Healing_Tide_Potion
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_Grand_Healing_Tide_Potion
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Grand_Stamina_Elixir
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_Grand_Stamina_Elixir
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Flask_of_Second_Wind
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_Flask_of_Second_Wind
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Flask_of_Magelight
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_Flask_of_Magelight
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Flask_of_Fortification
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_Flask_of_Fortification
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Flask_of_the_Gods
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_Flask_of_the_Gods
 [Info   : Unity Log] Trying to register Items
+[Message:UnityExplorer] [Unity] Trying to register Items
 [Info   : Unity Log] ObjectDB_CopyOtherDB_Patch ran
+[Message:UnityExplorer] [Unity] ObjectDB_CopyOtherDB_Patch ran
 [Info   : Unity Log] [RecipeHandler] Added recipe: 
+[Message:UnityExplorer] [Unity] [RecipeHandler] Added recipe: 
 [Info   : Unity Log] [PrefabCreator] Skipped recipe: LeatherQuiver
+[Message:UnityExplorer] [Unity] [PrefabCreator] Skipped recipe: LeatherQuiver
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ArrowWoodAnywhere
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_ArrowWoodAnywhere
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FireArrowTransform
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_FireArrowTransform
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_PoisonArrowTransform
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_PoisonArrowTransform
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverArrowTransform
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_SilverArrowTransform
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FrostArrowTransform
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_FrostArrowTransform
 [Info   : Unity Log] MeadBaseIconFix ObjectDB CopyOtherDb Patch Start
+[Message:UnityExplorer] [Unity] MeadBaseIconFix ObjectDB CopyOtherDb Patch Start
 [Info   : Unity Log] MeadBaseIconFix Updating icon for MeadBaseFrostResist
+[Message:UnityExplorer] [Unity] MeadBaseIconFix Updating icon for MeadBaseFrostResist
 [Info   : Unity Log] MeadBaseIconFix Updating icon for MeadBaseHealthMedium
+[Message:UnityExplorer] [Unity] MeadBaseIconFix Updating icon for MeadBaseHealthMedium
 [Info   : Unity Log] MeadBaseIconFix Updating icon for MeadBaseHealthMinor
+[Message:UnityExplorer] [Unity] MeadBaseIconFix Updating icon for MeadBaseHealthMinor
 [Info   : Unity Log] MeadBaseIconFix Updating icon for MeadBasePoisonResist
+[Message:UnityExplorer] [Unity] MeadBaseIconFix Updating icon for MeadBasePoisonResist
 [Info   : Unity Log] MeadBaseIconFix Updating icon for MeadBaseStaminaMedium
+[Message:UnityExplorer] [Unity] MeadBaseIconFix Updating icon for MeadBaseStaminaMedium
 [Info   : Unity Log] MeadBaseIconFix Updating icon for MeadBaseStaminaMinor
+[Message:UnityExplorer] [Unity] MeadBaseIconFix Updating icon for MeadBaseStaminaMinor
 [Info   : Unity Log] MeadBaseIconFix Updating icon for MeadBaseTasty
+[Message:UnityExplorer] [Unity] MeadBaseIconFix Updating icon for MeadBaseTasty
 [Info   : Unity Log] MeadBaseIconFix Updating icon for BarleyWineBase
+[Message:UnityExplorer] [Unity] MeadBaseIconFix Updating icon for BarleyWineBase
 [Info   : Unity Log] MeadBaseIconFix ObjectDB CopyOtherDb Patch End
+[Message:UnityExplorer] [Unity] MeadBaseIconFix ObjectDB CopyOtherDb Patch End
 [Info   : Unity Log] [Passive Forsaken Powers] Made GP_Bonemass status effect passive.
+[Message:UnityExplorer] [Unity] [Passive Forsaken Powers] Made GP_Bonemass status effect passive.
 [Info   : Unity Log] [Passive Forsaken Powers] Made GP_Eikthyr status effect passive.
+[Message:UnityExplorer] [Unity] [Passive Forsaken Powers] Made GP_Eikthyr status effect passive.
 [Info   : Unity Log] [Passive Forsaken Powers] Made GP_Moder status effect passive.
+[Message:UnityExplorer] [Unity] [Passive Forsaken Powers] Made GP_Moder status effect passive.
 [Info   : Unity Log] [Passive Forsaken Powers] Made GP_TheElder status effect passive.
+[Message:UnityExplorer] [Unity] [Passive Forsaken Powers] Made GP_TheElder status effect passive.
 [Info   : Unity Log] [Passive Forsaken Powers] Made GP_Yagluth status effect passive.
+[Message:UnityExplorer] [Unity] [Passive Forsaken Powers] Made GP_Yagluth status effect passive.
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RaspberryJam
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_RaspberryJam
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HoneyRaspberryJam
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_HoneyRaspberryJam
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_BlueberryJam
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_BlueberryJam
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HoneyBlueberryJam
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_HoneyBlueberryJam
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_CloudberryJam
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_CloudberryJam
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HoneyCloudberryJam
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_HoneyCloudberryJam
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_KingsJam
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_KingsJam
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_NordicJam
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_NordicJam
 [Info   : Unity Log] CustomTextures SetupObjectDB postfix
+[Message:UnityExplorer] [Unity] CustomTextures SetupObjectDB postfix
 [Info   : Unity Log] CustomTextures Replacing textures for 808 objects
-[Info   : Unity Log] CustomTextures SetupObjectDB RunTime 00:00:00.24
+[Message:UnityExplorer] [Unity] CustomTextures Replacing textures for 808 objects
+[Info   : Unity Log] CustomTextures SetupObjectDB RunTime 00:00:00.22
+[Message:UnityExplorer] [Unity] CustomTextures SetupObjectDB RunTime 00:00:00.22
 [Info   :Jotunn.Managers.InputManager] Registering 3 custom inputs
 [Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
 [Info   :BiggerPickupRadius] 2
@@ -516,30 +826,47 @@ ConfigurationManager.Patches.SetupMenuButton () (at <9edb05592bc445f5bb0c8d2eab8
 ConfigurationManager.Patches.Start () (at <9edb05592bc445f5bb0c8d2eab8bf234>:0)
 (wrapper dynamic-method) FejdStartup.DMD<FejdStartup::Start>(FejdStartup)
 
+[Error  :UnityExplorer] [Unity] NullReferenceException: Object reference not set to an instance of an object
 [Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
 [Info   :BiggerPickupRadius] 2
 [Info   :BiggerPickupRadius] Player pickup range set to 6
-[Info   : Unity Log] 12/15/2021 21:15:40: UI Group status changed Menu = True
+[Info   : Unity Log] 12/18/2021 00:13:25: UI Group status changed Menu = True
 
-[Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
-[Info   :BiggerPickupRadius] 2
-[Info   :BiggerPickupRadius] Player pickup range set to 6
-[Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
-[Info   :BiggerPickupRadius] 2
-[Info   :BiggerPickupRadius] Player pickup range set to 6
-[Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
-[Info   :BiggerPickupRadius] 2
-[Info   :BiggerPickupRadius] Player pickup range set to 6
-[Info   : Unity Log] 12/15/2021 21:15:44: UI Group status changed Menu = True
+[Message:UnityExplorer] [Unity] 12/18/2021 00:13:25: UI Group status changed Menu = True
 
+[Message:UnityExplorer] Initialized Legacy Input support
+[Message:UnityExplorer] Loaded modern bundle for Unity 2019.4.24f1
+[Message:UnityExplorer] UniverseLib 1.0.0 initialized.
+[Message:UnityExplorer] Setting up late core features...
+[Message:UnityExplorer] Creating UI...
+[Message:UnityExplorer] UnityExplorer 4.4.0 initialized.
 [Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
 [Info   :BiggerPickupRadius] 2
 [Info   :BiggerPickupRadius] Player pickup range set to 6
-[Info   : Unity Log] 12/15/2021 21:16:16: FOund selected StartGame
+[Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
+[Info   :BiggerPickupRadius] 2
+[Info   :BiggerPickupRadius] Player pickup range set to 6
+[Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
+[Info   :BiggerPickupRadius] 2
+[Info   :BiggerPickupRadius] Player pickup range set to 6
+[Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
+[Info   :BiggerPickupRadius] 2
+[Info   :BiggerPickupRadius] Player pickup range set to 6
+[Info   : Unity Log] 12/18/2021 00:13:29: UI Group status changed Menu = True
 
-[Info   : Unity Log] 12/15/2021 21:16:16: show character selection
+[Message:UnityExplorer] [Unity] 12/18/2021 00:13:29: UI Group status changed Menu = True
 
-[Info   : Unity Log] 12/15/2021 21:16:18: OnCharacterStart
+[Info   : Unity Log] 12/18/2021 00:13:33: FOund selected StartGame
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:13:33: FOund selected StartGame
+
+[Info   : Unity Log] 12/18/2021 00:13:33: show character selection
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:13:33: show character selection
+
+[Info   : Unity Log] 12/18/2021 00:13:35: OnCharacterStart
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:13:35: OnCharacterStart
 
 [Message:Spawn That!] Loading all configs.
 [Message:Spawn That!] Loading general configurations
@@ -547,120 +874,228 @@ ConfigurationManager.Patches.Start () (at <9edb05592bc445f5bb0c8d2eab8bf234>:0)
 [Message:Spawn That!] Loading simple configurations
 [Message:Spawn That!] Loading world spawner configurations.
 [Message:Spawn That!] Loading local spawner configurations.
-[Message:Spawn That!] Config loading took: 00:00:00.8427189
+[Message:Spawn That!] Config loading took: 00:00:01.1194282
 [Message:Drop That!] Loading general configuration from C:\Games\Valheim\BepInEx\config\drop_that.cfg.
 [Message:Drop That!] Loading character drop lists
 [Message:Drop That!] Loading character drop configurations
 [Message:Drop That!] Loading drop table lists
 [Message:Drop That!] Loading drop table configurations
 [Info   : Unity Log] [BetterContinents] Selected world TamrielTest, applying settings
-[Info   : Unity Log] [BetterContinents] Time to load C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Tamriel.png: 610 ms
-[Info   : Unity Log] [BetterContinents] Time to process C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Tamriel.png: 301 ms
-[Info   : Unity Log] [BetterContinents] Time to load C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Biomes.png: 348 ms
-[Info   : Unity Log] [BetterContinents] Time to calculate biomes from C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Biomes.png: 1539 ms
+[Message:UnityExplorer] [Unity] [BetterContinents] Selected world TamrielTest, applying settings
+[Info   : Unity Log] [BetterContinents] Time to load C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Tamriel.png: 703 ms
+[Message:UnityExplorer] [Unity] [BetterContinents] Time to load C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Tamriel.png: 703 ms
+[Info   : Unity Log] [BetterContinents] Time to process C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Tamriel.png: 335 ms
+[Message:UnityExplorer] [Unity] [BetterContinents] Time to process C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Tamriel.png: 335 ms
+[Info   : Unity Log] [BetterContinents] Time to load C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Biomes.png: 438 ms
+[Message:UnityExplorer] [Unity] [BetterContinents] Time to load C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Biomes.png: 438 ms
+[Info   : Unity Log] [BetterContinents] Time to calculate biomes from C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Biomes.png: 1886 ms
+[Message:UnityExplorer] [Unity] [BetterContinents] Time to calculate biomes from C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Biomes.png: 1886 ms
 [Info   : Unity Log] [BetterContinents] Version 6
+[Message:UnityExplorer] [Unity] [BetterContinents] Version 6
 [Info   : Unity Log] [BetterContinents] WorldUId 302882358
+[Message:UnityExplorer] [Unity] [BetterContinents] WorldUId 302882358
 [Info   : Unity Log] [BetterContinents] GlobalScale 0,9999999
+[Message:UnityExplorer] [Unity] [BetterContinents] GlobalScale 0,9999999
 [Info   : Unity Log] [BetterContinents] MountainsAmount 0,5
+[Message:UnityExplorer] [Unity] [BetterContinents] MountainsAmount 0,5
 [Info   : Unity Log] [BetterContinents] SeaLevelAdjustment 0,125
+[Message:UnityExplorer] [Unity] [BetterContinents] SeaLevelAdjustment 0,125
 [Info   : Unity Log] [BetterContinents] OceanChannelsEnabled False
+[Message:UnityExplorer] [Unity] [BetterContinents] OceanChannelsEnabled False
 [Info   : Unity Log] [BetterContinents] RiversEnabled False
+[Message:UnityExplorer] [Unity] [BetterContinents] RiversEnabled False
 [Info   : Unity Log] [BetterContinents] DisableMapEdgeDropoff False
+[Message:UnityExplorer] [Unity] [BetterContinents] DisableMapEdgeDropoff False
 [Info   : Unity Log] [BetterContinents] MountainsAllowedAtCenter False
+[Message:UnityExplorer] [Unity] [BetterContinents] MountainsAllowedAtCenter False
 [Info   : Unity Log] [BetterContinents] Heightmap file C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Tamriel.png
+[Message:UnityExplorer] [Unity] [BetterContinents] Heightmap file C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Tamriel.png
 [Info   : Unity Log] [BetterContinents] Heightmap size 4096x4096, amount 0,5, blend 1, add 0, mask 0
+[Message:UnityExplorer] [Unity] [BetterContinents] Heightmap size 4096x4096, amount 0,5, blend 1, add 0, mask 0
 [Info   : Unity Log] [BetterContinents] Biomemap file C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Biomes.png
+[Message:UnityExplorer] [Unity] [BetterContinents] Biomemap file C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Biomes.png
 [Info   : Unity Log] [BetterContinents] Biomemap size 4096x4096
+[Message:UnityExplorer] [Unity] [BetterContinents] Biomemap size 4096x4096
 [Info   : Unity Log] [BetterContinents] Spawnmap file C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Spawn.png
+[Message:UnityExplorer] [Unity] [BetterContinents] Spawnmap file C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Spawn.png
 [Info   : Unity Log] [BetterContinents] Spawnmap includes spawns for 2 types
+[Message:UnityExplorer] [Unity] [BetterContinents] Spawnmap includes spawns for 2 types
 [Info   : Unity Log] [BetterContinents] Roughmap disabled
+[Message:UnityExplorer] [Unity] [BetterContinents] Roughmap disabled
 [Info   : Unity Log] [BetterContinents] Flatmap disabled
+[Message:UnityExplorer] [Unity] [BetterContinents] Flatmap disabled
 [Info   : Unity Log] [BetterContinents] ForestScale 0,9999999
+[Message:UnityExplorer] [Unity] [BetterContinents] ForestScale 0,9999999
 [Info   : Unity Log] [BetterContinents] ForestAmountOffset 0
+[Message:UnityExplorer] [Unity] [BetterContinents] ForestAmountOffset 0
 [Info   : Unity Log] [BetterContinents] Forestmap disabled
+[Message:UnityExplorer] [Unity] [BetterContinents] Forestmap disabled
 [Info   : Unity Log] [BetterContinents] MaxRidgeHeight 0,5
+[Message:UnityExplorer] [Unity] [BetterContinents] MaxRidgeHeight 0,5
 [Info   : Unity Log] [BetterContinents] RidgeScale 0,9999999
+[Message:UnityExplorer] [Unity] [BetterContinents] RidgeScale 0,9999999
 [Info   : Unity Log] [BetterContinents] RidgeBlendSigmoidB -30
+[Message:UnityExplorer] [Unity] [BetterContinents] RidgeBlendSigmoidB -30
 [Info   : Unity Log] [BetterContinents] RidgeBlendSigmoidXOffset 1
-[Info   : Unity Log] 12/15/2021 21:16:28: Loading player profile dod
+[Message:UnityExplorer] [Unity] [BetterContinents] RidgeBlendSigmoidXOffset 1
+[Info   : Unity Log] 12/18/2021 00:13:45: Loading player profile dod
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:13:45: Loading player profile dod
 
 [Info   : Unity Log] CustomTextures Reloading ZoneSystem textures _GameMain _Zone
-[Info   : Unity Log] 12/15/2021 21:16:28: Zonesystem Awake 1724
+[Message:UnityExplorer] [Unity] CustomTextures Reloading ZoneSystem textures _GameMain _Zone
+[Info   : Unity Log] 12/18/2021 00:13:45: Zonesystem Awake 364
 
-[Info   : Unity Log] 12/15/2021 21:16:28: DungeonDB Awake 1724
+[Message:UnityExplorer] [Unity] 12/18/2021 00:13:45: Zonesystem Awake 364
 
-[Info   : Unity Log] 12/15/2021 21:16:28: Steam initialized, persona:Macilvoy
+[Info   : Unity Log] 12/18/2021 00:13:45: DungeonDB Awake 364
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:13:45: DungeonDB Awake 364
+
+[Info   : Unity Log] 12/18/2021 00:13:45: Steam initialized, persona:Macilvoy
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:13:45: Steam initialized, persona:Macilvoy
 
 [Info   : Unity Log] Registered 'CL&LC ConfigSync' RPC - waiting for incoming connections
+[Message:UnityExplorer] [Unity] Registered 'CL&LC ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'randyknapp.mods.epicloot ConfigSync' RPC - waiting for incoming connections
+[Message:UnityExplorer] [Unity] Registered 'randyknapp.mods.epicloot ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'htd.armory ConfigSync' RPC - waiting for incoming connections
+[Message:UnityExplorer] [Unity] Registered 'htd.armory ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'org.bepinex.plugins.steadyregeneration ConfigSync' RPC - waiting for incoming connections
+[Message:UnityExplorer] [Unity] Registered 'org.bepinex.plugins.steadyregeneration ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'GoldenJude_JudesEquipment ConfigSync' RPC - waiting for incoming connections
+[Message:UnityExplorer] [Unity] Registered 'GoldenJude_JudesEquipment ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'com.alexanderstrada.rrrcore ConfigSync' RPC - waiting for incoming connections
+[Message:UnityExplorer] [Unity] Registered 'com.alexanderstrada.rrrcore ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Loading the eggs
+[Message:UnityExplorer] [Unity] Loading the eggs
 [Info   : Unity Log] Loading the eggs
+[Message:UnityExplorer] [Unity] Loading the eggs
 [Info   : Unity Log] Trying to register Prefabs
+[Message:UnityExplorer] [Unity] Trying to register Prefabs
 [Info   : Unity Log] ZNetScene_Awake_Patch ran
+[Message:UnityExplorer] [Unity] ZNetScene_Awake_Patch ran
 [Info   : Unity Log] Registering: RuneFocus
+[Message:UnityExplorer] [Unity] Registering: RuneFocus
 [Info   : Unity Log] Registering: runemagic_RestoreTerrain
+[Message:UnityExplorer] [Unity] Registering: runemagic_RestoreTerrain
 [Info   : Unity Log] Registering: runemagic_LevelTerrain
+[Message:UnityExplorer] [Unity] Registering: runemagic_LevelTerrain
 [Info   : Unity Log] Registering: runemagic_ShatteringRune
+[Message:UnityExplorer] [Unity] Registering: runemagic_ShatteringRune
 [Info   : Unity Log] Registering: runemagic_BlastingRune
+[Message:UnityExplorer] [Unity] Registering: runemagic_BlastingRune
 [Info   : Unity Log] Registering: runemagic_passive_Alertness
+[Message:UnityExplorer] [Unity] Registering: runemagic_passive_Alertness
 [Info   : Unity Log] Registering: runemagic_passive_BoatPropulsion
+[Message:UnityExplorer] [Unity] Registering: runemagic_passive_BoatPropulsion
 [Info   : Unity Log] Registering: runemagic_passive_WaterWalking
+[Message:UnityExplorer] [Unity] Registering: runemagic_passive_WaterWalking
 [Info   : Unity Log] Registering: runemagic_passive_Decumberance
+[Message:UnityExplorer] [Unity] Registering: runemagic_passive_Decumberance
 [Info   : Unity Log] Registering: runemagic_CanopyRune
+[Message:UnityExplorer] [Unity] Registering: runemagic_CanopyRune
 [Info   : Unity Log] Registering: runemagic_DryLandRune
+[Message:UnityExplorer] [Unity] Registering: runemagic_DryLandRune
 [Info   : Unity Log] Registering: runemagic_CalmWatersRune
+[Message:UnityExplorer] [Unity] Registering: runemagic_CalmWatersRune
 [Info   : Unity Log] Registering: runemagic_RepairRune
+[Message:UnityExplorer] [Unity] Registering: runemagic_RepairRune
 [Info   : Unity Log] Registering: runemagic_raise
+[Message:UnityExplorer] [Unity] Registering: runemagic_raise
 [Info   : Unity Log] Registering: runemagic_lower
+[Message:UnityExplorer] [Unity] Registering: runemagic_lower
 [Info   : Unity Log] Registering: runemagic_flatten
+[Message:UnityExplorer] [Unity] Registering: runemagic_flatten
 [Info   : Unity Log] Registering: runemagic_reset
+[Message:UnityExplorer] [Unity] Registering: runemagic_reset
 [Info   : Unity Log] Registering: vfx_Decumberance
+[Message:UnityExplorer] [Unity] Registering: vfx_Decumberance
 [Info   : Unity Log] Registering: vfx_OceanCurrents
+[Message:UnityExplorer] [Unity] Registering: vfx_OceanCurrents
 [Info   : Unity Log] Registering: runemagic_StandingStone
+[Message:UnityExplorer] [Unity] Registering: runemagic_StandingStone
 [Info   : Unity Log] Registering: iceberg0
+[Message:UnityExplorer] [Unity] Registering: iceberg0
 [Info   : Unity Log] Registering: iceberg1
+[Message:UnityExplorer] [Unity] Registering: iceberg1
 [Info   : Unity Log] Registering: iceberg2
+[Message:UnityExplorer] [Unity] Registering: iceberg2
 [Info   : Unity Log] Registering: iceberg3
+[Message:UnityExplorer] [Unity] Registering: iceberg3
 [Info   : Unity Log] Registering: iceberg4
+[Message:UnityExplorer] [Unity] Registering: iceberg4
 [Info   : Unity Log] Registering: iceberg5
+[Message:UnityExplorer] [Unity] Registering: iceberg5
 [Info   : Unity Log] Registering: iceberg6
+[Message:UnityExplorer] [Unity] Registering: iceberg6
 [Info   : Unity Log] Registering: iceberg7
+[Message:UnityExplorer] [Unity] Registering: iceberg7
 [Info   : Unity Log] Registering: iceberg8
+[Message:UnityExplorer] [Unity] Registering: iceberg8
 [Info   : Unity Log] Registering: iceberg9
+[Message:UnityExplorer] [Unity] Registering: iceberg9
 [Info   : Unity Log] Registering: iceberg10
+[Message:UnityExplorer] [Unity] Registering: iceberg10
 [Info   : Unity Log] Registering: iceberg11
+[Message:UnityExplorer] [Unity] Registering: iceberg11
 [Info   : Unity Log] Registering: iceberg12
+[Message:UnityExplorer] [Unity] Registering: iceberg12
 [Info   : Unity Log] Registering: iceberg13
+[Message:UnityExplorer] [Unity] Registering: iceberg13
 [Info   : Unity Log] Registering: iceberg14
+[Message:UnityExplorer] [Unity] Registering: iceberg14
 [Info   : Unity Log] Registering: iceberg15
+[Message:UnityExplorer] [Unity] Registering: iceberg15
 [Info   : Unity Log] Registering: iceberg16
+[Message:UnityExplorer] [Unity] Registering: iceberg16
 [Info   : Unity Log] Registering: iceberg17
+[Message:UnityExplorer] [Unity] Registering: iceberg17
 [Info   : Unity Log] Registering: iceberg18
+[Message:UnityExplorer] [Unity] Registering: iceberg18
 [Info   : Unity Log] Registering: iceberg19
+[Message:UnityExplorer] [Unity] Registering: iceberg19
 [Info   : Unity Log] Registering: iceberg20
+[Message:UnityExplorer] [Unity] Registering: iceberg20
 [Info   : Unity Log] Registering: iceberg21
+[Message:UnityExplorer] [Unity] Registering: iceberg21
 [Info   : Unity Log] Registering: iceberg22
+[Message:UnityExplorer] [Unity] Registering: iceberg22
 [Info   : Unity Log] Registering: iceberg23
+[Message:UnityExplorer] [Unity] Registering: iceberg23
 [Info   : Unity Log] Registering: iceberg24
+[Message:UnityExplorer] [Unity] Registering: iceberg24
 [Info   : Unity Log] Registering: iceberg25
+[Message:UnityExplorer] [Unity] Registering: iceberg25
 [Info   : Unity Log] Registering: iceberg26
+[Message:UnityExplorer] [Unity] Registering: iceberg26
 [Info   : Unity Log] Registering: iceberg27
+[Message:UnityExplorer] [Unity] Registering: iceberg27
 [Info   : Unity Log] Registering: iceberg28
+[Message:UnityExplorer] [Unity] Registering: iceberg28
 [Info   : Unity Log] Loading the eggs
+[Message:UnityExplorer] [Unity] Loading the eggs
 [Info   : Unity Log] Loading the eggs
+[Message:UnityExplorer] [Unity] Loading the eggs
 [Info   : Unity Log] Loading the eggs
+[Message:UnityExplorer] [Unity] Loading the eggs
 [Info   : Unity Log] Loading the eggs
+[Message:UnityExplorer] [Unity] Loading the eggs
 [Info   : Unity Log] Loading the eggs
+[Message:UnityExplorer] [Unity] Loading the eggs
 [Info   : Unity Log] Loading the eggs
+[Message:UnityExplorer] [Unity] Loading the eggs
 [Info   : Unity Log] CustomTextures ZNetScene awake
+[Message:UnityExplorer] [Unity] CustomTextures ZNetScene awake
 [Info   : Unity Log] CustomTextures Checking 2149 prefabs
-[Info   : Unity Log] CustomTextures ZNetScene RunTime 00:00:00.68
+[Message:UnityExplorer] [Unity] CustomTextures Checking 2149 prefabs
+[Info   : Unity Log] CustomTextures ZNetScene RunTime 00:00:00.80
+[Message:UnityExplorer] [Unity] CustomTextures ZNetScene RunTime 00:00:00.80
 [Info   : Unity Log] CustomTextures Reloading Environment textures
+[Message:UnityExplorer] [Unity] CustomTextures Reloading Environment textures
 [Info   : Unity Log] CustomTextures Reloading 9 Environment textures
+[Message:UnityExplorer] [Unity] CustomTextures Reloading 9 Environment textures
 [Info   : Unity Log] CustomTextures 
 environment YggdrasilBranch, MeshRenderer branch, material yggdrasil_branch (Instance), texture yggbark_d, using texture_yggbark_d_MainTex for _MainTex.
 loading custom texture for texture_yggbark_d_MainTex 0 layers
@@ -683,8 +1118,32 @@ loading custom texture file for texture_ygg_leaf_d_MainTex
 environment YggdrasilBranch, MeshRenderer branch, material yggdrasil_branch_leafs (Instance), texture ygg_leaf_n, using texture_ygg_leaf_n_BumpMap for _BumpMap.
 loading custom texture for texture_ygg_leaf_n_BumpMap 0 layers
 loading custom texture file for texture_ygg_leaf_n_BumpMap
+[Message:UnityExplorer] [Unity] CustomTextures 
+environment YggdrasilBranch, MeshRenderer branch, material yggdrasil_branch (Instance), texture yggbark_d, using texture_yggbark_d_MainTex for _MainTex.
+loading custom texture for texture_yggbark_d_MainTex 0 layers
+loading custom texture file for texture_yggbark_d_MainTex
+environment YggdrasilBranch, MeshRenderer branch, material yggdrasil_branch (Instance), texture yggbark_n, using texture_yggbark_n_BumpMap for _BumpMap.
+loading custom texture for texture_yggbark_n_BumpMap 0 layers
+loading custom texture file for texture_yggbark_n_BumpMap
+environment YggdrasilBranch, MeshRenderer branch, material yggdrasil_branch (Instance), texture yggdrasil_emissive, using texture_yggdrasil_emissive_EmissiveTex for _EmissiveTex.
+loading custom texture for texture_yggdrasil_emissive_EmissiveTex 0 layers
+loading custom texture file for texture_yggdrasil_emissive_EmissiveTex
+environment YggdrasilBranch, MeshRenderer branch, material yggdrasil_branch (Instance), texture ygg_moss, using texture_ygg_moss_MossTex for _MossTex.
+loading custom texture for texture_ygg_moss_MossTex 0 layers
+loading custom texture file for texture_ygg_moss_MossTex
+environment YggdrasilBranch, MeshRenderer branch, material yggdrasil_branch (Instance), texture yggdrasil_emissivmask, using texture_yggdrasil_emissivmask_EmissiveMaskTex for _EmissiveMaskTex.
+loading custom texture for texture_yggdrasil_emissivmask_EmissiveMaskTex 0 layers
+loading custom texture file for texture_yggdrasil_emissivmask_EmissiveMaskTex
+environment YggdrasilBranch, MeshRenderer branch, material yggdrasil_branch_leafs (Instance), texture ygg_leaf_d, using texture_ygg_leaf_d_MainTex for _MainTex.
+loading custom texture for texture_ygg_leaf_d_MainTex 0 layers
+loading custom texture file for texture_ygg_leaf_d_MainTex
+environment YggdrasilBranch, MeshRenderer branch, material yggdrasil_branch_leafs (Instance), texture ygg_leaf_n, using texture_ygg_leaf_n_BumpMap for _BumpMap.
+loading custom texture for texture_ygg_leaf_n_BumpMap 0 layers
+loading custom texture file for texture_ygg_leaf_n_BumpMap
 [Info   : Unity Log] getting fonts
+[Message:UnityExplorer] [Unity] getting fonts
 [Info   : Unity Log] got font AveriaSerifLibre-Bold
+[Message:UnityExplorer] [Unity] got font AveriaSerifLibre-Bold
 [Info   :Jotunn.Managers.PrefabManager] Adding 262 custom prefabs to the ZNetScene
 [Info   :Jotunn.Managers.ItemManager] Adding 94 custom items to the ObjectDB
 [Info   :Jotunn.Managers.ItemManager] Adding 83 custom recipes to the ObjectDB
@@ -692,84 +1151,163 @@ loading custom texture file for texture_ygg_leaf_n_BumpMap
 [Info   :Jotunn.Managers.ItemManager] Adding 3 custom item conversions
 [Warning:RRRMonsters] True
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_LeatherBelt
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_SilverRing
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardRareUpgrade
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_ShardRareUpgrade
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardEpicUpgrade
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_ShardEpicUpgrade
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardLegendaryUpgrade
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_ShardLegendaryUpgrade
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceRareUpgrade
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_EssenceRareUpgrade
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceEpicUpgrade
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_EssenceEpicUpgrade
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceLegendaryUpgrade
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_EssenceLegendaryUpgrade
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneLegendaryUpgrade
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_RunestoneLegendaryUpgrade
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToDust_Conversion
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_MagicShardToDust_Conversion
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToEssence_Conversion
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_MagicShardToEssence_Conversion
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToReagent_Conversion
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_MagicShardToReagent_Conversion
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToDust_Conversion
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_RareShardToDust_Conversion
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToEssence_Conversion
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_RareShardToEssence_Conversion
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToReagent_Conversion
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_RareShardToReagent_Conversion
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToDust_Conversion
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_EpicShardToDust_Conversion
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToEssence_Conversion
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_EpicShardToEssence_Conversion
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToReagent_Conversion
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_EpicShardToReagent_Conversion
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToDust_Conversion
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_LegendaryShardToDust_Conversion
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToEssence_Conversion
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_LegendaryShardToEssence_Conversion
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToReagent_Conversion
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_LegendaryShardToReagent_Conversion
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_BoneSkeletonTrophy
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_BoneSkeletonTrophy
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EyeGreydwarfTrophy
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_EyeGreydwarfTrophy
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_AntlerDeerTrophy
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_AntlerDeerTrophy
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HideTrollTrophy
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_HideTrollTrophy
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_CoreSurtlingTrophy
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_CoreSurtlingTrophy
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Lesser_Spiritual_Healing_Vial
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_Lesser_Spiritual_Healing_Vial
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Lesser_Healing_Tide_Vial
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_Lesser_Healing_Tide_Vial
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Lesser_Stamina_Vial
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_Lesser_Stamina_Vial
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Medium_Healing_Tide_Flask
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_Medium_Healing_Tide_Flask
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Medium_Stamina_Flask
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_Medium_Stamina_Flask
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Medium_Spiritual_Healing_Flask
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_Medium_Spiritual_Healing_Flask
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Grand_Stealth_Elixir
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_Grand_Stealth_Elixir
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Grand_Spiritual_Healing_Potion
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_Grand_Spiritual_Healing_Potion
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Grand_Healing_Tide_Potion
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_Grand_Healing_Tide_Potion
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Grand_Stamina_Elixir
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_Grand_Stamina_Elixir
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Flask_of_Second_Wind
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_Flask_of_Second_Wind
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Flask_of_Magelight
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_Flask_of_Magelight
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Flask_of_Fortification
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_Flask_of_Fortification
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_Flask_of_the_Gods
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_Flask_of_the_Gods
 [Info   : Unity Log] Trying to register Items
+[Message:UnityExplorer] [Unity] Trying to register Items
 [Info   : Unity Log] ObjectDB_Awake_Patch ran
+[Message:UnityExplorer] [Unity] ObjectDB_Awake_Patch ran
 [Info   : Unity Log] [RecipeHandler] Added recipe: 
+[Message:UnityExplorer] [Unity] [RecipeHandler] Added recipe: 
 [Info   : Unity Log] [PrefabCreator] Skipped recipe: LeatherQuiver
+[Message:UnityExplorer] [Unity] [PrefabCreator] Skipped recipe: LeatherQuiver
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ArrowWoodAnywhere
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_ArrowWoodAnywhere
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FireArrowTransform
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_FireArrowTransform
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_PoisonArrowTransform
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_PoisonArrowTransform
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverArrowTransform
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_SilverArrowTransform
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FrostArrowTransform
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_FrostArrowTransform
 [Info   : Unity Log] MeadBaseIconFix ObjectDb Awake Patch Start
+[Message:UnityExplorer] [Unity] MeadBaseIconFix ObjectDb Awake Patch Start
 [Info   : Unity Log] MeadBaseIconFix Updating icon for MeadBaseFrostResist
+[Message:UnityExplorer] [Unity] MeadBaseIconFix Updating icon for MeadBaseFrostResist
 [Info   : Unity Log] MeadBaseIconFix Updating icon for MeadBaseHealthMedium
+[Message:UnityExplorer] [Unity] MeadBaseIconFix Updating icon for MeadBaseHealthMedium
 [Info   : Unity Log] MeadBaseIconFix Updating icon for MeadBaseHealthMinor
+[Message:UnityExplorer] [Unity] MeadBaseIconFix Updating icon for MeadBaseHealthMinor
 [Info   : Unity Log] MeadBaseIconFix Updating icon for MeadBasePoisonResist
+[Message:UnityExplorer] [Unity] MeadBaseIconFix Updating icon for MeadBasePoisonResist
 [Info   : Unity Log] MeadBaseIconFix Updating icon for MeadBaseStaminaMedium
+[Message:UnityExplorer] [Unity] MeadBaseIconFix Updating icon for MeadBaseStaminaMedium
 [Info   : Unity Log] MeadBaseIconFix Updating icon for MeadBaseStaminaMinor
+[Message:UnityExplorer] [Unity] MeadBaseIconFix Updating icon for MeadBaseStaminaMinor
 [Info   : Unity Log] MeadBaseIconFix Updating icon for MeadBaseTasty
+[Message:UnityExplorer] [Unity] MeadBaseIconFix Updating icon for MeadBaseTasty
 [Info   : Unity Log] MeadBaseIconFix Updating icon for BarleyWineBase
+[Message:UnityExplorer] [Unity] MeadBaseIconFix Updating icon for BarleyWineBase
 [Info   : Unity Log] MeadBaseIconFix ObjectDb Awake Patch End
+[Message:UnityExplorer] [Unity] MeadBaseIconFix ObjectDb Awake Patch End
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RaspberryJam
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_RaspberryJam
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HoneyRaspberryJam
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_HoneyRaspberryJam
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_BlueberryJam
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_BlueberryJam
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HoneyBlueberryJam
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_HoneyBlueberryJam
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_CloudberryJam
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_CloudberryJam
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HoneyCloudberryJam
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_HoneyCloudberryJam
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_KingsJam
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_KingsJam
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_NordicJam
+[Message:UnityExplorer] [Unity] [PrefabCreator] Added recipe: Recipe_NordicJam
 [Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.Ashe.json
 [Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.Dvorah.json
 [Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.Dwarf.json
@@ -893,48 +1431,89 @@ loading custom texture file for texture_ygg_leaf_n_BumpMap
 [Warning:Jotunn.PrefabExtension] Not fixing potential mock references for field m_remainingRequirements : Dictionary is not supported.
 [Info   :Jotunn.Managers.MockManager] Destroying Mock prefabs
 [Info   : Unity Log] Updated Status Effect: AoE Lesser HoT
+[Message:UnityExplorer] [Unity] Updated Status Effect: AoE Lesser HoT
 [Info   : Unity Log] Updated Status Effect: AoE HoT
+[Message:UnityExplorer] [Unity] Updated Status Effect: AoE HoT
 [Info   : Unity Log] Updated Status Effect: AoE Greater HoT
+[Message:UnityExplorer] [Unity] Updated Status Effect: AoE Greater HoT
 [Info   : Unity Log] Updated Status Effect: AoE Lesser Regen
+[Message:UnityExplorer] [Unity] Updated Status Effect: AoE Lesser Regen
 [Info   : Unity Log] Updated Status Effect: AoE Regen
+[Message:UnityExplorer] [Unity] Updated Status Effect: AoE Regen
 [Info   : Unity Log] Updated Status Effect: AoE Greater Regen
+[Message:UnityExplorer] [Unity] Updated Status Effect: AoE Greater Regen
 [Info   : Unity Log] Updated Status Effect: AoE Lesser Shield
+[Message:UnityExplorer] [Unity] Updated Status Effect: AoE Lesser Shield
 [Info   : Unity Log] Updated Status Effect: AoE Shield
+[Message:UnityExplorer] [Unity] Updated Status Effect: AoE Shield
 [Info   : Unity Log] Updated Status Effect: AoE Greater Shield
+[Message:UnityExplorer] [Unity] Updated Status Effect: AoE Greater Shield
 [Info   : Unity Log] Updated Status Effect: AoE Lesser Bleeding
+[Message:UnityExplorer] [Unity] Updated Status Effect: AoE Lesser Bleeding
 [Info   : Unity Log] Updated Status Effect: AoE Bleeding
+[Message:UnityExplorer] [Unity] Updated Status Effect: AoE Bleeding
 [Info   : Unity Log] Updated Status Effect: AoE Greater Bleeding
+[Message:UnityExplorer] [Unity] Updated Status Effect: AoE Greater Bleeding
 [Info   : Unity Log] Updated Status Effect: AoE Infected
+[Message:UnityExplorer] [Unity] Updated Status Effect: AoE Infected
 [Info   : Unity Log] Updated Status Effect: AoE Diseased
+[Message:UnityExplorer] [Unity] Updated Status Effect: AoE Diseased
 [Info   : Unity Log] Updated Status Effect: AoE Weak
+[Message:UnityExplorer] [Unity] Updated Status Effect: AoE Weak
 [Info   : Unity Log] Updated Status Effect: AoE Bitterstump Heal
+[Message:UnityExplorer] [Unity] Updated Status Effect: AoE Bitterstump Heal
 [Info   : Unity Log] Updated Status Effect: AoE Skir Sandburst Nova
+[Message:UnityExplorer] [Unity] Updated Status Effect: AoE Skir Sandburst Nova
 [Info   : Unity Log] Updated Status Effect: AoE Rogue Sword
+[Message:UnityExplorer] [Unity] Updated Status Effect: AoE Rogue Sword
 [Info   : Unity Log] Updated AttackSE: SkirSandburst_Shield_DoD
+[Message:UnityExplorer] [Unity] Updated AttackSE: SkirSandburst_Shield_DoD
 [Info   : Unity Log] Updated AttackSE: SkirSandburst_Heal_DoD
+[Message:UnityExplorer] [Unity] Updated AttackSE: SkirSandburst_Heal_DoD
 [Info   : Unity Log] Updated AttackSE: Bitterstump_Heal_DoD
+[Message:UnityExplorer] [Unity] Updated AttackSE: Bitterstump_Heal_DoD
 [Info   : Unity Log] Updated AttackSE: Rambore_Gore_DoD
+[Message:UnityExplorer] [Unity] Updated AttackSE: Rambore_Gore_DoD
 [Info   : Unity Log] Updated AttackSE: Farkas_FrostBite_DoD
+[Message:UnityExplorer] [Unity] Updated AttackSE: Farkas_FrostBite_DoD
 [Info   : Unity Log] Updated AttackSE: Farkas_Hamper_Attack_DoD
+[Message:UnityExplorer] [Unity] Updated AttackSE: Farkas_Hamper_Attack_DoD
 [Info   : Unity Log] Updated AttackSE: Farkas_Bleed_DoD
+[Message:UnityExplorer] [Unity] Updated AttackSE: Farkas_Bleed_DoD
 [Info   : Unity Log] Updated AttackSE: Bhygshan_SprayFrost_DoD
+[Message:UnityExplorer] [Unity] Updated AttackSE: Bhygshan_SprayFrost_DoD
 [Info   : Unity Log] Updated AttackSE: Bitterstump_SprayFrost_DoD
+[Message:UnityExplorer] [Unity] Updated AttackSE: Bitterstump_SprayFrost_DoD
 [Info   : Unity Log] Updated AttackSE: Bhygshan_Fireball_DoD
+[Message:UnityExplorer] [Unity] Updated AttackSE: Bhygshan_Fireball_DoD
 [Info   : Unity Log] Updated AttackSE: Skir_Voidbolt_Projectile_DoD
+[Message:UnityExplorer] [Unity] Updated AttackSE: Skir_Voidbolt_Projectile_DoD
 [Info   :PlanBuild.Blueprints.BlueprintManager] Registering known blueprints
 [Info   :Seed Totem] Moving Seed Totem to Cultivator
-[Info   : Unity Log] 12/15/2021 21:16:35: Audioman already exist, destroying self
+[Info   : Unity Log] 12/18/2021 00:13:54: Audioman already exist, destroying self
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:13:54: Audioman already exist, destroying self
 
 [Info   : Unity Log] Compass Added compass to hud
-[Info   : Unity Log] 12/15/2021 21:16:35: Checking for installed DLCs
+[Message:UnityExplorer] [Unity] Compass Added compass to hud
+[Info   : Unity Log] 12/18/2021 00:13:54: Checking for installed DLCs
 
-[Info   : Unity Log] 12/15/2021 21:16:35: DLC installed:1515960
+[Message:UnityExplorer] [Unity] 12/18/2021 00:13:54: Checking for installed DLCs
 
-[Info   : Unity Log] 12/15/2021 21:16:35: DLC:beta installed:True
+[Info   : Unity Log] 12/18/2021 00:13:54: DLC installed:1515960
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:13:54: DLC installed:1515960
+
+[Info   : Unity Log] 12/18/2021 00:13:54: DLC:beta installed:True
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:13:54: DLC:beta installed:True
 
 [Info   : Unity Log] CustomTextures Clutter system awake
+[Message:UnityExplorer] [Unity] CustomTextures Clutter system awake
 [Info   : Unity Log] CustomTextures Checking 17 clutters
+[Message:UnityExplorer] [Unity] CustomTextures Checking 17 clutters
 [Info   : Unity Log] CustomTextures Clutter System RunTime 00:00:00.00
+[Message:UnityExplorer] [Unity] CustomTextures Clutter System RunTime 00:00:00.00
 [Info   :Jotunn.Managers.GUIManager] Adding 8 custom key hints
 [Warning:Jotunn.Managers.GUIManager] Exception caught while creating KeyHint for BlueprintRune: System.Exception: Could not find child objects for KeyHints
   at Jotunn.Managers.GUIManager.CreateKeyHintObject (Jotunn.Configs.KeyHintConfig config) [0x000c0] in <f84cf90787894bc1a52202a508f9a7c0>:0 
@@ -965,851 +1544,582 @@ loading custom texture file for texture_ygg_leaf_n_BumpMap
 [Info   : PlantEverything] Authoritative Config Registered
 [Info   :AuthoritativeConfig_nex.SpeedyPaths] Authoritative Config Registered -> AuthoritativeConfig_nex.SpeedyPaths
 [Info   : Unity Log] CustomTextures Starting ZoneSystem Location prefab replacement
+[Message:UnityExplorer] [Unity] CustomTextures Starting ZoneSystem Location prefab replacement
 [Info   : Unity Log] CustomTextures ZoneSystem Locations RunTime 00:00:00.00
-[Info   : Unity Log] 12/15/2021 21:16:39: Zonesystem Start 1724
+[Message:UnityExplorer] [Unity] CustomTextures ZoneSystem Locations RunTime 00:00:00.00
+[Info   : Unity Log] 12/18/2021 00:13:57: Zonesystem Start 364
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:13:57: Zonesystem Start 364
 
 [Info   : Unity Log] ZoneSystem_Start_Patch ran
+[Message:UnityExplorer] [Unity] ZoneSystem_Start_Patch ran
 [Info   : Unity Log] Skipping BossStone_Bonemass
+[Message:UnityExplorer] [Unity] Skipping BossStone_Bonemass
 [Info   : Unity Log] Skipping BossStone_DragonQueen
+[Message:UnityExplorer] [Unity] Skipping BossStone_DragonQueen
 [Info   : Unity Log] Skipping BossStone_Yagluth
+[Message:UnityExplorer] [Unity] Skipping BossStone_Yagluth
 [Info   : Unity Log] Skipping BossStone_TheElder
+[Message:UnityExplorer] [Unity] Skipping BossStone_TheElder
 [Info   : Unity Log] Skipping BossStone_Eikthyr
+[Message:UnityExplorer] [Unity] Skipping BossStone_Eikthyr
 [Info   : Unity Log] Skipping BossStone_Bonemass
+[Message:UnityExplorer] [Unity] Skipping BossStone_Bonemass
 [Info   : Unity Log] Skipping BossStone_DragonQueen
+[Message:UnityExplorer] [Unity] Skipping BossStone_DragonQueen
 [Info   : Unity Log] Skipping BossStone_Yagluth
+[Message:UnityExplorer] [Unity] Skipping BossStone_Yagluth
 [Info   : Unity Log] Skipping BossStone_TheElder
+[Message:UnityExplorer] [Unity] Skipping BossStone_TheElder
 [Info   : Unity Log] Skipping BossStone_Eikthyr
-[Info   : Unity Log] 12/15/2021 21:16:39: DungeonDB Start 1724
+[Message:UnityExplorer] [Unity] Skipping BossStone_Eikthyr
+[Info   : Unity Log] 12/18/2021 00:13:57: DungeonDB Start 364
 
-[Info   : Unity Log] 12/15/2021 21:16:39: Load world TamrielTest
+[Message:UnityExplorer] [Unity] 12/18/2021 00:13:57: DungeonDB Start 364
 
-[Info   : Unity Log] 12/15/2021 21:16:39: Loading 863374 zdos , my id 1726802803 data version:27
+[Info   : Unity Log] 12/18/2021 00:13:58: Load world TamrielTest
 
-[Info   : Unity Log] 12/15/2021 21:16:42: Loaded 5177 dead zdos
+[Message:UnityExplorer] [Unity] 12/18/2021 00:13:58: Load world TamrielTest
 
-[Info   : Unity Log] 12/15/2021 21:16:43: Removed 0 OLD generated ZDOS
+[Info   : Unity Log] 12/18/2021 00:13:58: Loading 1301095 zdos , my id 1509569722 data version:27
 
-[Info   : Unity Log] 12/15/2021 21:16:43: Loaded 6468 locations
+[Message:UnityExplorer] [Unity] 12/18/2021 00:13:58: Loading 1301095 zdos , my id 1509569722 data version:27
 
-[Info   : Unity Log] 12/15/2021 21:16:43: Starting respawn
+[Info   : Unity Log] 12/18/2021 00:14:02: Loaded 23836 dead zdos
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:14:02: Loaded 23836 dead zdos
+
+[Info   : Unity Log] 12/18/2021 00:14:02: Removed 0 OLD generated ZDOS
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:14:02: Removed 0 OLD generated ZDOS
+
+[Info   : Unity Log] 12/18/2021 00:14:02: Loaded 6459 locations
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:14:02: Loaded 6459 locations
+
+[Info   : Unity Log] 12/18/2021 00:14:03: Starting respawn
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:14:03: Starting respawn
 
 [Info   : Unity Log] GetZoomSens: 10
-[Info   : Unity Log] 12/15/2021 21:16:46: tip:$loadscreen_tip21
+[Message:UnityExplorer] [Unity] GetZoomSens: 10
+[Info   : Unity Log] 12/18/2021 00:14:06: tip:$loadscreen_tip20
 
-[Info   : Unity Log] 12/15/2021 21:16:50: Force generaeting hmap (192.0, 0.0, -256.0)
+[Message:UnityExplorer] [Unity] 12/18/2021 00:14:06: tip:$loadscreen_tip20
 
-[Info   : Unity Log] 12/15/2021 21:16:50: Force generaeting hmap (192.0, 0.0, -192.0)
+[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
+[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
+[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
+[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
+[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
+[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
+[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
+[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
+[Info   : Unity Log] 12/18/2021 00:14:11: Vis equip model set to 1
 
-[Info   : Unity Log] 12/15/2021 21:16:54: Spawned after 8,019994
+[Message:UnityExplorer] [Unity] 12/18/2021 00:14:11: Vis equip model set to 1
 
-[Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
-[Info   :BiggerPickupRadius] 2
-[Info   :BiggerPickupRadius] Player pickup range set to 6
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] 12/15/2021 21:16:55: Minimap: Adding unique location (369.1, 47.4, -97.4)
+[Info   : Unity Log] 12/18/2021 00:14:13: Vis equip model set to 1
 
-[Info   : Unity Log] Compass scale 0,6666667 720 50
-[Info   : Unity Log] 12/15/2021 21:16:59: Setting selected recipe 0
+[Message:UnityExplorer] [Unity] 12/18/2021 00:14:13: Vis equip model set to 1
 
-[Info   : Unity Log] 12/15/2021 21:16:59: UI Group status changed root = True
+[Info   : Unity Log] 12/18/2021 00:14:14: Spawned after 8,019994
 
-[Info   : Unity Log] 12/15/2021 21:16:59: UI Group status changed Player = True
-
-[Info   : Unity Log] 12/15/2021 21:17:05: Player 1726802803 wants to open piece_chest_wood(Clone)   im: 1726802803
-
-[Info   : Unity Log] 12/15/2021 21:17:05: Setting selected recipe 0
-
-[Info   : Unity Log] 12/15/2021 21:17:05: Setting selected recipe 0
-
-[Info   : Unity Log] 12/15/2021 21:17:05: UI Group status changed root = True
-
-[Info   : Unity Log] 12/15/2021 21:17:05: UI Group status changed Player = True
-
-[Info   : Unity Log] 12/15/2021 21:17:40: Setting selected recipe 0
-
-[Info   : Unity Log] 12/15/2021 21:17:48: Setting selected recipe 0
-
-[Info   : Unity Log] 12/15/2021 21:17:49: Setting selected recipe 4
-
-[Info   : Unity Log] 12/15/2021 21:17:50: Setting selected recipe 2
-
-[Info   : Unity Log] 12/15/2021 21:17:52: Player 1726802803 wants to open piece_chest_wood(Clone)   im: 1726802803
-
-[Info   : Unity Log] 12/15/2021 21:17:52: Setting selected recipe 2
-
-[Info   : Unity Log] 12/15/2021 21:17:52: Setting selected recipe 2
-
-[Info   : Unity Log] 12/15/2021 21:17:52: UI Group status changed root = True
-
-[Info   : Unity Log] 12/15/2021 21:17:52: UI Group status changed Player = True
-
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] 12/15/2021 21:17:56: Setting selected recipe 2
-
-[Info   : Unity Log] 12/15/2021 21:17:56: Setting selected recipe 2
-
-[Info   : Unity Log] 12/15/2021 21:17:56: UI Group status changed root = True
-
-[Info   : Unity Log] 12/15/2021 21:17:56: UI Group status changed Player = True
-
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] 12/15/2021 21:18:35: UI Group status changed MenuRoot = True
-
-[Info   : Unity Log] 12/15/2021 21:18:36: UI Group status changed MenuRoot = False
-
-[Info   : Unity Log] 12/15/2021 21:18:38: FOund selected ButtonNo
-
-[Info   : Unity Log] 12/15/2021 21:18:38: UI Group status changed MenuRoot = True
-
-[Info   : Unity Log] 12/15/2021 21:18:48: Starting respawn
-
-[Warning: Unity Log] 12/15/2021 21:18:48: Local player destroyed
-
-[Info   : Unity Log] 12/15/2021 21:18:48: tip:$loadscreen_tip11
+[Message:UnityExplorer] [Unity] 12/18/2021 00:14:14: Spawned after 8,019994
 
 [Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
 [Info   :BiggerPickupRadius] 2
 [Info   :BiggerPickupRadius] Player pickup range set to 6
 [Info   : Unity Log] Caching server config
+[Message:UnityExplorer] [Unity] Caching server config
 [Info   : Unity Log] Sending server config to 0 clients
+[Message:UnityExplorer] [Unity] Sending server config to 0 clients
 [Info   : Unity Log] Caching server config
+[Message:UnityExplorer] [Unity] Caching server config
 [Info   : Unity Log] Sending server config to 0 clients
+[Message:UnityExplorer] [Unity] Sending server config to 0 clients
+[Info   : Unity Log] 12/18/2021 00:14:15: Minimap: Adding unique location (369.1, 47.4, -97.4)
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:14:15: Minimap: Adding unique location (369.1, 47.4, -97.4)
+
+[Info   : Unity Log] 12/18/2021 00:14:15: Minimap: Adding unique location (-253.0, 61.2, 3311.4)
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:14:15: Minimap: Adding unique location (-253.0, 61.2, 3311.4)
+
+[Info   : Unity Log] Compass scale 1 1080 50
+[Message:UnityExplorer] [Unity] Compass scale 1 1080 50
+[Info   : Unity Log] 12/18/2021 00:14:17: Random event set:forestbaset1
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:14:17: Random event set:forestbaset1
+
+[Info   : Unity Log] 12/18/2021 00:14:17: Resumed music CombatEventL1 at 0
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:14:17: Resumed music CombatEventL1 at 0
+
+[Info   : Unity Log] 12/18/2021 00:14:22: Spawned Greyling x 3
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:14:22: Spawned Greyling x 3
+
+[Info   : Unity Log] 12/18/2021 00:14:22: Spawned Greyling x 3
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:14:22: Spawned Greyling x 3
+
+[Info   : Unity Log] 12/18/2021 00:14:30: Setting selected recipe 0
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:14:30: Setting selected recipe 0
+
+[Info   : Unity Log] 12/18/2021 00:14:30: UI Group status changed root = True
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:14:30: UI Group status changed root = True
+
+[Info   : Unity Log] 12/18/2021 00:14:30: UI Group status changed Player = True
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:14:30: UI Group status changed Player = True
+
+[Info   : Unity Log] 12/18/2021 00:14:33: Setting selected recipe 0
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:14:33: Setting selected recipe 0
+
+[Info   : Unity Log] 12/18/2021 00:14:45: FOund selected TabButton_Crafting
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:14:45: FOund selected TabButton_Crafting
+
+[Info   : Unity Log] 12/18/2021 00:14:48: Setting selected recipe 0
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:14:48: Setting selected recipe 0
+
+[Info   : Unity Log] 12/18/2021 00:14:48: Setting selected recipe 0
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:14:48: Setting selected recipe 0
+
+[Info   : Unity Log] 12/18/2021 00:14:48: Setting selected recipe 0
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:14:48: Setting selected recipe 0
+
+[Info   : Unity Log] 12/18/2021 00:14:49: UI Group status changed root = True
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:14:49: UI Group status changed root = True
+
+[Info   : Unity Log] 12/18/2021 00:14:49: UI Group status changed Player = True
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:14:49: UI Group status changed Player = True
+
+[Info   : Unity Log] 12/18/2021 00:14:57: Setting selected recipe 83
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:14:57: Setting selected recipe 83
+
+[Info   : Unity Log] 12/18/2021 00:14:58: Spawned Greyling x 1
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:14:58: Spawned Greyling x 1
+
+[Info   : Unity Log] 12/18/2021 00:15:01: Queue unlock msg:$msg_newitem:$item_pickaxe_iron
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:15:01: Queue unlock msg:$msg_newitem:$item_pickaxe_iron
+
+[Info   : Unity Log] 12/18/2021 00:15:01: Setting selected recipe 83
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:15:01: Setting selected recipe 83
+
+[Info   : Unity Log] 12/18/2021 00:15:02: FOund selected CraftButton
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:15:02: FOund selected CraftButton
+
 [Info   : Unity Log] Caching server config
+[Message:UnityExplorer] [Unity] Caching server config
 [Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] 12/15/2021 21:18:50: Vis equip model set to 1
+[Message:UnityExplorer] [Unity] Sending server config to 0 clients
+[Info   : Unity Log] 12/18/2021 00:15:14: Spawned Greyling x 1
 
-[Info   : Unity Log] 12/15/2021 21:18:51: UI Group status changed MenuRoot = True
+[Message:UnityExplorer] [Unity] 12/18/2021 00:15:14: Spawned Greyling x 1
 
-[Info   :Jotunn.Managers.InputManager] Registering 3 custom inputs
-[Info   : Unity Log] 12/15/2021 21:18:52: Current res 1920x1080     1280x720
+[Info   : Unity Log] 12/18/2021 00:15:16: Loading dungeon
 
-[Info   : Unity Log] 12/15/2021 21:18:52: UI Group status changed MenuRoot = False
+[Message:UnityExplorer] [Unity] 12/18/2021 00:15:16: Loading dungeon
 
-[Info   :Jotunn.Managers.InputManager] Registering 3 custom inputs
-[Info   : Unity Log] 12/15/2021 21:18:55: Current res 1920x1080     1280x720
+[Info   : Unity Log] 12/18/2021 00:15:16: Dungeon loaded 7
 
-[Info   : Unity Log] 12/15/2021 21:18:55: FOund selected Back(Clone)
+[Message:UnityExplorer] [Unity] 12/18/2021 00:15:16: Dungeon loaded 7
 
-[Info   : Unity Log] 12/15/2021 21:18:55: UI Group status changed MenuRoot = True
+[Info   : Unity Log] 12/18/2021 00:15:16: Dungeon load time 73,8021 ms
 
-[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
-Stack trace:
-AugaUnity.AugaCompendiumController.SetupTrophyToMonsterCache () (at <9095d910e0c546869e800372b1c6dcc0>:0)
-AugaUnity.AugaCompendiumController.SetupBestiary () (at <9095d910e0c546869e800372b1c6dcc0>:0)
-AugaUnity.AugaCompendiumController.ShowCompendium () (at <9095d910e0c546869e800372b1c6dcc0>:0)
-UnityEngine.Events.InvokableCall.Invoke () (at <30e538f3cf5548cfa6abc9730778bcef>:0)
-UnityEngine.Events.UnityEvent.Invoke () (at <30e538f3cf5548cfa6abc9730778bcef>:0)
-UnityEngine.UI.Button.Press () (at <5abdc278a459476dabe36f8ad65ea091>:0)
-UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) (at <5abdc278a459476dabe36f8ad65ea091>:0)
-UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) (at <5abdc278a459476dabe36f8ad65ea091>:0)
-UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) (at <5abdc278a459476dabe36f8ad65ea091>:0)
-UnityEngine.EventSystems.EventSystem:Update()
+[Message:UnityExplorer] [Unity] 12/18/2021 00:15:16: Dungeon load time 73,8021 ms
 
-[Info   : Unity Log] 12/15/2021 21:18:57: UI Group status changed MenuRoot = False
+[Info   : Unity Log] 12/18/2021 00:15:53: Stoped music CombatEventL1 at 315324
 
-[Info   : Unity Log] 12/15/2021 21:18:57: FOund selected Compendium
+[Message:UnityExplorer] [Unity] 12/18/2021 00:15:53: Stoped music CombatEventL1 at 315324
 
-[Info   : Unity Log] 12/15/2021 21:19:48: UI Group status changed MenuRoot = True
+[Info   : Unity Log] 12/18/2021 00:16:23: Setting selected recipe 83
 
-[Info   : Unity Log] 12/15/2021 21:19:49: UI Group status changed MenuRoot = False
+[Message:UnityExplorer] [Unity] 12/18/2021 00:16:23: Setting selected recipe 83
 
-[Info   : Unity Log] 12/15/2021 21:19:49: FOund selected Compendium
+[Info   : Unity Log] 12/18/2021 00:16:24: Setting selected recipe 83
 
-[Info   : Unity Log] 12/15/2021 21:19:49: UI Group status changed Compendium = True
+[Message:UnityExplorer] [Unity] 12/18/2021 00:16:24: Setting selected recipe 83
 
-[Info   : Unity Log] 12/15/2021 21:19:49: UI Group status changed Tutorials = True
+[Info   : Unity Log] 12/18/2021 00:16:24: UI Group status changed root = True
 
-[Info   : Unity Log] 12/15/2021 21:19:51: UI Group status changed Trophies = True
+[Message:UnityExplorer] [Unity] 12/18/2021 00:16:24: UI Group status changed root = True
 
-[Info   : Unity Log] 12/15/2021 21:19:52: UI Group status changed Lore = True
+[Info   : Unity Log] 12/18/2021 00:16:24: UI Group status changed Player = True
 
-[Info   : Unity Log] 12/15/2021 21:19:53: UI Group status changed Trophies = True
+[Message:UnityExplorer] [Unity] 12/18/2021 00:16:24: UI Group status changed Player = True
 
-[Info   : Unity Log] 12/15/2021 21:19:54: UI Group status changed MenuRoot = True
-
-[Info   :Jotunn.Managers.InputManager] Registering 3 custom inputs
-[Info   : Unity Log] 12/15/2021 21:19:58: Current res 1920x1080     1280x720
-
-[Info   : Unity Log] 12/15/2021 21:19:58: UI Group status changed MenuRoot = False
-
-[Info   : Unity Log] 12/15/2021 21:20:02: UI Group status changed Controls = True
-
-[Info   :Jotunn.Managers.InputManager] Registering 3 custom inputs
-[Info   : Unity Log] 12/15/2021 21:20:07: Current res 1920x1080     1280x720
-
-[Info   : Unity Log] 12/15/2021 21:20:07: UI Group status changed MenuRoot = True
-
-[Info   : Unity Log] 12/15/2021 21:20:11: Setting selected recipe 2
-
-[Info   : Unity Log] 12/15/2021 21:20:11: Setting selected recipe 2
-
-[Info   : Unity Log] 12/15/2021 21:20:11: UI Group status changed root = True
-
-[Info   : Unity Log] 12/15/2021 21:20:11: UI Group status changed Player = True
-
-[Info   : Unity Log] ConfigurationManager all plugins: 107
+[Info   : Unity Log] ConfigurationManager all plugins: 111
+[Message:UnityExplorer] [Unity] ConfigurationManager all plugins: 111
 [Info   : Unity Log] ConfigurationManager This Goes Here has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager This Goes Here has no showable settings, skipping.
 [Info   : Unity Log] ConfigurationManager serverblankpassword has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager serverblankpassword has no showable settings, skipping.
 [Info   : Unity Log] ConfigurationManager Custom Raids has no showable settings, skipping.
-[Info   : Unity Log] ConfigurationManager 18 settings are not browseable, removing.
+[Message:UnityExplorer] [Unity] ConfigurationManager Custom Raids has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager 9 settings are not browseable, removing.
+[Message:UnityExplorer] [Unity] ConfigurationManager 9 settings are not browseable, removing.
 [Info   : Unity Log] ConfigurationManager Spawn That! has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager Spawn That! has no showable settings, skipping.
 [Info   : Unity Log] ConfigurationManager Drop That! has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager Drop That! has no showable settings, skipping.
 [Info   : Unity Log] ConfigurationManager Sell That! has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager Sell That! has no showable settings, skipping.
 [Info   : Unity Log] ConfigurationManager FloatingItems has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager FloatingItems has no showable settings, skipping.
 [Info   : Unity Log] ConfigurationManager RRRCore has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager RRRCore has no showable settings, skipping.
 [Info   : Unity Log] ConfigurationManager Jotunn has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager Jotunn has no showable settings, skipping.
 [Info   : Unity Log] ConfigurationManager Skills Give More Carry Weight has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager Skills Give More Carry Weight has no showable settings, skipping.
 [Info   : Unity Log] ConfigurationManager DeathIconUpdate has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager DeathIconUpdate has no showable settings, skipping.
 [Info   : Unity Log] ConfigurationManager Crawler has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager Crawler has no showable settings, skipping.
 [Info   : Unity Log] ConfigurationManager MonsterLabZ has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager MonsterLabZ has no showable settings, skipping.
 [Info   : Unity Log] ConfigurationManager DoD Assets has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager DoD Assets has no showable settings, skipping.
 [Info   : Unity Log] ConfigurationManager Golem has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager Golem has no showable settings, skipping.
 [Info   : Unity Log] ConfigurationManager Potions has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager Potions has no showable settings, skipping.
 [Info   : Unity Log] ConfigurationManager DoOrDieMonsters has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager DoOrDieMonsters has no showable settings, skipping.
 [Info   : Unity Log] ConfigurationManager RuneMagic has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager RuneMagic has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager No Roof Workbench has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager No Roof Workbench has no showable settings, skipping.
 [Info   : Unity Log] ConfigurationManager MagicOverhaul has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager MagicOverhaul has no showable settings, skipping.
 [Info   : Unity Log] ConfigurationManager Build Camera has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager Build Camera has no showable settings, skipping.
 [Info   : Unity Log] ConfigurationManager Monsterzz has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager Monsterzz has no showable settings, skipping.
 [Info   : Unity Log] ConfigurationManager MoreSkills has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager MoreSkills has no showable settings, skipping.
 [Info   : Unity Log] ConfigurationManager HoneyPlus has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager HoneyPlus has no showable settings, skipping.
 [Info   : Unity Log] ConfigurationManager Less Food Degradation has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager Less Food Degradation has no showable settings, skipping.
 [Info   : Unity Log] ConfigurationManager Norse Core has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager Norse Core has no showable settings, skipping.
 [Info   : Unity Log] ConfigurationManager Steady Regeneration has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager Steady Regeneration has no showable settings, skipping.
 [Info   : Unity Log] ConfigurationManager Blast Furnace Fix has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager Blast Furnace Fix has no showable settings, skipping.
 [Info   : Unity Log] ConfigurationManager Mod Config Enforcer has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager Mod Config Enforcer has no showable settings, skipping.
 [Info   : Unity Log] ConfigurationManager ForcePVP has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager ForcePVP has no showable settings, skipping.
 [Info   : Unity Log] ConfigurationManager Jam has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager Jam has no showable settings, skipping.
 [Info   : Unity Log] ConfigurationManager Friendlies has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager Friendlies has no showable settings, skipping.
 [Info   : Unity Log] ConfigurationManager FriendliesAssets has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager FriendliesAssets has no showable settings, skipping.
 [Info   : Unity Log] ConfigurationManager Teleporter Title has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager Teleporter Title has no showable settings, skipping.
+[Info   : Unity Log] ConfigurationManager MerchantFinder has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager MerchantFinder has no showable settings, skipping.
 [Info   : Unity Log] ConfigurationManager WendigoMonsterZZ has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager WendigoMonsterZZ has no showable settings, skipping.
 [Info   : Unity Log] ConfigurationManager WereBearZZ has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager WereBearZZ has no showable settings, skipping.
 [Info   : Unity Log] ConfigurationManager WhereWolves has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager WhereWolves has no showable settings, skipping.
 [Info   : Unity Log] ConfigurationManager Wizard has no showable settings, skipping.
+[Message:UnityExplorer] [Unity] ConfigurationManager Wizard has no showable settings, skipping.
 [Info   : Unity Log] ConfigurationManager YetiMonsterZ has no showable settings, skipping.
-[Info   : Unity Log] 12/15/2021 21:20:18: Setting selected recipe 2
+[Message:UnityExplorer] [Unity] ConfigurationManager YetiMonsterZ has no showable settings, skipping.
+[Info   : Unity Log] 12/18/2021 00:19:23: Setting selected recipe 83
 
-[Info   : Unity Log] 12/15/2021 21:20:18: Setting selected recipe 2
+[Message:UnityExplorer] [Unity] 12/18/2021 00:19:23: Setting selected recipe 83
 
-[Info   : Unity Log] 12/15/2021 21:20:18: UI Group status changed root = True
+[Info   : Unity Log] 12/18/2021 00:19:24: Setting selected recipe 83
 
-[Info   : Unity Log] 12/15/2021 21:20:18: UI Group status changed Player = True
+[Message:UnityExplorer] [Unity] 12/18/2021 00:19:24: Setting selected recipe 83
+
+[Info   : Unity Log] 12/18/2021 00:19:24: UI Group status changed root = True
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:19:24: UI Group status changed root = True
+
+[Info   : Unity Log] 12/18/2021 00:19:24: UI Group status changed Player = True
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:19:24: UI Group status changed Player = True
+
+[Info   : Unity Log] 12/18/2021 00:20:26: Setting selected recipe 63
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:20:26: Setting selected recipe 63
+
+[Info   : Unity Log] 12/18/2021 00:20:29: Setting selected recipe 63
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:20:29: Setting selected recipe 63
+
+[Info   : Unity Log] 12/18/2021 00:20:32: Item is not in this container
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:20:32: Item is not in this container
+
+[Info   : Unity Log] 12/18/2021 00:20:33: Setting selected recipe 63
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:20:33: Setting selected recipe 63
 
 [Info   : Unity Log] Caching server config
+[Message:UnityExplorer] [Unity] Caching server config
 [Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] 12/15/2021 21:20:31: Setting selected recipe 2
-
-[Info   : Unity Log] 12/15/2021 21:20:31: Setting selected recipe 2
-
-[Info   : Unity Log] 12/15/2021 21:20:31: UI Group status changed root = True
-
-[Info   : Unity Log] 12/15/2021 21:20:31: UI Group status changed Player = True
-
+[Message:UnityExplorer] [Unity] Sending server config to 0 clients
 [Info   : Unity Log] Caching server config
+[Message:UnityExplorer] [Unity] Caching server config
 [Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] 12/15/2021 21:20:47: Disabling PlayerBase  character_trigger
+[Message:UnityExplorer] [Unity] Sending server config to 0 clients
+[Info   : Unity Log] 12/18/2021 00:20:37: Placed raise_v2
 
-[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Info   : Unity Log] 12/15/2021 21:20:55: Force generaeting hmap (192.0, 0.0, -192.0)
+[Message:UnityExplorer] [Unity] 12/18/2021 00:20:37: Placed raise_v2
 
-[Info   : Unity Log] 12/15/2021 21:20:55: Force generaeting hmap (192.0, 0.0, -256.0)
+[Info   : Unity Log] 12/18/2021 00:20:37: Placed raise_v2
 
-[Info   : Unity Log] 12/15/2021 21:21:00: Disabling PlayerBase  character_trigger
+[Message:UnityExplorer] [Unity] 12/18/2021 00:20:37: Placed raise_v2
 
-[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Info   : Unity Log] 12/15/2021 21:21:10: Starting respawn
+[Info   : Unity Log] 12/18/2021 00:20:38: Placed raise_v2
 
-[Warning: Unity Log] 12/15/2021 21:21:10: Local player destroyed
+[Message:UnityExplorer] [Unity] 12/18/2021 00:20:38: Placed raise_v2
 
-[Info   : Unity Log] 12/15/2021 21:21:10: tip:$loadscreen_tip12
+[Info   : Unity Log] 12/18/2021 00:20:40: Placed raise_v2
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:20:40: Placed raise_v2
+
+[Info   : Unity Log] 12/18/2021 00:20:41: Placed raise_v2
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:20:41: Placed raise_v2
+
+[Info   : Unity Log] 12/18/2021 00:20:42: Placed raise_v2
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:20:42: Placed raise_v2
+
+[Info   : Unity Log] 12/18/2021 00:20:46: Placed raise_v2
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:20:46: Placed raise_v2
+
+[Info   : Unity Log] 12/18/2021 00:20:47: Placed raise_v2
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:20:47: Placed raise_v2
+
+[Info   : Unity Log] 12/18/2021 00:20:47: Placed raise_v2
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:20:47: Placed raise_v2
+
+[Info   : Unity Log] 12/18/2021 00:20:55: Setting selected recipe 0
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:20:55: Setting selected recipe 0
+
+[Info   : Unity Log] 12/18/2021 00:20:55: Setting selected recipe 0
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:20:55: Setting selected recipe 0
+
+[Info   : Unity Log] 12/18/2021 00:20:55: UI Group status changed root = True
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:20:55: UI Group status changed root = True
+
+[Info   : Unity Log] 12/18/2021 00:20:55: UI Group status changed Player = True
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:20:55: UI Group status changed Player = True
+
+[Info   : Unity Log] 12/18/2021 00:21:06: Spawn time :71,1407 ms
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:21:06: Spawn time :71,1407 ms
+
+[Info   : Unity Log] 12/18/2021 00:21:11: Spawn time :100,7284 ms
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:21:11: Spawn time :100,7284 ms
+
+[Info   : Unity Log] 12/18/2021 00:21:17: Spawn time :65,32 ms
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:21:17: Spawn time :65,32 ms
+
+[Info   : Unity Log] 12/18/2021 00:21:20: Placed raise_v2
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:21:20: Placed raise_v2
+
+[Info   : Unity Log] 12/18/2021 00:21:23: Placed raise_v2
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:21:23: Placed raise_v2
+
+[Info   : Unity Log] 12/18/2021 00:21:26: Placed raise_v2
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:21:26: Placed raise_v2
+
+[Info   : Unity Log] 12/18/2021 00:21:26: Placed raise_v2
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:21:26: Placed raise_v2
+
+[Info   : Unity Log] 12/18/2021 00:21:27: Placed raise_v2
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:21:27: Placed raise_v2
+
+[Info   : Unity Log] 12/18/2021 00:21:27: Moved up item Stone(Clone)
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:21:27: Moved up item Stone(Clone)
+
+[Info   : Unity Log] 12/18/2021 00:21:28: Placed raise_v2
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:21:28: Placed raise_v2
+
+[Info   : Unity Log] 12/18/2021 00:21:29: Placed raise_v2
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:21:29: Placed raise_v2
+
+[Info   : Unity Log] 12/18/2021 00:21:29: Moved up item Stone(Clone)
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:21:29: Moved up item Stone(Clone)
+
+[Info   : Unity Log] 12/18/2021 00:21:30: Placed raise_v2
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:21:30: Placed raise_v2
+
+[Info   : Unity Log] 12/18/2021 00:21:30: Placed raise_v2
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:21:30: Placed raise_v2
+
+[Info   : Unity Log] 12/18/2021 00:21:31: Moved up item Stone(Clone)
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:21:31: Moved up item Stone(Clone)
+
+[Info   : Unity Log] 12/18/2021 00:21:31: Placed raise_v2
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:21:31: Placed raise_v2
+
+[Info   : Unity Log] 12/18/2021 00:21:35: Moved up item Stone(Clone)
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:21:35: Moved up item Stone(Clone)
+
+[Info   : Unity Log] 12/18/2021 00:21:36: Moved up item Stone(Clone)
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:21:36: Moved up item Stone(Clone)
+
+[Info   : Unity Log] 12/18/2021 00:21:36: Moved up item Stone(Clone)
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:21:36: Moved up item Stone(Clone)
+
+[Info   : Unity Log] 12/18/2021 00:21:38: Moved up item Stone(Clone)
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:21:38: Moved up item Stone(Clone)
+
+[Info   : Unity Log] 12/18/2021 00:21:38: Moved up item Stone(Clone)
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:21:38: Moved up item Stone(Clone)
+
+[Info   : Unity Log] 12/18/2021 00:21:43: Starting respawn
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:21:43: Starting respawn
+
+[Warning: Unity Log] 12/18/2021 00:21:43: Local player destroyed
+
+[Warning:UnityExplorer] [Unity] 12/18/2021 00:21:43: Local player destroyed
+
+[Info   : Unity Log] 12/18/2021 00:21:43: tip:$loadscreen_tip02
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:21:43: tip:$loadscreen_tip02
+
+[Info   : Unity Log] 12/18/2021 00:21:45: Vis equip model set to 1
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:21:45: Vis equip model set to 1
 
 [Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
 [Info   :BiggerPickupRadius] 2
 [Info   :BiggerPickupRadius] Player pickup range set to 6
 [Info   : Unity Log] Caching server config
+[Message:UnityExplorer] [Unity] Caching server config
 [Info   : Unity Log] Sending server config to 0 clients
+[Message:UnityExplorer] [Unity] Sending server config to 0 clients
 [Info   : Unity Log] Caching server config
+[Message:UnityExplorer] [Unity] Caching server config
 [Info   : Unity Log] Sending server config to 0 clients
+[Message:UnityExplorer] [Unity] Sending server config to 0 clients
 [Info   : Unity Log] Caching server config
+[Message:UnityExplorer] [Unity] Caching server config
 [Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Info   : Unity Log] 12/15/2021 21:21:11: Resumed music meadows at 0
+[Message:UnityExplorer] [Unity] Sending server config to 0 clients
+[Info   : Unity Log] 12/18/2021 00:21:59: UI Group status changed MenuRoot = True
 
-[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Info   : Unity Log] 12/15/2021 21:21:18: Vis equip model set to 1
+[Message:UnityExplorer] [Unity] 12/18/2021 00:21:59: UI Group status changed MenuRoot = True
 
-[Info   : Unity Log] 12/15/2021 21:21:20: Disabling PlayerBase  character_trigger
+[Info   : Unity Log] 12/18/2021 00:22:01: UI Group status changed MenuRoot = False
 
-[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Info   : Unity Log] 12/15/2021 21:21:23: Queue unlock msg:$msg_newstation:$piece_workbench
+[Message:UnityExplorer] [Unity] 12/18/2021 00:22:01: UI Group status changed MenuRoot = False
 
-[Info   : Unity Log] 12/15/2021 21:21:23: Queue unlock msg:$msg_newrecipe:$item_chest_rags
+[Info   : Unity Log] 12/18/2021 00:22:02: Game - OnApplicationQuit
 
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newrecipe:$item_legs_rags
+[Message:UnityExplorer] [Unity] 12/18/2021 00:22:02: Game - OnApplicationQuit
 
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newrecipe:$item_bow
+[Info   : Unity Log] 12/18/2021 00:22:02: Shuting down
 
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newrecipe:$item_hoe
+[Message:UnityExplorer] [Unity] 12/18/2021 00:22:02: Shuting down
 
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newrecipe:$item_shield_wood
+[Info   : Unity Log] 12/18/2021 00:22:02: ZNet Shutdown
 
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newrecipe:$item_shield_woodtower
+[Message:UnityExplorer] [Unity] 12/18/2021 00:22:02: ZNet Shutdown
 
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newrecipe:$item_trophy_greydwarf
+[Info   : Unity Log] 12/18/2021 00:22:05: clone 2894
 
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newrecipe:$BackpackSimple
+[Message:UnityExplorer] [Unity] 12/18/2021 00:22:05: clone 2894
 
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newpiece:$piece_woodfloor2x2
+[Info   : Unity Log] 12/18/2021 00:22:10: Sending disconnect msg
 
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newpiece:$piece_woodfloor1x1
+[Message:UnityExplorer] [Unity] 12/18/2021 00:22:10: Sending disconnect msg
 
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newpiece:$piece_woodwall
+[Info   : Unity Log] 12/18/2021 00:22:12: FOund selected ButtonYes
 
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newpiece:$piece_woodwallhalf
+[Message:UnityExplorer] [Unity] 12/18/2021 00:22:12: FOund selected ButtonYes
 
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newpiece:$piece_wooddoor
+[Info   : Unity Log] 12/18/2021 00:22:12: ZNet OnDestroy
 
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newpiece:$piece_woodgate
+[Message:UnityExplorer] [Unity] 12/18/2021 00:22:12: ZNet OnDestroy
 
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newpiece:$piece_woodstair
+[Info   : Unity Log] 12/18/2021 00:22:12: Net scene destroyed
 
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newpiece:$piece_woodstepladder
+[Message:UnityExplorer] [Unity] 12/18/2021 00:22:12: Net scene destroyed
 
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newpiece:$piece_woodroof45
+[Warning: Unity Log] 12/18/2021 00:22:12: Local player destroyed
 
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newpiece:$piece_woodrooftop45
-
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newpiece:$piece_woodroofocorner45
-
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newpiece:$piece_woodrooficorner45
-
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newpiece:$piece_woodwallroof45
-
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newpiece:$piece_woodwallrooftop45
-
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newpiece:$piece_woodroof26
-
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newpiece:$piece_woodrooftop
-
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newpiece:$piece_woodroofocorner
-
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newpiece:$piece_woodrooficorner
-
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newpiece:$piece_woodwallroof
-
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newpiece:$piece_woodwallrooftop
-
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newpiece:$piece_woodpole
-
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newpiece:$piece_woodpole2
-
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newpiece:$piece_woodbeam1
-
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newpiece:$piece_woodbeam2
-
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newpiece:$piece_woodbeam26
-
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newpiece:$piece_woodbeam45
-
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newpiece:$piece_woodfence
-
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newpiece:$piece_stakewall
-
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newpiece:$piece_bed
-
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newpiece:$piece_chestwood
-
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newpiece:$piece_groundtorchwood
-
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newpiece:$ship_raft
-
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newpiece:$piece_rug_deer
-
-[Info   : Unity Log] 12/15/2021 21:21:24: Queue unlock msg:$msg_newpiece:$piece_raise
-
-[Info   : Unity Log] 12/15/2021 21:21:24: Disabling PlayerBase  character_trigger
-
-[Info   : Unity Log] 12/15/2021 21:21:24: Placed piece_workbench
-
-[Info   : Unity Log] 12/15/2021 21:21:24: Disabling PlayerBase  character_trigger
-
-[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Info   : Unity Log] 12/15/2021 21:21:27: Disabling PlayerBase  character_trigger
-
-[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Info   : Unity Log] 12/15/2021 21:21:28: Queue unlock msg:$msg_newstation:$piece_stonecutter
-
-[Info   : Unity Log] 12/15/2021 21:21:28: Queue unlock msg:$msg_newrecipe:$item_sharpeningstone
-
-[Info   : Unity Log] 12/15/2021 21:21:28: Queue unlock msg:$msg_newpiece:$piece_hearth
-
-[Info   : Unity Log] 12/15/2021 21:21:28: Queue unlock msg:$msg_newpiece:$piece_stonewall1x1
-
-[Info   : Unity Log] 12/15/2021 21:21:28: Queue unlock msg:$msg_newpiece:$piece_stonewall2x1
-
-[Info   : Unity Log] 12/15/2021 21:21:28: Queue unlock msg:$msg_newpiece:$piece_stonewall4x2
-
-[Info   : Unity Log] 12/15/2021 21:21:28: Queue unlock msg:$msg_newpiece:$piece_stonepillar
-
-[Info   : Unity Log] 12/15/2021 21:21:28: Queue unlock msg:$msg_newpiece:$piece_stonearch
-
-[Info   : Unity Log] 12/15/2021 21:21:28: Queue unlock msg:$msg_newpiece:$piece_stonefloor2x2
-
-[Info   : Unity Log] 12/15/2021 21:21:28: Queue unlock msg:$msg_newpiece:$piece_stonestair
-
-[Info   : Unity Log] 12/15/2021 21:21:28: Queue unlock msg:$msg_newpiece:Standing Stone
-
-[Info   : Unity Log] 12/15/2021 21:21:28: Queue unlock msg:$msg_newpiece:Smokeless Hearth
-
-[Info   : Unity Log] 12/15/2021 21:21:28: Queue unlock msg:$msg_newpiece:$piece_pavedroad
-
-[Info   : Unity Log] 12/15/2021 21:21:28: Disabling PlayerBase  character_trigger
-
-[Info   : Unity Log] 12/15/2021 21:21:28: Placed piece_stonecutter
-
-[Info   : Unity Log] 12/15/2021 21:21:28: Disabling PlayerBase  character_trigger
-
-[Info   : Unity Log] 12/15/2021 21:21:28: Disabling PlayerBase  character_trigger
-
-[Info   : Unity Log] 12/15/2021 21:21:28: Disabling PlayerBase  character_trigger
-
-[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Info   : Unity Log] 12/15/2021 21:21:30: Disabling PlayerBase  character_trigger
-
-[Info   : Unity Log] 12/15/2021 21:21:32: Placed blastfurnace
-
-[Info   : Unity Log] 12/15/2021 21:21:32: Disabling PlayerBase  character_trigger
-
-[Info   : Unity Log] 12/15/2021 21:21:32: Disabling PlayerBase  character_trigger
-
-[Info   : Unity Log] 12/15/2021 21:21:32: Disabling PlayerBase  character_trigger
-
-[Info   : Unity Log] 12/15/2021 21:21:32: Disabling PlayerBase  character_trigger
-
-[Info   : Unity Log] 12/15/2021 21:21:39: Disabling PlayerBase  character_trigger
-
-[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Info   : Unity Log] 12/15/2021 21:21:42: Queue unlock msg:$msg_newstation:$piece_forge
-
-[Info   : Unity Log] 12/15/2021 21:21:42: Placed forge
-
-[Info   : Unity Log] 12/15/2021 21:21:42: Disabling PlayerBase  character_trigger
-
-[Info   : Unity Log] 12/15/2021 21:21:42: Disabling PlayerBase  character_trigger
-
-[Info   : Unity Log] 12/15/2021 21:21:42: Disabling PlayerBase  character_trigger
-
-[Info   : Unity Log] 12/15/2021 21:21:42: Disabling PlayerBase  character_trigger
-
-[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Info   : Unity Log] 12/15/2021 21:21:51: Disabling FireWarmth  character_trigger
-
-[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Info   : Unity Log] 12/15/2021 21:21:52: Queue unlock msg:$msg_newstation:Prep Table
-
-[Info   : Unity Log] 12/15/2021 21:21:52: Placed rk_prep
-
-[Info   : Unity Log] 12/15/2021 21:21:52: Disabling FireWarmth  character_trigger
-
-[Info   : Unity Log] 12/15/2021 21:21:52: Disabling FireWarmth  character_trigger
-
-[Info   : Unity Log] 12/15/2021 21:21:52: Disabling FireWarmth  character_trigger
-
-[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Error  : Unity Log] IndexOutOfRangeException: Index was outside the bounds of the array.
-Stack trace:
-(wrapper dynamic-method) Hud.DMD<Hud::SetupPieceInfo>(Hud,Piece)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?-950056960(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?-357300992(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] IndexOutOfRangeException: Index was outside the bounds of the array.
-Stack trace:
-(wrapper dynamic-method) Hud.DMD<Hud::SetupPieceInfo>(Hud,Piece)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?-950056960(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?-357300992(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] IndexOutOfRangeException: Index was outside the bounds of the array.
-Stack trace:
-(wrapper dynamic-method) Hud.DMD<Hud::SetupPieceInfo>(Hud,Piece)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?-950056960(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?-357300992(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] IndexOutOfRangeException: Index was outside the bounds of the array.
-Stack trace:
-(wrapper dynamic-method) Hud.DMD<Hud::SetupPieceInfo>(Hud,Piece)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?-950056960(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?-357300992(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] IndexOutOfRangeException: Index was outside the bounds of the array.
-Stack trace:
-(wrapper dynamic-method) Hud.DMD<Hud::SetupPieceInfo>(Hud,Piece)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?-950056960(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?-357300992(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] IndexOutOfRangeException: Index was outside the bounds of the array.
-Stack trace:
-(wrapper dynamic-method) Hud.DMD<Hud::SetupPieceInfo>(Hud,Piece)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?-950056960(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?-357300992(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] IndexOutOfRangeException: Index was outside the bounds of the array.
-Stack trace:
-(wrapper dynamic-method) Hud.DMD<Hud::SetupPieceInfo>(Hud,Piece)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?-950056960(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?-357300992(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] IndexOutOfRangeException: Index was outside the bounds of the array.
-Stack trace:
-(wrapper dynamic-method) Hud.DMD<Hud::SetupPieceInfo>(Hud,Piece)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?-950056960(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?-357300992(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] IndexOutOfRangeException: Index was outside the bounds of the array.
-Stack trace:
-(wrapper dynamic-method) Hud.DMD<Hud::SetupPieceInfo>(Hud,Piece)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?-950056960(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?-357300992(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] IndexOutOfRangeException: Index was outside the bounds of the array.
-Stack trace:
-(wrapper dynamic-method) Hud.DMD<Hud::SetupPieceInfo>(Hud,Piece)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?-950056960(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?-357300992(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] IndexOutOfRangeException: Index was outside the bounds of the array.
-Stack trace:
-(wrapper dynamic-method) Hud.DMD<Hud::SetupPieceInfo>(Hud,Piece)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?-950056960(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?-357300992(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] IndexOutOfRangeException: Index was outside the bounds of the array.
-Stack trace:
-(wrapper dynamic-method) Hud.DMD<Hud::SetupPieceInfo>(Hud,Piece)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?-950056960(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?-357300992(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] IndexOutOfRangeException: Index was outside the bounds of the array.
-Stack trace:
-(wrapper dynamic-method) Hud.DMD<Hud::SetupPieceInfo>(Hud,Piece)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?-950056960(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?-357300992(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] IndexOutOfRangeException: Index was outside the bounds of the array.
-Stack trace:
-(wrapper dynamic-method) Hud.DMD<Hud::SetupPieceInfo>(Hud,Piece)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?-950056960(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?-357300992(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] IndexOutOfRangeException: Index was outside the bounds of the array.
-Stack trace:
-(wrapper dynamic-method) Hud.DMD<Hud::SetupPieceInfo>(Hud,Piece)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?-950056960(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?-357300992(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] IndexOutOfRangeException: Index was outside the bounds of the array.
-Stack trace:
-(wrapper dynamic-method) Hud.DMD<Hud::SetupPieceInfo>(Hud,Piece)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?-950056960(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?-357300992(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] IndexOutOfRangeException: Index was outside the bounds of the array.
-Stack trace:
-(wrapper dynamic-method) Hud.DMD<Hud::SetupPieceInfo>(Hud,Piece)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?-950056960(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?-357300992(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] IndexOutOfRangeException: Index was outside the bounds of the array.
-Stack trace:
-(wrapper dynamic-method) Hud.DMD<Hud::SetupPieceInfo>(Hud,Piece)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?-950056960(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?-357300992(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] IndexOutOfRangeException: Index was outside the bounds of the array.
-Stack trace:
-(wrapper dynamic-method) Hud.DMD<Hud::SetupPieceInfo>(Hud,Piece)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?-950056960(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?-357300992(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] IndexOutOfRangeException: Index was outside the bounds of the array.
-Stack trace:
-(wrapper dynamic-method) Hud.DMD<Hud::SetupPieceInfo>(Hud,Piece)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?-950056960(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?-357300992(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] IndexOutOfRangeException: Index was outside the bounds of the array.
-Stack trace:
-(wrapper dynamic-method) Hud.DMD<Hud::SetupPieceInfo>(Hud,Piece)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?-950056960(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?-357300992(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] IndexOutOfRangeException: Index was outside the bounds of the array.
-Stack trace:
-(wrapper dynamic-method) Hud.DMD<Hud::SetupPieceInfo>(Hud,Piece)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?-950056960(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?-357300992(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] IndexOutOfRangeException: Index was outside the bounds of the array.
-Stack trace:
-(wrapper dynamic-method) Hud.DMD<Hud::SetupPieceInfo>(Hud,Piece)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?-950056960(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?-357300992(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] IndexOutOfRangeException: Index was outside the bounds of the array.
-Stack trace:
-(wrapper dynamic-method) Hud.DMD<Hud::SetupPieceInfo>(Hud,Piece)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?-950056960(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?-357300992(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Info   : Unity Log] 12/15/2021 21:22:23: Disabling PlayerBase  character_trigger
-
-[Info   : Unity Log] 12/15/2021 21:22:25: Placed hearth
-
-[Info   : Unity Log] 12/15/2021 21:22:25: Disabling PlayerBase  character_trigger
-
-[Info   : Unity Log] 12/15/2021 21:22:27: Disabling FireWarmth  character_trigger
-
-[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Info   : Unity Log] 12/15/2021 21:22:28: Disabling Capsule_blockplayer  blocker
-
-[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Info   : Unity Log] 12/15/2021 21:22:29: Queue unlock msg:$msg_newstation:$piece_cauldron
-
-[Info   : Unity Log] 12/15/2021 21:22:29: Queue unlock msg:$msg_newrecipe:Raspberry jam
-
-[Info   : Unity Log] 12/15/2021 21:22:29: Placed piece_cauldron
-
-[Info   : Unity Log] 12/15/2021 21:22:29: Disabling Capsule_blockplayer  blocker
-
-[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] 12/15/2021 21:22:39: Setting selected recipe 54
-
-[Info   : Unity Log] 12/15/2021 21:22:39: Setting selected recipe 54
-
-[Info   : Unity Log] 12/15/2021 21:22:39: UI Group status changed root = True
-
-[Info   : Unity Log] 12/15/2021 21:22:39: UI Group status changed Player = True
-
-[Info   : Unity Log] 12/15/2021 21:22:47: Vis equip model set to 1
-
-[Info   : Unity Log] 12/15/2021 21:22:49: Force generaeting hmap (192.0, 0.0, -192.0)
-
-[Info   : Unity Log] 12/15/2021 21:22:49: Force generaeting hmap (192.0, 0.0, -256.0)
-
-[Info   : Unity Log] 12/15/2021 21:22:50: Grave should fit in inventory, loot all
-
-[Info   : Unity Log] 12/15/2021 21:22:50: Player 1726802803 wants to takeall from Player_tombstone(Clone)   im: 1726802803
-
-[Info   : Unity Log] 12/15/2021 21:22:50: Added to stack2 0
-
-[Info   : Unity Log] 12/15/2021 21:22:55: Vis equip model set to 1
-
-[Info   : Unity Log] 12/15/2021 21:22:56: Spawned Deer x 3
-
-[Info   : Unity Log] 12/15/2021 21:23:05: Setting selected recipe 54
-
-[Info   : Unity Log] 12/15/2021 21:23:05: Setting selected recipe 54
-
-[Info   : Unity Log] 12/15/2021 21:23:05: UI Group status changed root = True
-
-[Info   : Unity Log] 12/15/2021 21:23:05: UI Group status changed Player = True
-
-[Info   : Unity Log] 12/15/2021 21:23:14: FOund selected TabButton_Skills
-
-[Info   : Unity Log] 12/15/2021 21:23:20: Vis equip model set to 1
-
-[Info   : Unity Log] 12/15/2021 21:23:29: Spawned Greyling x 3
-
-[Info   : Unity Log] 12/15/2021 21:23:29: Loading dungeon
-
-[Info   : Unity Log] 12/15/2021 21:23:29: Dungeon loaded 7
-
-[Info   : Unity Log] 12/15/2021 21:23:29: Dungeon load time 43,9407 ms
-
-[Info   : Unity Log] 12/15/2021 21:23:40: Loading dungeon
-
-[Info   : Unity Log] 12/15/2021 21:23:40: Dungeon loaded 7
-
-[Info   : Unity Log] 12/15/2021 21:23:40: Dungeon load time 42,8867 ms
-
-[Info   : Unity Log] 12/15/2021 21:23:42: Spawned Fish2 x 1
-
-[Info   : Unity Log] 12/15/2021 21:23:47: Spawned Fish3 x 1
-
-[Info   : Unity Log] 12/15/2021 21:24:05: Spawned Deer x 2
-
-[Info   : Unity Log] 12/15/2021 21:24:05: Spawned Greyling x 3
-
-[Info   : Unity Log] 12/15/2021 21:24:05: Spawned Greyling x 1
-
-[Info   : Unity Log] 12/15/2021 21:24:05: Spawned RRRN_FriendlyMelee_Male_0 x 1
-
-[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Info   : Unity Log] 12/15/2021 21:24:13: Loading dungeon
-
-[Info   : Unity Log] 12/15/2021 21:24:13: Dungeon loaded 7
-
-[Info   : Unity Log] 12/15/2021 21:24:13: Dungeon load time 43,3918 ms
-
-[Info   : Unity Log] 12/15/2021 21:24:25: Vis equip model set to 1
-
-[Info   : Unity Log] 12/15/2021 21:24:25: Spawned RRRN_FriendlyMelee_Male_0 x 1
-
-[Info   : Unity Log] 12/15/2021 21:24:48: Setting selected recipe 54
-
-[Info   : Unity Log] 12/15/2021 21:24:48: UI Group status changed root = True
-
-[Info   : Unity Log] 12/15/2021 21:24:48: UI Group status changed Player = True
-
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] 12/15/2021 21:28:16: UI Group status changed MenuRoot = True
-
-[Info   : Unity Log] 12/15/2021 21:28:18: UI Group status changed MenuRoot = False
-
-[Info   : Unity Log] 12/15/2021 21:28:20: Game - OnApplicationQuit
-
-[Info   : Unity Log] 12/15/2021 21:28:20: Shuting down
-
-[Info   : Unity Log] 12/15/2021 21:28:21: ZNet Shutdown
-
-[Info   : Unity Log] 12/15/2021 21:28:22: clone 1553
-
-[Info   : Unity Log] 12/15/2021 21:28:25: Sending disconnect msg
-
-[Info   : Unity Log] 12/15/2021 21:28:27: FOund selected ButtonYes
-
-[Info   : Unity Log] 12/15/2021 21:28:27: ZNet OnDestroy
-
-[Info   : Unity Log] 12/15/2021 21:28:27: Net scene destroyed
-
-[Info   : Unity Log] 12/15/2021 21:28:27: Steam manager on destroy
-
-[Warning: Unity Log] 12/15/2021 21:28:27: Local player destroyed
+[Warning:UnityExplorer] [Unity] 12/18/2021 00:22:12: Local player destroyed
 
 [Info   : Unity Log] Compass Destroying plugin
-[Warning:  HarmonyX] UnpatchAll has been called with harmonyID=null - This will remove ALL HARMONY PATCHES. If you want to only unpatch patches created by this instance (harmony-auto-091ab6ba-40b8-431d-82bc-aed2ea24be5a), use UnpatchSelf() instead.
+[Message:UnityExplorer] [Unity] Compass Destroying plugin
+[Warning:  HarmonyX] UnpatchAll has been called with harmonyID=null - This will remove ALL HARMONY PATCHES. If you want to only unpatch patches created by this instance (harmony-auto-b41c566a-ee11-4d27-9d7c-cc8ee23f56c0), use UnpatchSelf() instead.
+[Info   : Unity Log] Crafting Skill UnPatched!
+[Message:UnityExplorer] [Unity] Crafting Skill UnPatched!
+[Info   : Unity Log] Fishing Skill UnPatched!
+[Message:UnityExplorer] [Unity] Fishing Skill UnPatched!
+[Info   : Unity Log] Hunting Skill UnPatched!
+[Message:UnityExplorer] [Unity] Hunting Skill UnPatched!
+[Info   : Unity Log] Overhauls UnPatched!
+[Message:UnityExplorer] [Unity] Overhauls UnPatched!
+[Info   : Unity Log] Sailing Skill UnPatched!
+[Message:UnityExplorer] [Unity] Sailing Skill UnPatched!
+[Info   : Unity Log] Strength Skill UnPatched!
+[Message:UnityExplorer] [Unity] Strength Skill UnPatched!
+[Info   : Unity Log] Taming Skill UnPatched!
+[Message:UnityExplorer] [Unity] Taming Skill UnPatched!
+[Info   : Unity Log] Vitality Skill UnPatched!
+[Message:UnityExplorer] [Unity] Vitality Skill UnPatched!
+[Warning:  HarmonyX] UnpatchAll has been called with harmonyID=null - This will remove ALL HARMONY PATCHES. If you want to only unpatch patches created by this instance (MeadBaseIconFix), use UnpatchSelf() instead.
+[Info   : Unity Log] 12/18/2021 00:22:18: Steam manager on destroy
+
+[Message:UnityExplorer] [Unity] 12/18/2021 00:22:18: Steam manager on destroy
+
