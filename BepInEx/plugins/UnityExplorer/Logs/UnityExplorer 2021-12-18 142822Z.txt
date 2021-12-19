@@ -1,0 +1,297 @@
+UnityExplorer 4.4.0 initializing...
+Cached AppDomain assemblies in 0,4404221 seconds
+Finished core setup, waiting for delayed setup...
+Finished core setup, waiting for late setup...
+Initialized Legacy Input support
+Loaded modern bundle for Unity 2019.4.24f1
+UniverseLib 1.0.0 initialized.
+Setting up late core features...
+Creating UI...
+
+UnityExplorer 4.4.0 initialized.
+[Unity] MissingMethodException: UnityEngine.GameObject[] EffectList.Create(UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.Transform,single,int)
+[Unity] ConfigurationManager all plugins: 113
+[Unity] ConfigurationManager This Goes Here has no showable settings, skipping.
+[Unity] ConfigurationManager serverblankpassword has no showable settings, skipping.
+[Unity] ConfigurationManager Custom Raids has no showable settings, skipping.
+[Unity] ConfigurationManager 9 settings are not browseable, removing.
+[Unity] ConfigurationManager Spawn That! has no showable settings, skipping.
+[Unity] ConfigurationManager Drop That! has no showable settings, skipping.
+[Unity] ConfigurationManager Sell That! has no showable settings, skipping.
+[Unity] ConfigurationManager FloatingItems has no showable settings, skipping.
+[Unity] ConfigurationManager RRRCore has no showable settings, skipping.
+[Unity] ConfigurationManager Jotunn has no showable settings, skipping.
+[Unity] ConfigurationManager Skills Give More Carry Weight has no showable settings, skipping.
+[Unity] ConfigurationManager DeathIconUpdate has no showable settings, skipping.
+[Unity] ConfigurationManager Crawler has no showable settings, skipping.
+[Unity] ConfigurationManager MonsterLabZ has no showable settings, skipping.
+[Unity] ConfigurationManager DoD Assets has no showable settings, skipping.
+[Unity] ConfigurationManager Golem has no showable settings, skipping.
+[Unity] ConfigurationManager Potions has no showable settings, skipping.
+[Unity] ConfigurationManager DoOrDieMonsters has no showable settings, skipping.
+[Unity] ConfigurationManager RuneMagic has no showable settings, skipping.
+[Unity] ConfigurationManager No Roof Workbench has no showable settings, skipping.
+[Unity] ConfigurationManager MagicOverhaul has no showable settings, skipping.
+[Unity] ConfigurationManager Build Camera has no showable settings, skipping.
+[Unity] ConfigurationManager Monsterzz has no showable settings, skipping.
+[Unity] ConfigurationManager MoreSkills has no showable settings, skipping.
+[Unity] ConfigurationManager HoneyPlus has no showable settings, skipping.
+[Unity] ConfigurationManager Less Food Degradation has no showable settings, skipping.
+[Unity] ConfigurationManager Norse Core has no showable settings, skipping.
+[Unity] ConfigurationManager Steady Regeneration has no showable settings, skipping.
+[Unity] ConfigurationManager Blast Furnace Fix has no showable settings, skipping.
+[Unity] ConfigurationManager Mod Config Enforcer has no showable settings, skipping.
+[Unity] ConfigurationManager ForcePVP has no showable settings, skipping.
+[Unity] ConfigurationManager Jam has no showable settings, skipping.
+[Unity] ConfigurationManager Friendlies has no showable settings, skipping.
+[Unity] ConfigurationManager FriendliesAssets has no showable settings, skipping.
+[Unity] ConfigurationManager Teleporter Title has no showable settings, skipping.
+[Unity] ConfigurationManager MerchantFinder has no showable settings, skipping.
+[Unity] ConfigurationManager WendigoMonsterZZ has no showable settings, skipping.
+[Unity] ConfigurationManager WereBearZZ has no showable settings, skipping.
+[Unity] ConfigurationManager WhereWolves has no showable settings, skipping.
+[Unity] ConfigurationManager Wizard has no showable settings, skipping.
+[Unity] ConfigurationManager YetiMonsterZ has no showable settings, skipping.
+[Unity] MissingMethodException: UnityEngine.GameObject[] EffectList.Create(UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.Transform,single,int)
+[Unity] MissingMethodException: UnityEngine.GameObject[] EffectList.Create(UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.Transform,single,int)
+[Unity] MissingMethodException: UnityEngine.GameObject[] EffectList.Create(UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.Transform,single,int)
+[Unity] 12/18/2021 14:30:58: Spawned Seagal x 1
+
+[Unity] 12/18/2021 14:30:58: Spawned Fish1 x 3
+
+[Unity] 12/18/2021 14:30:58: Spawned Fish3 x 1
+
+[Unity] 12/18/2021 14:30:58: Spawned Fish3 x 2
+
+[Unity] Caching server config
+[Unity] Sending server config to 0 clients
+[Unity] Caching server config
+[Unity] Sending server config to 0 clients
+[Unity] Look rotation viewing vector is zero
+[Unity] ConfigurationManager all plugins: 113
+[Unity] ConfigurationManager This Goes Here has no showable settings, skipping.
+[Unity] ConfigurationManager serverblankpassword has no showable settings, skipping.
+[Unity] ConfigurationManager Custom Raids has no showable settings, skipping.
+[Unity] ConfigurationManager 9 settings are not browseable, removing.
+[Unity] ConfigurationManager Spawn That! has no showable settings, skipping.
+[Unity] ConfigurationManager Drop That! has no showable settings, skipping.
+[Unity] ConfigurationManager Sell That! has no showable settings, skipping.
+[Unity] ConfigurationManager FloatingItems has no showable settings, skipping.
+[Unity] ConfigurationManager RRRCore has no showable settings, skipping.
+[Unity] ConfigurationManager Jotunn has no showable settings, skipping.
+[Unity] ConfigurationManager Skills Give More Carry Weight has no showable settings, skipping.
+[Unity] ConfigurationManager DeathIconUpdate has no showable settings, skipping.
+[Unity] ConfigurationManager Crawler has no showable settings, skipping.
+[Unity] ConfigurationManager MonsterLabZ has no showable settings, skipping.
+[Unity] ConfigurationManager DoD Assets has no showable settings, skipping.
+[Unity] ConfigurationManager Golem has no showable settings, skipping.
+[Unity] ConfigurationManager Potions has no showable settings, skipping.
+[Unity] ConfigurationManager DoOrDieMonsters has no showable settings, skipping.
+[Unity] ConfigurationManager RuneMagic has no showable settings, skipping.
+[Unity] ConfigurationManager No Roof Workbench has no showable settings, skipping.
+[Unity] ConfigurationManager MagicOverhaul has no showable settings, skipping.
+[Unity] ConfigurationManager Build Camera has no showable settings, skipping.
+[Unity] ConfigurationManager Monsterzz has no showable settings, skipping.
+[Unity] ConfigurationManager MoreSkills has no showable settings, skipping.
+[Unity] ConfigurationManager HoneyPlus has no showable settings, skipping.
+[Unity] ConfigurationManager Less Food Degradation has no showable settings, skipping.
+[Unity] ConfigurationManager Norse Core has no showable settings, skipping.
+[Unity] ConfigurationManager Steady Regeneration has no showable settings, skipping.
+[Unity] ConfigurationManager Blast Furnace Fix has no showable settings, skipping.
+[Unity] ConfigurationManager Mod Config Enforcer has no showable settings, skipping.
+[Unity] ConfigurationManager ForcePVP has no showable settings, skipping.
+[Unity] ConfigurationManager Jam has no showable settings, skipping.
+[Unity] ConfigurationManager Friendlies has no showable settings, skipping.
+[Unity] ConfigurationManager FriendliesAssets has no showable settings, skipping.
+[Unity] ConfigurationManager Teleporter Title has no showable settings, skipping.
+[Unity] ConfigurationManager MerchantFinder has no showable settings, skipping.
+[Unity] ConfigurationManager WendigoMonsterZZ has no showable settings, skipping.
+[Unity] ConfigurationManager WereBearZZ has no showable settings, skipping.
+[Unity] ConfigurationManager WhereWolves has no showable settings, skipping.
+[Unity] ConfigurationManager Wizard has no showable settings, skipping.
+[Unity] ConfigurationManager YetiMonsterZ has no showable settings, skipping.
+[Unity] 12/18/2021 14:31:28: Setting selected recipe 0
+
+[Unity] 12/18/2021 14:31:28: UI Group status changed root = True
+
+[Unity] 12/18/2021 14:31:28: UI Group status changed Player = True
+
+[Unity] Caching server config
+[Unity] Sending server config to 0 clients
+[Unity] Caching server config
+[Unity] Sending server config to 0 clients
+[Unity] 12/18/2021 14:31:50: Disabling Container  item
+
+[Unity] 12/18/2021 14:31:56: Placed Cart
+
+[Unity] 12/18/2021 14:31:56: Disabling Container  item
+
+[Unity] 12/18/2021 14:31:56: Disabling Container  item
+
+[Unity] 12/18/2021 14:32:18: Placed MOdoor
+
+[Unity] 12/18/2021 14:32:37: Disabling PlayerBase  character_trigger
+
+[Unity] 12/18/2021 14:32:50: Disabling viewblocker  viewblock
+
+[Unity] Caching server config
+[Unity] Sending server config to 0 clients
+[Unity] Look rotation viewing vector is zero
+[Unity] Caching server config
+[Unity] Sending server config to 0 clients
+[Unity] Look rotation viewing vector is zero
+[Unity] 12/18/2021 14:34:37: Disabling Container  item
+
+[Unity] ConfigurationManager all plugins: 113
+[Unity] ConfigurationManager This Goes Here has no showable settings, skipping.
+[Unity] ConfigurationManager serverblankpassword has no showable settings, skipping.
+[Unity] ConfigurationManager Custom Raids has no showable settings, skipping.
+[Unity] ConfigurationManager 9 settings are not browseable, removing.
+[Unity] ConfigurationManager Spawn That! has no showable settings, skipping.
+[Unity] ConfigurationManager Drop That! has no showable settings, skipping.
+[Unity] ConfigurationManager Sell That! has no showable settings, skipping.
+[Unity] ConfigurationManager FloatingItems has no showable settings, skipping.
+[Unity] ConfigurationManager RRRCore has no showable settings, skipping.
+[Unity] ConfigurationManager Jotunn has no showable settings, skipping.
+[Unity] ConfigurationManager Skills Give More Carry Weight has no showable settings, skipping.
+[Unity] ConfigurationManager DeathIconUpdate has no showable settings, skipping.
+[Unity] ConfigurationManager Crawler has no showable settings, skipping.
+[Unity] ConfigurationManager MonsterLabZ has no showable settings, skipping.
+[Unity] ConfigurationManager DoD Assets has no showable settings, skipping.
+[Unity] ConfigurationManager Golem has no showable settings, skipping.
+[Unity] ConfigurationManager Potions has no showable settings, skipping.
+[Unity] ConfigurationManager DoOrDieMonsters has no showable settings, skipping.
+[Unity] ConfigurationManager RuneMagic has no showable settings, skipping.
+[Unity] ConfigurationManager No Roof Workbench has no showable settings, skipping.
+[Unity] ConfigurationManager MagicOverhaul has no showable settings, skipping.
+[Unity] ConfigurationManager Build Camera has no showable settings, skipping.
+[Unity] ConfigurationManager Monsterzz has no showable settings, skipping.
+[Unity] ConfigurationManager MoreSkills has no showable settings, skipping.
+[Unity] ConfigurationManager HoneyPlus has no showable settings, skipping.
+[Unity] ConfigurationManager Less Food Degradation has no showable settings, skipping.
+[Unity] ConfigurationManager Norse Core has no showable settings, skipping.
+[Unity] ConfigurationManager Steady Regeneration has no showable settings, skipping.
+[Unity] ConfigurationManager Blast Furnace Fix has no showable settings, skipping.
+[Unity] ConfigurationManager Mod Config Enforcer has no showable settings, skipping.
+[Unity] ConfigurationManager ForcePVP has no showable settings, skipping.
+[Unity] ConfigurationManager Jam has no showable settings, skipping.
+[Unity] ConfigurationManager Friendlies has no showable settings, skipping.
+[Unity] ConfigurationManager FriendliesAssets has no showable settings, skipping.
+[Unity] ConfigurationManager Teleporter Title has no showable settings, skipping.
+[Unity] ConfigurationManager MerchantFinder has no showable settings, skipping.
+[Unity] ConfigurationManager WendigoMonsterZZ has no showable settings, skipping.
+[Unity] ConfigurationManager WereBearZZ has no showable settings, skipping.
+[Unity] ConfigurationManager WhereWolves has no showable settings, skipping.
+[Unity] ConfigurationManager Wizard has no showable settings, skipping.
+[Unity] ConfigurationManager YetiMonsterZ has no showable settings, skipping.
+[Unity] 12/18/2021 14:34:41: Setting selected recipe 51
+
+[Unity] 12/18/2021 14:34:41: UI Group status changed root = True
+
+[Unity] 12/18/2021 14:34:41: UI Group status changed Player = True
+
+[Unity] Caching server config
+[Unity] Sending server config to 0 clients
+[Unity] set mass to 50
+[Unity] set mass to 50
+[Unity] 12/18/2021 14:34:56: TRIGGER
+
+[Unity] 12/18/2021 14:34:56: Teleporting Dod
+
+[Unity] Teleported: 0; Attempted: 0; Teleportable: 0; Creatures: 1
+[Unity] 12/18/2021 14:35:06: Spawned Deer x 1
+
+[Unity] 12/18/2021 14:35:06: Spawned Fish2 x 2
+
+[Unity] set mass to 50
+[Unity] set mass to 50
+[Unity] set mass to 50
+[Unity] set mass to 50
+[Unity] set mass to 50
+[Unity] 12/18/2021 14:35:31: TRIGGER
+
+[Unity] 12/18/2021 14:35:31: Teleporting Dod
+
+[Unity] Teleported: 0; Attempted: 0; Teleportable: 0; Creatures: 2
+[Unity] 12/18/2021 14:36:02: Spawned Boar x 1
+
+[Unity] 12/18/2021 14:36:02: Spawned Fish1 x 0
+
+[Unity] 12/18/2021 14:36:02: Spawned Fish1 x 1
+
+[Unity] 12/18/2021 14:36:02: Spawned Fish2 x 2
+
+[Unity] 12/18/2021 14:36:02: Spawned Fish3 x 1
+
+[Unity] 12/18/2021 14:36:02: Spawned Rainbow_Butterfly x 1
+
+[Unity] 12/18/2021 14:36:32: Spawn time :0,9976 ms
+
+[Unity] [MoreSkills]: Saved Taming Levels from : Boar to the Temporal Database
+[Unity] 12/18/2021 14:36:52: TRIGGER
+
+[Unity] 12/18/2021 14:36:52: Teleporting Dod
+
+[Unity] Teleported: 1; Attempted: 1; Teleportable: 1; Creatures: 2
+[Unity] 12/18/2021 14:37:06: TRIGGER
+
+[Unity] 12/18/2021 14:37:06: Teleporting Dod
+
+[Unity] Teleported: 0; Attempted: 0; Teleportable: 1; Creatures: 2
+[Unity] 12/18/2021 14:37:29: Setting selected recipe 51
+
+[Unity] 12/18/2021 14:37:29: UI Group status changed root = True
+
+[Unity] 12/18/2021 14:37:29: UI Group status changed Player = True
+
+[Unity] 12/18/2021 14:37:30: Setting selected recipe 51
+
+[Unity] 12/18/2021 14:37:30: UI Group status changed root = True
+
+[Unity] 12/18/2021 14:37:30: UI Group status changed Player = True
+
+[Unity] 12/18/2021 14:37:31: Setting selected recipe 51
+
+[Unity] 12/18/2021 14:37:31: UI Group status changed root = True
+
+[Unity] 12/18/2021 14:37:31: UI Group status changed Player = True
+
+[Unity] 12/18/2021 14:37:33: Setting selected recipe 51
+
+[Unity] 12/18/2021 14:37:33: UI Group status changed root = True
+
+[Unity] 12/18/2021 14:37:33: UI Group status changed Player = True
+
+[Unity] 12/18/2021 14:37:35: UI Group status changed MenuRoot = True
+
+[Unity] 12/18/2021 14:37:36: UI Group status changed MenuRoot = False
+
+[Unity] 12/18/2021 14:37:38: Game - OnApplicationQuit
+
+[Unity] 12/18/2021 14:37:38: Shuting down
+
+[Unity] 12/18/2021 14:37:38: ZNet Shutdown
+
+[Unity] 12/18/2021 14:37:41: clone 2627
+
+[Unity] 12/18/2021 14:37:44: Sending disconnect msg
+
+[Unity] 12/18/2021 14:37:46: Steam manager on destroy
+
+[Unity] 12/18/2021 14:37:46: FOund selected ButtonYes
+
+[Unity] 12/18/2021 14:37:46: ZNet OnDestroy
+
+[Unity] 12/18/2021 14:37:46: Net scene destroyed
+
+[Unity] 12/18/2021 14:37:46: Local player destroyed
+
+[Unity] Compass Destroying plugin
+[Unity] Crafting Skill UnPatched!
+[Unity] Fishing Skill UnPatched!
+[Unity] Hunting Skill UnPatched!
+[Unity] Overhauls UnPatched!
+[Unity] Sailing Skill UnPatched!
+[Unity] Strength Skill UnPatched!
+[Unity] Taming Skill UnPatched!
+[Unity] Vitality Skill UnPatched!

@@ -1,5 +1,5 @@
 UnityExplorer 4.4.0 initializing...
-Cached AppDomain assemblies in 0,409812 seconds
+Cached AppDomain assemblies in 0,4515381 seconds
 Finished core setup, waiting for delayed setup...
 Finished core setup, waiting for late setup...
 [Unity] Loading Nasty Crawler
@@ -172,7 +172,7 @@ Finished core setup, waiting for late setup...
 [Unity] Loading Wolf5
 [Unity] Loading Wizard
 [Unity] Loading Yeti
-[Unity] 12/17/2021 23:23:21: Starting to load scene:start
+[Unity] 12/18/2021 15:47:40: Starting to load scene:start
 
 [Unity] ConfigurationManager Searching for vanilla Config Manager.
 [Unity] ConfigurationManager Vanilla Config Manager not found.
@@ -185,32 +185,32 @@ Finished core setup, waiting for late setup...
 [Unity] (SkToolbox) ->  (TOOLBOX) ->  (NOTIFY) -> 3 MODULES LOADED | TOOLBOX READY.  
 [Unity] (SkToolbox) ->  (CONTROLLER) ->  (NOTIFY) -> READY.  
 [Unity] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-[Unity] 12/17/2021 23:23:52: Valheim version:0.156.2
+[Unity] 12/18/2021 15:48:21: Valheim version:0.156.2
 
-[Unity] 12/17/2021 23:23:52: Render threading mode:MultiThreaded
+[Unity] 12/18/2021 15:48:21: Render threading mode:MultiThreaded
 
-[Unity] 12/17/2021 23:23:52: Using environment steamid 892970
+[Unity] 12/18/2021 15:48:21: Using environment steamid 892970
 
-[Unity] 12/17/2021 23:23:52: Using steam APPID:892970
+[Unity] 12/18/2021 15:48:21: Using steam APPID:892970
 
-[Unity] 12/17/2021 23:23:52: Authentication:k_ESteamNetworkingAvailability_Attempting
+[Unity] 12/18/2021 15:48:21: Authentication:k_ESteamNetworkingAvailability_Attempting
 
-[Unity] 12/17/2021 23:23:52: Steam initialized, persona:Macilvoy
+[Unity] 12/18/2021 15:48:21: Steam initialized, persona:Macilvoy
 
-[Unity] 12/17/2021 23:23:52: Missing audio clip in music respawn
+[Unity] 12/18/2021 15:48:21: Missing audio clip in music respawn
 
-[Unity] 12/17/2021 23:23:52: Checking for installed DLCs
+[Unity] 12/18/2021 15:48:21: Checking for installed DLCs
 
-[Unity] 12/17/2021 23:23:52: DLC installed:1515960
+[Unity] 12/18/2021 15:48:21: DLC installed:1515960
 
-[Unity] 12/17/2021 23:23:52: DLC:beta installed:True
+[Unity] 12/18/2021 15:48:21: DLC:beta installed:True
 
 [Unity] CustomTextures Clutter system awake
 [Unity] CustomTextures Checking 17 clutters
 [Unity] CustomTextures Clutter System RunTime 00:00:00.00
-[Unity] 12/17/2021 23:23:53: Loaded localization CSV:localization language:English
+[Unity] 12/18/2021 15:48:22: Loaded localization CSV:localization language:English
 
-[Unity] 12/17/2021 23:23:53: Failed to load language file localization_extra
+[Unity] 12/18/2021 15:48:22: Failed to load language file localization_extra
 
 [Unity] Trying to register Items
 [Unity] ObjectDB_Awake_Patch ran
@@ -302,13 +302,9 @@ Finished core setup, waiting for late setup...
 [Unity] [PrefabCreator] Added recipe: Recipe_NordicJam
 [Unity] CustomTextures SetupObjectDB postfix
 [Unity] CustomTextures Replacing textures for 808 objects
-[Unity] CustomTextures SetupObjectDB RunTime 00:00:00.21
-[Unity] 12/17/2021 23:23:54: Failed to find item prefab RRRN_SvartalfrHeavy_Custom_SledgeStagbreaker_1
-
+[Unity] CustomTextures SetupObjectDB RunTime 00:00:00.31
 [Unity] NullReferenceException: Object reference not set to an instance of an object
-[Unity] 12/17/2021 23:23:54: Failed to find item prefab RRRN_SvartalfrHeavy_Custom_SledgeStagbreaker_1
-
-[Unity] 12/17/2021 23:23:55: UI Group status changed Menu = True
+[Unity] 12/18/2021 15:48:37: UI Group status changed Menu = True
 
 Initialized Legacy Input support
 Loaded modern bundle for Unity 2019.4.24f1
@@ -317,21 +313,17 @@ Setting up late core features...
 Creating UI...
 
 UnityExplorer 4.4.0 initialized.
-[Unity] 12/17/2021 23:23:59: UI Group status changed Menu = True
+[Unity] 12/18/2021 15:48:41: UI Group status changed Menu = True
 
-[Unity] 12/17/2021 23:23:59: Failed to find item prefab RRRN_SvartalfrHeavy_Custom_SledgeStagbreaker_1
+[Unity] 12/18/2021 15:50:23: show character selection
 
-[Unity] 12/17/2021 23:24:13: FOund selected StartGame
-
-[Unity] 12/17/2021 23:24:13: show character selection
-
-[Unity] 12/17/2021 23:24:14: OnCharacterStart
+[Unity] 12/18/2021 15:50:25: OnCharacterStart
 
 [Unity] [BetterContinents] Selected world TamrielTest, applying settings
-[Unity] [BetterContinents] Time to load C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Tamriel.png: 591 ms
-[Unity] [BetterContinents] Time to process C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Tamriel.png: 281 ms
-[Unity] [BetterContinents] Time to load C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Biomes.png: 368 ms
-[Unity] [BetterContinents] Time to calculate biomes from C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Biomes.png: 1571 ms
+[Unity] [BetterContinents] Time to load C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Tamriel.png: 601 ms
+[Unity] [BetterContinents] Time to process C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Tamriel.png: 334 ms
+[Unity] [BetterContinents] Time to load C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Biomes.png: 292 ms
+[Unity] [BetterContinents] Time to calculate biomes from C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Biomes.png: 1530 ms
 [Unity] [BetterContinents] Version 6
 [Unity] [BetterContinents] WorldUId 302882358
 [Unity] [BetterContinents] GlobalScale 0,9999999
@@ -356,14 +348,14 @@ UnityExplorer 4.4.0 initialized.
 [Unity] [BetterContinents] RidgeScale 0,9999999
 [Unity] [BetterContinents] RidgeBlendSigmoidB -30
 [Unity] [BetterContinents] RidgeBlendSigmoidXOffset 1
-[Unity] 12/17/2021 23:24:23: Loading player profile dod
+[Unity] 12/18/2021 15:50:35: Loading player profile dod
 
 [Unity] CustomTextures Reloading ZoneSystem textures _GameMain _Zone
-[Unity] 12/17/2021 23:24:23: Zonesystem Awake 506
+[Unity] 12/18/2021 15:50:35: Zonesystem Awake 2391
 
-[Unity] 12/17/2021 23:24:23: DungeonDB Awake 506
+[Unity] 12/18/2021 15:50:35: DungeonDB Awake 2391
 
-[Unity] 12/17/2021 23:24:23: Steam initialized, persona:Macilvoy
+[Unity] 12/18/2021 15:50:35: Steam initialized, persona:Macilvoy
 
 [Unity] Registered 'CL&LC ConfigSync' RPC - waiting for incoming connections
 [Unity] Registered 'randyknapp.mods.epicloot ConfigSync' RPC - waiting for incoming connections
@@ -432,7 +424,7 @@ UnityExplorer 4.4.0 initialized.
 [Unity] Loading the eggs
 [Unity] CustomTextures ZNetScene awake
 [Unity] CustomTextures Checking 2149 prefabs
-[Unity] CustomTextures ZNetScene RunTime 00:00:00.70
+[Unity] CustomTextures ZNetScene RunTime 00:00:00.69
 [Unity] CustomTextures Reloading Environment textures
 [Unity] CustomTextures Reloading 9 Environment textures
 [Unity] CustomTextures 
@@ -567,21 +559,21 @@ loading custom texture file for texture_ygg_leaf_n_BumpMap
 [Unity] Updated AttackSE: Bitterstump_SprayFrost_DoD
 [Unity] Updated AttackSE: Bhygshan_Fireball_DoD
 [Unity] Updated AttackSE: Skir_Voidbolt_Projectile_DoD
-[Unity] 12/17/2021 23:24:30: Audioman already exist, destroying self
+[Unity] 12/18/2021 15:50:44: Audioman already exist, destroying self
 
 [Unity] Compass Added compass to hud
-[Unity] 12/17/2021 23:24:30: Checking for installed DLCs
+[Unity] 12/18/2021 15:50:44: Checking for installed DLCs
 
-[Unity] 12/17/2021 23:24:30: DLC installed:1515960
+[Unity] 12/18/2021 15:50:44: DLC installed:1515960
 
-[Unity] 12/17/2021 23:24:30: DLC:beta installed:True
+[Unity] 12/18/2021 15:50:44: DLC:beta installed:True
 
 [Unity] CustomTextures Clutter system awake
 [Unity] CustomTextures Checking 17 clutters
-[Unity] CustomTextures Clutter System RunTime 00:00:00.00
+[Unity] CustomTextures Clutter System RunTime 00:00:00.01
 [Unity] CustomTextures Starting ZoneSystem Location prefab replacement
 [Unity] CustomTextures ZoneSystem Locations RunTime 00:00:00.00
-[Unity] 12/17/2021 23:24:33: Zonesystem Start 506
+[Unity] 12/18/2021 15:50:47: Zonesystem Start 2391
 
 [Unity] ZoneSystem_Start_Patch ran
 [Unity] Skipping BossStone_Bonemass
@@ -594,123 +586,501 @@ loading custom texture file for texture_ygg_leaf_n_BumpMap
 [Unity] Skipping BossStone_Yagluth
 [Unity] Skipping BossStone_TheElder
 [Unity] Skipping BossStone_Eikthyr
-[Unity] 12/17/2021 23:24:34: DungeonDB Start 506
+[Unity] 12/18/2021 15:50:48: DungeonDB Start 2391
 
-[Unity] 12/17/2021 23:24:34: Load world TamrielTest
+[Unity] 12/18/2021 15:50:48: Load world TamrielTest
 
-[Unity] 12/17/2021 23:24:34: Loading 1301107 zdos , my id 1743223643 data version:27
+[Unity] 12/18/2021 15:50:48: Loading 1301842 zdos , my id 1258552239 data version:27
 
-[Unity] 12/17/2021 23:24:39: Loaded 21345 dead zdos
+[Unity] 12/18/2021 15:50:53: Loaded 27066 dead zdos
 
-[Unity] 12/17/2021 23:24:39: Removed 0 OLD generated ZDOS
+[Unity] 12/18/2021 15:50:53: Removed 0 OLD generated ZDOS
 
-[Unity] 12/17/2021 23:24:39: Loaded 6459 locations
+[Unity] 12/18/2021 15:50:53: Loaded 6459 locations
 
-[Unity] 12/17/2021 23:24:39: Starting respawn
+[Unity] 12/18/2021 15:50:54: Starting respawn
 
 [Unity] GetZoomSens: 10
-[Unity] 12/17/2021 23:24:43: tip:$loadscreen_tip16
+[Unity] 12/18/2021 15:50:58: tip:$loadscreen_tip02
 
-[Unity] 12/17/2021 23:24:47: Vis equip model set to 1
+[Unity] New portal activation Distance:  3
+[Unity] New portal activation Distance:  3
+[Unity] 12/18/2021 15:51:03: Force generaeting hmap (128.0, 0.0, 256.0)
 
-[Unity] 12/17/2021 23:24:47: Vis equip model set to 1
+[Unity] 12/18/2021 15:51:03: Force generaeting hmap (192.0, 0.0, 256.0)
 
-[Unity] 12/17/2021 23:24:51: Spawned after 8,019994
+[Unity] 12/18/2021 15:51:04: Vis equip model set to 1
+
+[Unity] 12/18/2021 15:51:07: Spawned after 8,039994
 
 [Unity] Caching server config
 [Unity] Sending server config to 0 clients
 [Unity] Caching server config
 [Unity] Sending server config to 0 clients
-[Unity] Caching server config
-[Unity] Sending server config to 0 clients
-[Unity] 12/17/2021 23:24:51: Minimap: Adding unique location (369.1, 47.4, -97.4)
+[Unity] 12/18/2021 15:51:08: Minimap: Adding unique location (369.1, 47.4, -97.4)
 
-[Unity] 12/17/2021 23:24:51: Minimap: Adding unique location (-253.0, 61.2, 3311.4)
+[Unity] 12/18/2021 15:51:08: Minimap: Adding unique location (-253.0, 61.2, 3311.4)
 
 [Unity] Compass scale 1 1080 50
-[Unity] 12/17/2021 23:24:53: Resumed music meadows at 0
+[Unity] 12/18/2021 15:51:15: Setting selected recipe 0
 
-[Unity] 12/17/2021 23:25:42: Vis equip model set to 1
+[Unity] 12/18/2021 15:51:15: UI Group status changed root = True
 
-[Unity] 12/17/2021 23:25:43: UI Group status changed MenuRoot = True
-
-[Unity] 12/17/2021 23:25:49: Spawned Boar x 1
-
-[Unity] 12/17/2021 23:25:49: Spawned Greyling x 2
-
-[Unity] 12/17/2021 23:26:03: Force generaeting hmap (768.0, 0.0, 960.0)
-
-[Unity] 12/17/2021 23:26:03: Force generaeting hmap (960.0, 0.0, 960.0)
-
-[Unity] 12/17/2021 23:26:03: Force generaeting hmap (1024.0, 0.0, 896.0)
-
-[Unity] 12/17/2021 23:26:03: Force generaeting hmap (1024.0, 0.0, 960.0)
-
-[Unity] 12/17/2021 23:26:03: Disabling OnboardTrigger  character_trigger
-
-[Unity] 12/17/2021 23:26:03: Disabling FloatCollider  Ignore Raycast
-
-[Unity] 12/17/2021 23:26:03: Vis equip model set to 1
-
-[Unity] 12/17/2021 23:26:15: Setting selected recipe 0
-
-[Unity] 12/17/2021 23:26:15: UI Group status changed root = True
-
-[Unity] 12/17/2021 23:26:15: UI Group status changed Player = True
-
-[Unity] 12/17/2021 23:26:20: Setting selected recipe 0
-
-[Unity] 12/17/2021 23:26:36: Setting selected recipe 138
-
-[Unity] 12/17/2021 23:26:39: Disabling OnboardTrigger  character_trigger
-
-[Unity] 12/17/2021 23:26:39: Disabling FloatCollider  Ignore Raycast
-
-[Unity] 12/17/2021 23:26:39: Setting selected recipe 138
+[Unity] 12/18/2021 15:51:15: UI Group status changed Player = True
 
 [Unity] Caching server config
 [Unity] Sending server config to 0 clients
 [Unity] Caching server config
 [Unity] Sending server config to 0 clients
-[Unity] Caching server config
-[Unity] Sending server config to 0 clients
-[Unity] Caching server config
-[Unity] Sending server config to 0 clients
-[Unity] Caching server config
-[Unity] Sending server config to 0 clients
-[Unity] Caching server config
-[Unity] Sending server config to 0 clients
-[Unity] 12/17/2021 23:28:46: Stoped music meadows at 540088
+[Unity] 12/18/2021 15:53:06: Setting selected recipe 0
 
-[Unity] 12/17/2021 23:32:40: Disabling viewblock  viewblock
+[Unity] 12/18/2021 15:53:06: Setting selected recipe 0
 
-[Unity] Caching server config
-[Unity] Sending server config to 0 clients
-[Unity] Caching server config
-[Unity] Sending server config to 0 clients
-[Unity] 12/17/2021 23:32:48: UI Group status changed MenuRoot = True
+[Unity] 12/18/2021 15:53:06: UI Group status changed root = True
+
+[Unity] 12/18/2021 15:53:06: UI Group status changed Player = True
+
+[Unity] 12/18/2021 15:53:08: Item is not in this container
+
+[Unity] 12/18/2021 15:53:08: Setting selected recipe 0
 
 [Unity] Caching server config
 [Unity] Sending server config to 0 clients
+[Unity] 12/18/2021 15:53:16: Setting selected recipe 0
+
+[Unity] 12/18/2021 15:53:16: UI Group status changed root = True
+
+[Unity] 12/18/2021 15:53:16: UI Group status changed Player = True
+
+[Unity] 12/18/2021 15:53:27: Disabling PlayerBase  character_trigger
+
+[Unity] 12/18/2021 15:53:34: Placed piece_workbench
+
+[Unity] 12/18/2021 15:53:34: Disabling PlayerBase  character_trigger
+
+[Unity] 12/18/2021 15:53:36: Disabling PlayerBase  character_trigger
+
+[Unity] 12/18/2021 15:53:39: Placed forge
+
+[Unity] 12/18/2021 15:53:39: Disabling PlayerBase  character_trigger
+
+[Unity] 12/18/2021 15:53:39: Disabling PlayerBase  character_trigger
+
+[Unity] 12/18/2021 15:53:39: Disabling PlayerBase  character_trigger
+
+[Unity] 12/18/2021 15:53:39: Disabling PlayerBase  character_trigger
+
+[Unity] 12/18/2021 15:53:49: Placed piece_enchanter
+
+[Unity] 12/18/2021 15:53:53: Placed piece_augmenter
+
 [Unity] Caching server config
 [Unity] Sending server config to 0 clients
-[Unity] 12/17/2021 23:32:56: UI Group status changed MenuRoot = True
+[Unity] 12/18/2021 15:54:00: Setting selected recipe 31
 
-[Unity] 12/17/2021 23:32:57: UI Group status changed MenuRoot = False
+[Unity] 12/18/2021 15:54:00: UI Group status changed root = True
 
-[Unity] 12/17/2021 23:32:59: Game - OnApplicationQuit
+[Unity] 12/18/2021 15:54:00: UI Group status changed Player = True
 
-[Unity] 12/17/2021 23:32:59: Shuting down
+[Unity] 12/18/2021 15:54:06: Setting selected recipe 0
 
-[Unity] 12/17/2021 23:33:00: ZNet Shutdown
+[Unity] 12/18/2021 15:54:06: UI Group status changed root = True
 
-[Unity] 12/17/2021 23:33:02: clone 2608
+[Unity] 12/18/2021 15:54:06: UI Group status changed Player = True
 
-[Unity] 12/17/2021 23:33:06: Sending disconnect msg
+[Unity] 12/18/2021 15:54:08: Setting selected recipe 3
 
-[Unity] 12/17/2021 23:33:08: Steam manager on destroy
+[Unity] 12/18/2021 15:54:08: UI Group status changed root = True
 
-[Unity] 12/17/2021 23:33:08: Local player destroyed
+[Unity] 12/18/2021 15:54:08: UI Group status changed Player = True
+
+[Unity] 12/18/2021 15:54:18: Setting selected recipe 0
+
+[Unity] 12/18/2021 15:54:20: Setting selected recipe 0
+
+[Unity] 12/18/2021 15:54:27: Setting selected recipe 0
+
+[Unity] 12/18/2021 15:54:31: Setting selected recipe 0
+
+[Unity] 12/18/2021 15:54:31: UI Group status changed root = True
+
+[Unity] 12/18/2021 15:54:31: UI Group status changed Player = True
+
+[Unity] ConfigurationManager all plugins: 117
+[Unity] ConfigurationManager This Goes Here has no showable settings, skipping.
+[Unity] ConfigurationManager serverblankpassword has no showable settings, skipping.
+[Unity] ConfigurationManager Custom Raids has no showable settings, skipping.
+[Unity] ConfigurationManager 9 settings are not browseable, removing.
+[Unity] ConfigurationManager Spawn That! has no showable settings, skipping.
+[Unity] ConfigurationManager Drop That! has no showable settings, skipping.
+[Unity] ConfigurationManager Sell That! has no showable settings, skipping.
+[Unity] ConfigurationManager FloatingItems has no showable settings, skipping.
+[Unity] ConfigurationManager RRRCore has no showable settings, skipping.
+[Unity] ConfigurationManager Jotunn has no showable settings, skipping.
+[Unity] ConfigurationManager Skills Give More Carry Weight has no showable settings, skipping.
+[Unity] ConfigurationManager DeathIconUpdate has no showable settings, skipping.
+[Unity] ConfigurationManager Crawler has no showable settings, skipping.
+[Unity] ConfigurationManager MonsterLabZ has no showable settings, skipping.
+[Unity] ConfigurationManager DoD Assets has no showable settings, skipping.
+[Unity] ConfigurationManager Golem has no showable settings, skipping.
+[Unity] ConfigurationManager Potions has no showable settings, skipping.
+[Unity] ConfigurationManager DoOrDieMonsters has no showable settings, skipping.
+[Unity] ConfigurationManager RuneMagic has no showable settings, skipping.
+[Unity] ConfigurationManager No Roof Workbench has no showable settings, skipping.
+[Unity] ConfigurationManager MagicOverhaul has no showable settings, skipping.
+[Unity] ConfigurationManager Build Camera has no showable settings, skipping.
+[Unity] ConfigurationManager Monsterzz has no showable settings, skipping.
+[Unity] ConfigurationManager MoreSkills has no showable settings, skipping.
+[Unity] ConfigurationManager HoneyPlus has no showable settings, skipping.
+[Unity] ConfigurationManager Less Food Degradation has no showable settings, skipping.
+[Unity] ConfigurationManager Norse Core has no showable settings, skipping.
+[Unity] ConfigurationManager Steady Regeneration has no showable settings, skipping.
+[Unity] ConfigurationManager Blast Furnace Fix has no showable settings, skipping.
+[Unity] ConfigurationManager Mod Config Enforcer has no showable settings, skipping.
+[Unity] ConfigurationManager ForcePVP has no showable settings, skipping.
+[Unity] ConfigurationManager Jam has no showable settings, skipping.
+[Unity] ConfigurationManager Friendlies has no showable settings, skipping.
+[Unity] ConfigurationManager FriendliesAssets has no showable settings, skipping.
+[Unity] ConfigurationManager Teleporter Title has no showable settings, skipping.
+[Unity] ConfigurationManager MerchantFinder has no showable settings, skipping.
+[Unity] ConfigurationManager WendigoMonsterZZ has no showable settings, skipping.
+[Unity] ConfigurationManager WereBearZZ has no showable settings, skipping.
+[Unity] ConfigurationManager WhereWolves has no showable settings, skipping.
+[Unity] ConfigurationManager Wizard has no showable settings, skipping.
+[Unity] ConfigurationManager YetiMonsterZ has no showable settings, skipping.
+[Unity] Look rotation viewing vector is zero
+[Unity] 12/18/2021 15:56:46: Spawned RRRM_DrownedSoul x 3
+
+[Unity] 12/18/2021 15:57:13: Setting selected recipe 3
+
+[Unity] 12/18/2021 15:57:13: UI Group status changed root = True
+
+[Unity] 12/18/2021 15:57:13: UI Group status changed Player = True
+
+[Unity] RepairSpecificItems Require 3 Wood to repair $item_club
+[Unity] RepairSpecificItems Require 3 Wood to repair $item_club
+[Unity] ConfigurationManager all plugins: 117
+[Unity] ConfigurationManager This Goes Here has no showable settings, skipping.
+[Unity] ConfigurationManager serverblankpassword has no showable settings, skipping.
+[Unity] ConfigurationManager Custom Raids has no showable settings, skipping.
+[Unity] ConfigurationManager 9 settings are not browseable, removing.
+[Unity] ConfigurationManager Spawn That! has no showable settings, skipping.
+[Unity] ConfigurationManager Drop That! has no showable settings, skipping.
+[Unity] ConfigurationManager Sell That! has no showable settings, skipping.
+[Unity] ConfigurationManager FloatingItems has no showable settings, skipping.
+[Unity] ConfigurationManager RRRCore has no showable settings, skipping.
+[Unity] ConfigurationManager Jotunn has no showable settings, skipping.
+[Unity] ConfigurationManager Skills Give More Carry Weight has no showable settings, skipping.
+[Unity] ConfigurationManager DeathIconUpdate has no showable settings, skipping.
+[Unity] ConfigurationManager Crawler has no showable settings, skipping.
+[Unity] ConfigurationManager MonsterLabZ has no showable settings, skipping.
+[Unity] ConfigurationManager DoD Assets has no showable settings, skipping.
+[Unity] ConfigurationManager Golem has no showable settings, skipping.
+[Unity] ConfigurationManager Potions has no showable settings, skipping.
+[Unity] ConfigurationManager DoOrDieMonsters has no showable settings, skipping.
+[Unity] ConfigurationManager RuneMagic has no showable settings, skipping.
+[Unity] ConfigurationManager No Roof Workbench has no showable settings, skipping.
+[Unity] ConfigurationManager MagicOverhaul has no showable settings, skipping.
+[Unity] ConfigurationManager Build Camera has no showable settings, skipping.
+[Unity] ConfigurationManager Monsterzz has no showable settings, skipping.
+[Unity] ConfigurationManager MoreSkills has no showable settings, skipping.
+[Unity] ConfigurationManager HoneyPlus has no showable settings, skipping.
+[Unity] ConfigurationManager Less Food Degradation has no showable settings, skipping.
+[Unity] ConfigurationManager Norse Core has no showable settings, skipping.
+[Unity] ConfigurationManager Steady Regeneration has no showable settings, skipping.
+[Unity] ConfigurationManager Blast Furnace Fix has no showable settings, skipping.
+[Unity] ConfigurationManager Mod Config Enforcer has no showable settings, skipping.
+[Unity] ConfigurationManager ForcePVP has no showable settings, skipping.
+[Unity] ConfigurationManager Jam has no showable settings, skipping.
+[Unity] ConfigurationManager Friendlies has no showable settings, skipping.
+[Unity] ConfigurationManager FriendliesAssets has no showable settings, skipping.
+[Unity] ConfigurationManager Teleporter Title has no showable settings, skipping.
+[Unity] ConfigurationManager MerchantFinder has no showable settings, skipping.
+[Unity] ConfigurationManager WendigoMonsterZZ has no showable settings, skipping.
+[Unity] ConfigurationManager WereBearZZ has no showable settings, skipping.
+[Unity] ConfigurationManager WhereWolves has no showable settings, skipping.
+[Unity] ConfigurationManager Wizard has no showable settings, skipping.
+[Unity] ConfigurationManager YetiMonsterZ has no showable settings, skipping.
+[Unity] 12/18/2021 15:57:52: Queue unlock msg:$msg_newmaterial:$item_chain
+
+[Unity] 12/18/2021 15:57:52: Queue unlock msg:$msg_newpiece:$piece_forge_ext1
+
+[Unity] 12/18/2021 15:57:56: Setting selected recipe 3
+
+[Unity] 12/18/2021 15:57:56: UI Group status changed root = True
+
+[Unity] 12/18/2021 15:57:56: UI Group status changed Player = True
+
+[Unity] RepairSpecificItems Require 3 Wood to repair $item_club
+[Unity] RepairSpecificItems Require 3 Wood to repair $item_club
+[Unity] 12/18/2021 15:58:16: Setting selected recipe 31
+
+[Unity] 12/18/2021 15:58:17: UI Group status changed root = True
+
+[Unity] 12/18/2021 15:58:17: UI Group status changed Player = True
+
+[Unity] 12/18/2021 15:58:25: Setting selected recipe 31
+
+[Unity] 12/18/2021 15:58:25: UI Group status changed root = True
+
+[Unity] 12/18/2021 15:58:25: UI Group status changed Player = True
+
+[Unity] RepairSpecificItems Require 3 Wood to repair $item_club
+[Unity] 12/18/2021 15:58:33: Setting selected recipe 31
+
+[Unity] 12/18/2021 15:58:33: Setting selected recipe 31
+
+[Unity] 12/18/2021 15:58:33: UI Group status changed root = True
+
+[Unity] 12/18/2021 15:58:33: UI Group status changed Player = True
+
+[Unity] 12/18/2021 15:58:35: Item is not in this container
+
+[Unity] 12/18/2021 15:58:36: Setting selected recipe 31
+
+[Unity] Caching server config
+[Unity] Sending server config to 0 clients
+[Unity] 12/18/2021 15:58:41: Setting selected recipe 31
+
+[Unity] 12/18/2021 15:58:41: Setting selected recipe 31
+
+[Unity] 12/18/2021 15:58:41: UI Group status changed root = True
+
+[Unity] 12/18/2021 15:58:41: UI Group status changed Player = True
+
+[Unity] 12/18/2021 15:58:43: Spawned Deer x 2
+
+[Unity] 12/18/2021 15:58:43: Spawned Boar x 1
+
+[Unity] DiscardInventoryItem Discarding 1/1 LeatherScraps
+[Unity] 12/18/2021 15:58:46: Setting selected recipe 31
+
+[Unity] DiscardInventoryItem Discarding 2/2 DeerHide
+[Unity] 12/18/2021 15:58:49: Setting selected recipe 31
+
+[Unity] DiscardInventoryItem Discarding 3/3 Chain
+[Unity] 12/18/2021 15:58:53: Setting selected recipe 31
+
+[Unity] 12/18/2021 15:59:02: Setting selected recipe 31
+
+[Unity] 12/18/2021 15:59:02: Setting selected recipe 31
+
+[Unity] 12/18/2021 15:59:02: UI Group status changed root = True
+
+[Unity] 12/18/2021 15:59:02: UI Group status changed Player = True
+
+[Unity] 12/18/2021 15:59:06: Setting selected recipe 31
+
+[Unity] 12/18/2021 15:59:08: Setting selected recipe 31
+
+[Unity] 12/18/2021 15:59:09: drop all 219  219
+
+[Unity] 12/18/2021 15:59:14: Setting selected recipe 31
+
+[Unity] 12/18/2021 15:59:14: Setting selected recipe 31
+
+[Unity] 12/18/2021 15:59:15: UI Group status changed root = True
+
+[Unity] 12/18/2021 15:59:15: UI Group status changed Player = True
+
+[Unity] NullReferenceException: Object reference not set to an instance of an object
+[Unity] 12/18/2021 15:59:25: Random event set:eikthyrwildt1
+
+[Unity] 12/18/2021 15:59:26: UI Group status changed root = False
+
+[Unity] 12/18/2021 15:59:26: UI Group status changed Player = False
+
+[Unity] 12/18/2021 15:59:26: Spawned RRRM_EikthyrNeck x 1
+
+[Unity] 12/18/2021 15:59:26: Spawned RRRM_EikthyrNeck x 2
+
+[Unity] 12/18/2021 15:59:26: Spawned RRRM_EikthyrNeck x 2
+
+[Unity] 12/18/2021 15:59:26: Spawned RRRM_EikthyrNeck x 1
+
+[Unity] 12/18/2021 15:59:29: FOund selected ButtonCancel
+
+[Unity] 12/18/2021 15:59:29: UI Group status changed root = True
+
+[Unity] 12/18/2021 15:59:29: UI Group status changed Player = True
+
+[Unity] 12/18/2021 15:59:41: Queue unlock msg:$msg_newmaterial:$item_amber
+
+[Unity] 12/18/2021 15:59:41: Queue unlock msg:$msg_newmaterial:$item_necktail
+
+[Unity] 12/18/2021 15:59:42: Spawned RRRM_EikthyrNeck x 3
+
+[Unity] 12/18/2021 15:59:50: Spawned RRRM_EikthyrNeck x 3
+
+[Unity] 12/18/2021 15:59:53: Setting selected recipe 31
+
+[Unity] 12/18/2021 15:59:53: Setting selected recipe 31
+
+[Unity] 12/18/2021 15:59:53: UI Group status changed root = True
+
+[Unity] 12/18/2021 15:59:53: UI Group status changed Player = True
+
+[Unity] 12/18/2021 15:59:59: Spawned RRRM_EikthyrNeck x 1
+
+[Unity] 12/18/2021 16:00:07: Spawned RRRM_EikthyrNeck x 2
+
+[Unity] 12/18/2021 16:00:10: Rel vel 4,847675
+
+[Unity] 12/18/2021 16:00:15: Spawned RRRM_EikthyrNeck x 1
+
+[Unity] 12/18/2021 16:00:23: Spawned RRRM_EikthyrNeck x 2
+
+[Unity] 12/18/2021 16:00:30: Stoped music CombatEventL1 at 2821941
+
+[Unity] 12/18/2021 16:00:39: Spawned Deer x 3
+
+[Unity] 12/18/2021 16:00:39: Spawned Boar x 3
+
+[Unity] 12/18/2021 16:00:39: Spawned Fish1 x 1
+
+[Unity] 12/18/2021 16:00:55: Setting selected recipe 34
+
+[Unity] 12/18/2021 16:00:55: Setting selected recipe 34
+
+[Unity] 12/18/2021 16:00:56: UI Group status changed root = True
+
+[Unity] 12/18/2021 16:00:56: UI Group status changed Player = True
+
+[Unity] 12/18/2021 16:01:08: Spawned Greyling x 1
+
+[Unity] Caching server config
+[Unity] Sending server config to 0 clients
+[Unity] 12/18/2021 16:01:19: Right back item AxeBlackMetal
+
+[Unity] 12/18/2021 16:01:19: Setting selected recipe 33
+
+[Unity] 12/18/2021 16:01:20: UI Group status changed root = True
+
+[Unity] 12/18/2021 16:01:20: UI Group status changed Player = True
+
+[Unity] RepairSpecificItems Used 3 Wood to repair Club
+[Unity] RepairSpecificItems Require 3 Wood, 2 Legendary Runestone, 7 Legendary Dust, 7 Legendary Essence, 5000 Coins to repair $item_club
+[Unity] RepairSpecificItems Require 3 Wood, 2 Legendary Runestone, 7 Legendary Dust, 7 Legendary Essence, 5000 Coins to repair $item_club
+[Unity] 12/18/2021 16:02:43: Setting selected recipe 34
+
+[Unity] 12/18/2021 16:02:43: Setting selected recipe 34
+
+[Unity] 12/18/2021 16:02:43: UI Group status changed root = True
+
+[Unity] 12/18/2021 16:02:43: UI Group status changed Player = True
+
+[Unity] 12/18/2021 16:02:50: Setting selected recipe 33
+
+[Unity] 12/18/2021 16:02:50: UI Group status changed root = True
+
+[Unity] 12/18/2021 16:02:50: UI Group status changed Player = True
+
+[Unity] RepairSpecificItems Require 3 Wood, 2 Legendary Runestone, 7 Legendary Dust, 7 Legendary Essence, 5000 Coins to repair $item_club
+[Unity] 12/18/2021 16:02:58: Setting selected recipe 33
+
+[Unity] 12/18/2021 16:02:58: UI Group status changed root = True
+
+[Unity] 12/18/2021 16:02:58: UI Group status changed Player = True
+
+[Unity] RepairSpecificItems Require 3 Wood, 2 Legendary Runestone, 7 Legendary Dust, 7 Legendary Essence, 5000 Coins to repair $item_club
+[Unity] ConfigurationManager all plugins: 117
+[Unity] ConfigurationManager This Goes Here has no showable settings, skipping.
+[Unity] ConfigurationManager serverblankpassword has no showable settings, skipping.
+[Unity] ConfigurationManager Custom Raids has no showable settings, skipping.
+[Unity] ConfigurationManager 9 settings are not browseable, removing.
+[Unity] ConfigurationManager Spawn That! has no showable settings, skipping.
+[Unity] ConfigurationManager Drop That! has no showable settings, skipping.
+[Unity] ConfigurationManager Sell That! has no showable settings, skipping.
+[Unity] ConfigurationManager FloatingItems has no showable settings, skipping.
+[Unity] ConfigurationManager RRRCore has no showable settings, skipping.
+[Unity] ConfigurationManager Jotunn has no showable settings, skipping.
+[Unity] ConfigurationManager Skills Give More Carry Weight has no showable settings, skipping.
+[Unity] ConfigurationManager DeathIconUpdate has no showable settings, skipping.
+[Unity] ConfigurationManager Crawler has no showable settings, skipping.
+[Unity] ConfigurationManager MonsterLabZ has no showable settings, skipping.
+[Unity] ConfigurationManager DoD Assets has no showable settings, skipping.
+[Unity] ConfigurationManager Golem has no showable settings, skipping.
+[Unity] ConfigurationManager Potions has no showable settings, skipping.
+[Unity] ConfigurationManager DoOrDieMonsters has no showable settings, skipping.
+[Unity] ConfigurationManager RuneMagic has no showable settings, skipping.
+[Unity] ConfigurationManager No Roof Workbench has no showable settings, skipping.
+[Unity] ConfigurationManager MagicOverhaul has no showable settings, skipping.
+[Unity] ConfigurationManager Build Camera has no showable settings, skipping.
+[Unity] ConfigurationManager Monsterzz has no showable settings, skipping.
+[Unity] ConfigurationManager MoreSkills has no showable settings, skipping.
+[Unity] ConfigurationManager HoneyPlus has no showable settings, skipping.
+[Unity] ConfigurationManager Less Food Degradation has no showable settings, skipping.
+[Unity] ConfigurationManager Norse Core has no showable settings, skipping.
+[Unity] ConfigurationManager Steady Regeneration has no showable settings, skipping.
+[Unity] ConfigurationManager Blast Furnace Fix has no showable settings, skipping.
+[Unity] ConfigurationManager Mod Config Enforcer has no showable settings, skipping.
+[Unity] ConfigurationManager ForcePVP has no showable settings, skipping.
+[Unity] ConfigurationManager Jam has no showable settings, skipping.
+[Unity] ConfigurationManager Friendlies has no showable settings, skipping.
+[Unity] ConfigurationManager FriendliesAssets has no showable settings, skipping.
+[Unity] ConfigurationManager Teleporter Title has no showable settings, skipping.
+[Unity] ConfigurationManager MerchantFinder has no showable settings, skipping.
+[Unity] ConfigurationManager WendigoMonsterZZ has no showable settings, skipping.
+[Unity] ConfigurationManager WereBearZZ has no showable settings, skipping.
+[Unity] ConfigurationManager WhereWolves has no showable settings, skipping.
+[Unity] ConfigurationManager Wizard has no showable settings, skipping.
+[Unity] ConfigurationManager YetiMonsterZ has no showable settings, skipping.
+[Unity] 12/18/2021 16:03:53: Setting selected recipe 33
+
+[Unity] 12/18/2021 16:03:54: UI Group status changed root = True
+
+[Unity] 12/18/2021 16:03:54: UI Group status changed Player = True
+
+[Unity] RepairSpecificItems Require 3 Wood, 2 Legendary Runestone, 7 Legendary Dust, 7 Legendary Essence, 5000 Coins to repair $item_club
+[Unity] 12/18/2021 16:03:58: Setting selected recipe 34
+
+[Unity] 12/18/2021 16:03:58: Setting selected recipe 34
+
+[Unity] 12/18/2021 16:03:58: UI Group status changed root = True
+
+[Unity] 12/18/2021 16:03:58: UI Group status changed Player = True
+
+[Unity] 12/18/2021 16:04:16: Setting selected recipe 34
+
+[Unity] 12/18/2021 16:04:16: Setting selected recipe 34
+
+[Unity] 12/18/2021 16:04:16: UI Group status changed root = True
+
+[Unity] 12/18/2021 16:04:16: UI Group status changed Player = True
+
+[Unity] DiscardInventoryItem Discarding 1/1 Club
+[Unity] DiscardInventoryItem Recipe stack: 1 num of stacks: 1
+[Unity] DiscardInventoryItem Returning 6/6 Wood
+[Unity] DiscardInventoryItem Returning 0/0 BoneFragments
+[Unity] DiscardInventoryItem Returning 5/5 RunestoneLegendary
+[Unity] DiscardInventoryItem Returning 15/15 DustLegendary
+[Unity] DiscardInventoryItem Returning 15/15 EssenceLegendary
+[Unity] DiscardInventoryItem Returning 10000/10000 Coins
+[Unity] 12/18/2021 16:04:19: Setting selected recipe 34
+
+[Unity] 12/18/2021 16:05:39: UI Group status changed MenuRoot = True
+
+[Unity] 12/18/2021 16:05:51: UI Group status changed MenuRoot = False
+
+[Unity] 12/18/2021 16:05:55: Game - OnApplicationQuit
+
+[Unity] 12/18/2021 16:05:55: Shuting down
+
+[Unity] 12/18/2021 16:05:55: ZNet Shutdown
+
+[Unity] 12/18/2021 16:05:57: clone 2145
+
+[Unity] 12/18/2021 16:06:00: Sending disconnect msg
+
+[Unity] 12/18/2021 16:06:03: Steam manager on destroy
+
+[Unity] 12/18/2021 16:06:03: FOund selected ButtonYes
+
+[Unity] 12/18/2021 16:06:03: ZNet OnDestroy
+
+[Unity] 12/18/2021 16:06:03: Net scene destroyed
+
+[Unity] 12/18/2021 16:06:03: Local player destroyed
 
 [Unity] Compass Destroying plugin
 [Unity] Crafting Skill UnPatched!
@@ -721,8 +1091,3 @@ loading custom texture file for texture_ygg_leaf_n_BumpMap
 [Unity] Strength Skill UnPatched!
 [Unity] Taming Skill UnPatched!
 [Unity] Vitality Skill UnPatched!
-[Unity] 12/17/2021 23:33:12: FOund selected ButtonYes
-
-[Unity] 12/17/2021 23:33:12: ZNet OnDestroy
-
-[Unity] 12/17/2021 23:33:12: Net scene destroyed

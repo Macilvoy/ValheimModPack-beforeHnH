@@ -1,5 +1,5 @@
 UnityExplorer 4.4.0 initializing...
-Cached AppDomain assemblies in 0,4214191 seconds
+Cached AppDomain assemblies in 0,4378986 seconds
 Finished core setup, waiting for delayed setup...
 Finished core setup, waiting for late setup...
 [Unity] Loading Nasty Crawler
@@ -172,7 +172,7 @@ Finished core setup, waiting for late setup...
 [Unity] Loading Wolf5
 [Unity] Loading Wizard
 [Unity] Loading Yeti
-[Unity] 12/17/2021 22:45:38: Starting to load scene:start
+[Unity] 12/18/2021 14:11:26: Starting to load scene:start
 
 [Unity] ConfigurationManager Searching for vanilla Config Manager.
 [Unity] ConfigurationManager Vanilla Config Manager not found.
@@ -185,32 +185,32 @@ Finished core setup, waiting for late setup...
 [Unity] (SkToolbox) ->  (TOOLBOX) ->  (NOTIFY) -> 3 MODULES LOADED | TOOLBOX READY.  
 [Unity] (SkToolbox) ->  (CONTROLLER) ->  (NOTIFY) -> READY.  
 [Unity] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-[Unity] 12/17/2021 22:46:05: Valheim version:0.156.2
+[Unity] 12/18/2021 14:12:02: Valheim version:0.156.2
 
-[Unity] 12/17/2021 22:46:05: Render threading mode:MultiThreaded
+[Unity] 12/18/2021 14:12:02: Render threading mode:MultiThreaded
 
-[Unity] 12/17/2021 22:46:05: Using environment steamid 892970
+[Unity] 12/18/2021 14:12:02: Using environment steamid 892970
 
-[Unity] 12/17/2021 22:46:05: Using steam APPID:892970
+[Unity] 12/18/2021 14:12:02: Using steam APPID:892970
 
-[Unity] 12/17/2021 22:46:05: Authentication:k_ESteamNetworkingAvailability_Attempting
+[Unity] 12/18/2021 14:12:03: Authentication:k_ESteamNetworkingAvailability_Attempting
 
-[Unity] 12/17/2021 22:46:05: Steam initialized, persona:Macilvoy
+[Unity] 12/18/2021 14:12:03: Steam initialized, persona:Macilvoy
 
-[Unity] 12/17/2021 22:46:05: Missing audio clip in music respawn
+[Unity] 12/18/2021 14:12:03: Missing audio clip in music respawn
 
-[Unity] 12/17/2021 22:46:05: Checking for installed DLCs
+[Unity] 12/18/2021 14:12:03: Checking for installed DLCs
 
-[Unity] 12/17/2021 22:46:05: DLC installed:1515960
+[Unity] 12/18/2021 14:12:03: DLC installed:1515960
 
-[Unity] 12/17/2021 22:46:05: DLC:beta installed:True
+[Unity] 12/18/2021 14:12:03: DLC:beta installed:True
 
 [Unity] CustomTextures Clutter system awake
 [Unity] CustomTextures Checking 17 clutters
 [Unity] CustomTextures Clutter System RunTime 00:00:00.00
-[Unity] 12/17/2021 22:46:06: Loaded localization CSV:localization language:English
+[Unity] 12/18/2021 14:12:04: Loaded localization CSV:localization language:English
 
-[Unity] 12/17/2021 22:46:06: Failed to load language file localization_extra
+[Unity] 12/18/2021 14:12:04: Failed to load language file localization_extra
 
 [Unity] Trying to register Items
 [Unity] ObjectDB_Awake_Patch ran
@@ -302,13 +302,9 @@ Finished core setup, waiting for late setup...
 [Unity] [PrefabCreator] Added recipe: Recipe_NordicJam
 [Unity] CustomTextures SetupObjectDB postfix
 [Unity] CustomTextures Replacing textures for 808 objects
-[Unity] CustomTextures SetupObjectDB RunTime 00:00:00.19
-[Unity] 12/17/2021 22:46:07: Failed to find item prefab RRRN_SvartalfrHeavy_Custom_SledgeStagbreaker_1
-
+[Unity] CustomTextures SetupObjectDB RunTime 00:00:00.21
 [Unity] NullReferenceException: Object reference not set to an instance of an object
-[Unity] 12/17/2021 22:46:07: Failed to find item prefab RRRN_SvartalfrHeavy_Custom_SledgeStagbreaker_1
-
-[Unity] 12/17/2021 22:46:07: UI Group status changed Menu = True
+[Unity] 12/18/2021 14:12:20: UI Group status changed Menu = True
 
 Initialized Legacy Input support
 Loaded modern bundle for Unity 2019.4.24f1
@@ -317,19 +313,17 @@ Setting up late core features...
 Creating UI...
 
 UnityExplorer 4.4.0 initialized.
-[Unity] 12/17/2021 22:46:12: UI Group status changed Menu = True
+[Unity] 12/18/2021 14:12:24: UI Group status changed Menu = True
 
-[Unity] 12/17/2021 22:46:12: Failed to find item prefab RRRN_SvartalfrHeavy_Custom_SledgeStagbreaker_1
+[Unity] 12/18/2021 14:12:27: show character selection
 
-[Unity] 12/17/2021 22:49:17: show character selection
-
-[Unity] 12/17/2021 22:49:19: OnCharacterStart
+[Unity] 12/18/2021 14:12:30: OnCharacterStart
 
 [Unity] [BetterContinents] Selected world TamrielTest, applying settings
-[Unity] [BetterContinents] Time to load C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Tamriel.png: 577 ms
-[Unity] [BetterContinents] Time to process C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Tamriel.png: 333 ms
-[Unity] [BetterContinents] Time to load C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Biomes.png: 297 ms
-[Unity] [BetterContinents] Time to calculate biomes from C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Biomes.png: 1502 ms
+[Unity] [BetterContinents] Time to load C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Tamriel.png: 624 ms
+[Unity] [BetterContinents] Time to process C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Tamriel.png: 291 ms
+[Unity] [BetterContinents] Time to load C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Biomes.png: 363 ms
+[Unity] [BetterContinents] Time to calculate biomes from C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Biomes.png: 1567 ms
 [Unity] [BetterContinents] Version 6
 [Unity] [BetterContinents] WorldUId 302882358
 [Unity] [BetterContinents] GlobalScale 0,9999999
@@ -354,14 +348,14 @@ UnityExplorer 4.4.0 initialized.
 [Unity] [BetterContinents] RidgeScale 0,9999999
 [Unity] [BetterContinents] RidgeBlendSigmoidB -30
 [Unity] [BetterContinents] RidgeBlendSigmoidXOffset 1
-[Unity] 12/17/2021 22:49:29: Loading player profile dod
+[Unity] 12/18/2021 14:12:41: Loading player profile dod
 
 [Unity] CustomTextures Reloading ZoneSystem textures _GameMain _Zone
-[Unity] 12/17/2021 22:49:29: Zonesystem Awake 3975
+[Unity] 12/18/2021 14:12:41: Zonesystem Awake 477
 
-[Unity] 12/17/2021 22:49:29: DungeonDB Awake 3975
+[Unity] 12/18/2021 14:12:41: DungeonDB Awake 477
 
-[Unity] 12/17/2021 22:49:29: Steam initialized, persona:Macilvoy
+[Unity] 12/18/2021 14:12:41: Steam initialized, persona:Macilvoy
 
 [Unity] Registered 'CL&LC ConfigSync' RPC - waiting for incoming connections
 [Unity] Registered 'randyknapp.mods.epicloot ConfigSync' RPC - waiting for incoming connections
@@ -430,7 +424,7 @@ UnityExplorer 4.4.0 initialized.
 [Unity] Loading the eggs
 [Unity] CustomTextures ZNetScene awake
 [Unity] CustomTextures Checking 2149 prefabs
-[Unity] CustomTextures ZNetScene RunTime 00:00:00.64
+[Unity] CustomTextures ZNetScene RunTime 00:00:00.75
 [Unity] CustomTextures Reloading Environment textures
 [Unity] CustomTextures Reloading 9 Environment textures
 [Unity] CustomTextures 
@@ -565,21 +559,21 @@ loading custom texture file for texture_ygg_leaf_n_BumpMap
 [Unity] Updated AttackSE: Bitterstump_SprayFrost_DoD
 [Unity] Updated AttackSE: Bhygshan_Fireball_DoD
 [Unity] Updated AttackSE: Skir_Voidbolt_Projectile_DoD
-[Unity] 12/17/2021 22:49:35: Audioman already exist, destroying self
+[Unity] 12/18/2021 14:12:49: Audioman already exist, destroying self
 
 [Unity] Compass Added compass to hud
-[Unity] 12/17/2021 22:49:35: Checking for installed DLCs
+[Unity] 12/18/2021 14:12:49: Checking for installed DLCs
 
-[Unity] 12/17/2021 22:49:35: DLC installed:1515960
+[Unity] 12/18/2021 14:12:49: DLC installed:1515960
 
-[Unity] 12/17/2021 22:49:35: DLC:beta installed:True
+[Unity] 12/18/2021 14:12:49: DLC:beta installed:True
 
 [Unity] CustomTextures Clutter system awake
 [Unity] CustomTextures Checking 17 clutters
 [Unity] CustomTextures Clutter System RunTime 00:00:00.00
 [Unity] CustomTextures Starting ZoneSystem Location prefab replacement
 [Unity] CustomTextures ZoneSystem Locations RunTime 00:00:00.00
-[Unity] 12/17/2021 22:49:38: Zonesystem Start 3975
+[Unity] 12/18/2021 14:12:53: Zonesystem Start 477
 
 [Unity] ZoneSystem_Start_Patch ran
 [Unity] Skipping BossStone_Bonemass
@@ -592,26 +586,26 @@ loading custom texture file for texture_ygg_leaf_n_BumpMap
 [Unity] Skipping BossStone_Yagluth
 [Unity] Skipping BossStone_TheElder
 [Unity] Skipping BossStone_Eikthyr
-[Unity] 12/17/2021 22:49:38: DungeonDB Start 3975
+[Unity] 12/18/2021 14:12:53: DungeonDB Start 477
 
-[Unity] 12/17/2021 22:49:39: Load world TamrielTest
+[Unity] 12/18/2021 14:12:54: Load world TamrielTest
 
-[Unity] 12/17/2021 22:49:39: Loading 1301051 zdos , my id 1249335582 data version:27
+[Unity] 12/18/2021 14:12:54: Loading 1301199 zdos , my id 1018803853 data version:27
 
-[Unity] 12/17/2021 22:49:43: Loaded 19337 dead zdos
+[Unity] 12/18/2021 14:12:58: Loaded 25379 dead zdos
 
-[Unity] 12/17/2021 22:49:43: Removed 0 OLD generated ZDOS
+[Unity] 12/18/2021 14:12:58: Removed 0 OLD generated ZDOS
 
-[Unity] 12/17/2021 22:49:43: Loaded 6459 locations
+[Unity] 12/18/2021 14:12:58: Loaded 6459 locations
 
-[Unity] 12/17/2021 22:49:44: Starting respawn
+[Unity] 12/18/2021 14:12:59: Starting respawn
 
 [Unity] GetZoomSens: 10
-[Unity] 12/17/2021 22:49:47: tip:$loadscreen_tip04
+[Unity] 12/18/2021 14:13:02: tip:$loadscreen_tip19
 
-[Unity] 12/17/2021 22:49:51: Vis equip model set to 1
+[Unity] 12/18/2021 14:13:07: Vis equip model set to 1
 
-[Unity] 12/17/2021 22:49:55: Spawned after 8,019994
+[Unity] 12/18/2021 14:13:10: Spawned after 8,019994
 
 [Unity] Caching server config
 [Unity] Sending server config to 0 clients
@@ -619,49 +613,103 @@ loading custom texture file for texture_ygg_leaf_n_BumpMap
 [Unity] Sending server config to 0 clients
 [Unity] Caching server config
 [Unity] Sending server config to 0 clients
-[Unity] 12/17/2021 22:49:56: Minimap: Adding unique location (369.1, 47.4, -97.4)
+[Unity] 12/18/2021 14:13:11: Minimap: Adding unique location (369.1, 47.4, -97.4)
 
-[Unity] 12/17/2021 22:49:56: Minimap: Adding unique location (-253.0, 61.2, 3311.4)
+[Unity] 12/18/2021 14:13:11: Minimap: Adding unique location (-253.0, 61.2, 3311.4)
 
 [Unity] Compass scale 1 1080 50
-[Unity] 12/17/2021 22:49:57: Random event set:eikthyrwildt1
+[Unity] 12/18/2021 14:13:13: Resumed music meadows at 0
 
-[Unity] [MoreSkills]: Saved Taming Levels from : RRRN_Dwarf to the Temporal Database
-[Unity] 12/17/2021 22:50:44: UI Group status changed MenuRoot = True
+[Unity] Caching server config
+[Unity] Sending server config to 0 clients
+[Unity] 12/18/2021 14:13:34: Setting selected recipe 0
 
-[Unity] [MoreSkills]: Saved Taming Levels from : RRRN_Ashe to the Temporal Database
-[Unity] 12/17/2021 22:51:02: Stoped music CombatEventL1 at 2863795
+[Unity] 12/18/2021 14:13:35: UI Group status changed root = True
 
-[Unity] 12/17/2021 22:51:02: Resumed music meadows at 0
+[Unity] 12/18/2021 14:13:35: UI Group status changed Player = True
 
-[Unity] 12/17/2021 22:51:04: UI Group status changed MenuRoot = True
+[Unity] 12/18/2021 14:13:38: Setting selected recipe 31
 
-[Unity] 12/17/2021 22:51:06: UI Group status changed MenuRoot = False
+[Unity] 12/18/2021 14:13:38: Setting selected recipe 31
 
-[Unity] 12/17/2021 22:51:07: Game - OnApplicationQuit
+[Unity] 12/18/2021 14:13:38: UI Group status changed root = True
 
-[Unity] 12/17/2021 22:51:07: Shuting down
+[Unity] 12/18/2021 14:13:38: UI Group status changed Player = True
 
-[Unity] 12/17/2021 22:51:07: ZNet Shutdown
+[Unity] 12/18/2021 14:13:40: Setting selected recipe 31
 
-[Unity] 12/17/2021 22:51:09: clone 2018
+[Unity] 12/18/2021 14:13:44: Setting selected recipe 54
 
-[Unity] 12/17/2021 22:51:13: Sending disconnect msg
+[Unity] 12/18/2021 14:13:48: Setting selected recipe 54
 
-[Unity] 12/17/2021 22:51:15: Steam manager on destroy
+[Unity] 12/18/2021 14:13:50: Item is not in this container
 
-[Unity] 12/17/2021 22:51:15: ZNet OnDestroy
+[Unity] 12/18/2021 14:13:50: Setting selected recipe 54
 
-[Unity] 12/17/2021 22:51:15: Net scene destroyed
+[Unity] 12/18/2021 14:13:51: Setting selected recipe 54
 
-[Unity] 12/17/2021 22:51:15: Local player destroyed
+[Unity] 12/18/2021 14:13:51: Setting selected recipe 54
 
-[Unity] Compass Destroying plugin
-[Unity] Crafting Skill UnPatched!
-[Unity] Fishing Skill UnPatched!
-[Unity] Hunting Skill UnPatched!
-[Unity] Overhauls UnPatched!
-[Unity] Sailing Skill UnPatched!
-[Unity] Strength Skill UnPatched!
-[Unity] Taming Skill UnPatched!
-[Unity] Vitality Skill UnPatched!
+[Unity] 12/18/2021 14:13:52: UI Group status changed root = True
+
+[Unity] 12/18/2021 14:13:52: UI Group status changed Player = True
+
+[Unity] 12/18/2021 14:13:54: Item is not in this container
+
+[Unity] 12/18/2021 14:13:54: Setting selected recipe 54
+
+[Unity] Caching server config
+[Unity] Sending server config to 0 clients
+[Unity] 12/18/2021 14:13:59: Setting selected recipe 54
+
+[Unity] 12/18/2021 14:13:59: Setting selected recipe 54
+
+[Unity] 12/18/2021 14:13:59: UI Group status changed root = True
+
+[Unity] 12/18/2021 14:13:59: UI Group status changed Player = True
+
+[Unity] 12/18/2021 14:14:01: Setting selected recipe 54
+
+[Unity] 12/18/2021 14:14:01: Setting selected recipe 54
+
+[Unity] 12/18/2021 14:14:01: UI Group status changed root = True
+
+[Unity] 12/18/2021 14:14:01: UI Group status changed Player = True
+
+[Unity] 12/18/2021 14:14:08: Loading dungeon
+
+[Unity] 12/18/2021 14:14:08: Dungeon loaded 7
+
+[Unity] 12/18/2021 14:14:08: Dungeon load time 60,9301 ms
+
+[Unity] 12/18/2021 14:14:09: Setting selected recipe 54
+
+[Unity] 12/18/2021 14:14:09: Setting selected recipe 54
+
+[Unity] 12/18/2021 14:14:09: UI Group status changed root = True
+
+[Unity] 12/18/2021 14:14:09: UI Group status changed Player = True
+
+[Unity] 12/18/2021 14:14:11: Setting selected recipe 54
+
+[Unity] 12/18/2021 14:14:11: Setting selected recipe 54
+
+[Unity] 12/18/2021 14:14:11: UI Group status changed root = True
+
+[Unity] 12/18/2021 14:14:11: UI Group status changed Player = True
+
+[Unity] 12/18/2021 14:14:12: Setting selected recipe 54
+
+[Unity] 12/18/2021 14:14:12: Setting selected recipe 54
+
+[Unity] 12/18/2021 14:14:13: UI Group status changed root = True
+
+[Unity] 12/18/2021 14:14:13: UI Group status changed Player = True
+
+[Unity] 12/18/2021 14:14:29: Setting selected recipe 54
+
+[Unity] 12/18/2021 14:14:29: Setting selected recipe 54
+
+[Unity] 12/18/2021 14:14:30: UI Group status changed root = True
+
+[Unity] 12/18/2021 14:14:30: UI Group status changed Player = True
