@@ -425,6 +425,277 @@
         { "Count": 3, "Effect": { "Type": "Berserker" } },
         { "Count": 4, "Effect": { "Type": "FrostDamageAOE", "Values": { "MinValue": 50, "MaxValue": 50, "Increment": 1 } } }
       ]
+    },
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// DoD Legendary Sets
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// Warlord's Battlegear 
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    {
+      "ID": "WarlordsBattlegear",
+      "Name": "Warlord's Battlegear",
+      "LegendaryIDs": [
+        "WarlordsHeadpiece",
+        "WarlordsLeggings",
+        "WarlordsArmor",
+        "WarlordsCape",
+        "WarlordsGridle"
+      ],
+      "SetBonuses": [
+        { "Count": 2, "Effect": { "Type": "AddLightningDamage", 	"Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "AddSpiritDamage", 		"Values": { "MinValue": 35, "MaxValue": 35, "Increment": 1 } } },
+        { "Count": 4, "Effect": { "Type": "ModifyElementalDamage", 	"Values": { "MinValue": 30, "MaxValue": 30, "Increment": 1 } } },
+        { "Count": 5, "Effect": { "Type": "ModifyArmor", 			"Values": { "MinValue": 100, "MaxValue": 100, "Increment": 1 } } },
+        { "Count": 5, "Effect": { "Type": "ReflectDamage", 			"Values": { "MinValue": 15, "MaxValue": 15, "Increment": 1 } } }
+      ]
+    },
+	// Moder's Demise 
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    {
+      "ID": "ModersDemise",
+      "Name": "Moder's Demise",
+      "LegendaryIDs": [
+        "DragonscaleShield",
+        "GridleFrost",
+        "FrostbaneCloak",
+        "DragonscaleBreatplate"
+      ],
+      "SetBonuses": [
+        { "Count": 2, "Effect": { "Type": "AddFireDamage", 			"Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "ModifyElementalDamage", 	"Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } } },
+        { "Count": 4, "Effect": { "Type": "ModifyArmor", 			"Values": { "MinValue": 90, "MaxValue": 90, "Increment": 1 } } },
+        { "Count": 4, "Effect": { "Type": "Immovable" } }
+      ]
+    },
+	// Plagueheart Raiment 
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    {
+      "ID": "PlagueheartRaiment",
+      "Name": "Plagueheart Raiment",
+      "LegendaryIDs": [
+        "PlagueheartRing",
+        "PlagueheartCloak",
+        "PlagueheartChest",
+        "PlagueheartCirclet"
+      ],
+      "SetBonuses": [
+        { "Count": 2, "Effect": { "Type": "AddSpiritDamage", 	"Values": { "MinValue": 30, "MaxValue": 30, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "AddFrostDamage", 	"Values": { "MinValue": 20, "MaxValue": 20, "Increment": 1 } } },
+        { "Count": 4, "Effect": { "Type": "ModifyArmor", 		"Values": { "MinValue": 80, "MaxValue": 80, "Increment": 1 } } },
+        { "Count": 4, "Effect": { "Type": "LifeSteal", 			"Values": { "MinValue": 1.5, "MaxValue": 1.5, "Increment": 1 } } }
+      ]
+    },
+	// Giantstalker Armor 
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    {
+      "ID": "GiantstalkerArmor",
+      "Name": "Giantstalker Armor",
+      "LegendaryIDs": [
+        "GiantstalkersLeggings",
+        "GiantstalkersHelm",
+        "GiantstalkersChest"
+      ],
+      "SetBonuses": [
+        { "Count": 2, "Effect": { "Type": "AddFireDamage", 			"Values": { "MinValue": 20, "MaxValue": 20, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "ModifyElementalDamage", 	"Values": { "MinValue": 20, "MaxValue": 20, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "ModifyArmor", 			"Values": { "MinValue": 70, "MaxValue": 70, "Increment": 1 } } }
+      ]
+    },
+	// Spirit of Eikthyr 
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    {
+      "ID": "SpiritofEikthyr",
+      "Name": "Spirit of Eikthyr",
+      "LegendaryIDs": [
+        "EikthyrCloak",
+        "EikthyrHide",
+        "EikthyrCollar"
+      ],
+      "SetBonuses": [
+        { "Count": 2, "Effect": { "Type": "ModifyPhysicalDamage", 				"Values": { "MinValue": 20, "MaxValue": 20, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "AddPhysicalResistancePercentage", 	"Values": { "MinValue": 15, "MaxValue": 15, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "ModifyArmor", 						"Values": { "MinValue": 60, "MaxValue": 60, "Increment": 1 } } }
+      ]
+    },
+	// Unlucky Serf's Rags
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    {
+      "ID": "UnluckySerfsRags",
+      "Name": "Unlucky Serf's Rags",
+      "LegendaryIDs": [
+        "UnluckySerfCloak",
+        "UnluckySerfChest",
+        "UnluckySerfLegs",
+        "UnluckySerfHelm",
+        "UnluckySerfUtility",
+        "UnluckySerfKnife"
+      ],
+      "SetBonuses": [
+        { "Count": 2, "Effect": { "Type": "AddMovementSkills", 	"Values": { "MinValue": 13, "MaxValue": 13, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "ModifyBackstab", 	"Values": { "MinValue": 33, "MaxValue": 33, "Increment": 1 } } },
+        { "Count": 4, "Effect": { "Type": "AddKnivesSkill", 	"Values": { "MinValue": 13, "MaxValue": 13, "Increment": 1 } } },
+        { "Count": 5, "Effect": { "Type": "IncreaseHealth", 	"Values": { "MinValue": 33, "MaxValue": 33, "Increment": 1 } } },
+        { "Count": 6, "Effect": { "Type": "ModifyArmor", 		"Values": { "MinValue": 133, "MaxValue": 133, "Increment": 1 } } }
+      ]
+    },
+	// Traveller's Trinkets
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    {
+      "ID": "TravellersTrinkets",
+      "Name": "Travellers Trinkets",
+      "LegendaryIDs": [
+        "TravellersCloak",
+        "TravellersBelt"
+      ],
+      "SetBonuses": [
+        { "Count": 2, "Effect": { "Type": "AddMovementSkills", 	"Values": { "MinValue": 10, "MaxValue": 10, "Increment": 1 } } },
+        { "Count": 2, "Effect": { "Type": "IncreaseStamina", 	"Values": { "MinValue": 40, "MaxValue": 40, "Increment": 1 } } }
+      ]
+    },
+	// Teasha's Armament
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    {
+      "ID": "TeashasArmament",
+      "Name": "Teasha's Armament",
+      "LegendaryIDs": [
+        "TeashasShield",
+        "TeashasSword"
+      ],
+      "SetBonuses": [
+        { "Count": 2, "Effect": { "Type": "IncreaseStamina", 	"Values": { "MinValue": 35, "MaxValue": 35, "Increment": 1 } } },
+        { "Count": 2, "Effect": { "Type": "ModifyBlockPower", 	"Values": { "MinValue": 70, "MaxValue": 70, "Increment": 1 } } }
+      ]
+    },
+	// Relentless 
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    {
+      "ID": "RelentlessArmor",
+      "Name": "Relentless",
+      "LegendaryIDs": [
+        "RelentlessLegs",
+        "RelentlessHelm",
+        "RelentlessChest"
+      ],
+      "SetBonuses": [
+        { "Count": 2, "Effect": { "Type": "ModifyAttackStaminaUse", "Values": { "MinValue": 15, "MaxValue": 15, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "ModifyStaminaRegen", 	"Values": { "MinValue": 20, "MaxValue": 20, "Increment": 1 } } }
+      ]
+    },
+	// Ravager's Outfit
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    {
+      "ID": "RavagersOutfit",
+      "Name": "Ravager's Outfit",
+      "LegendaryIDs": [
+        "RavagersHelm",
+        "RavagersChest",
+        "RavagersAxe"
+      ],
+      "SetBonuses": [
+        { "Count": 2, "Effect": { "Type": "ModifyAttackSpeed", 	"Values": { "MinValue": 15, "MaxValue": 15, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "AddAxesSkill", 		"Values": { "MinValue": 10, "MaxValue": 10, "Increment": 1 } } }
+      ]
+    },
+	// Indomitable Faith
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    {
+      "ID": "IndomitableFaith",
+      "Name": "Indomitable Faith",
+      "LegendaryIDs": [
+        "IndomitableShield",
+        "IndomitableMace"
+      ],
+      "SetBonuses": [
+        { "Count": 2, "Effect": { "Type": "IncreaseHealth", 	"Values": { "MinValue": 35, "MaxValue": 35, "Increment": 1 } } },
+        { "Count": 2, "Effect": { "Type": "ModifyBlockPower", 	"Values": { "MinValue": 75, "MaxValue": 75, "Increment": 1 } } }
+      ]
+    },
+	// Glitterdelve Heirlooms
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    {
+      "ID": "GlitterdelveHeirlooms",
+      "Name": "Glitterdelve Heirlooms",
+      "LegendaryIDs": [
+        "GlitterdelveChest",
+        "GlitterdelveLegs",
+        "GlitterdelveHelm",
+        "GlitterdelveMace"
+      ],
+      "SetBonuses": [
+        { "Count": 2, "Effect": { "Type": "ModifyStaggerDuration", 	"Values": { "MinValue": 15, "MaxValue": 15, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "ModifyStaggerDamage", 	"Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } } },
+        { "Count": 4, "Effect": { "Type": "AddClubsSkill", 			"Values": { "MinValue": 10, "MaxValue": 10, "Increment": 1 } } }
+      ]
+    },
+	// Battlemage Vestments
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    {
+      "ID": "BattlemageVestments",
+      "Name": "Battlemage Vestments",
+      "LegendaryIDs": [
+        "BattlemageChest",
+        "BattlemageLegs",
+        "BattlemageHelm",
+        "BattlemageAtgeir"
+      ],
+      "SetBonuses": [
+        { "Count": 2, "Effect": { "Type": "ModifyAttackStaminaUse", "Values": { "MinValue": 15, "MaxValue": 15, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "AddPolearmsSkill", 		"Values": { "MinValue": 10, "MaxValue": 10, "Increment": 1 } } },
+        { "Count": 4, "Effect": { "Type": "ReflectDamage", 			"Values": { "MinValue": 20, "MaxValue": 20, "Increment": 1 } } }
+      ]
+    },
+	// Cinbri Attire
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    {
+      "ID": "CinbriAttire",
+      "Name": "Cinbri Attire",
+      "LegendaryIDs": [
+        "CinbriChest",
+        "CinbriHelm",
+        "CinbriKnife",
+        "CinbriRing"
+      ],
+      "SetBonuses": [
+        { "Count": 2, "Effect": { "Type": "ModifyBackstab", 		"Values": { "MinValue": 15, "MaxValue": 15, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "AddKnivesSkill", 		"Values": { "MinValue": 10, "MaxValue": 10, "Increment": 1 } } },
+        { "Count": 4, "Effect": { "Type": "AddHealthRegen", 		"Values": { "MinValue": 2, "MaxValue": 2, "Increment": 1 } } }
+      ]
+    },
+	// Bloodsoaked Armor
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    {
+      "ID": "BloodsoakedArmor",
+      "Name": "Bloodsoaked Armor",
+      "LegendaryIDs": [
+        "BloodsoakedChest",
+        "BloodsoakedLegs",
+        "BloodsoakedSpear",
+        "BloodsoakedRing"
+      ],
+      "SetBonuses": [
+        { "Count": 2, "Effect": { "Type": "ModifyHealthRegen", 		"Values": { "MinValue": 15, "MaxValue": 15, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "AddSpearsSkill", 		"Values": { "MinValue": 10, "MaxValue": 10, "Increment": 1 } } },
+        { "Count": 4, "Effect": { "Type": "LifeSteal", 				"Values": { "MinValue": 2, "MaxValue": 2, "Increment": 1 } } }
+      ]
+    },
+	// Beastmaster
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    {
+      "ID": "Beastmaster",
+      "Name": "Beastmaster",
+      "LegendaryIDs": [
+        "BeastmasterChest",
+        "BeastmasterLegs",
+        "BeastmasterHelm",
+        "BeastmasterAtgeir",
+        "BeastmasterCloak"
+      ],
+      "SetBonuses": [
+        { "Count": 2, "Effect": { "Type": "AddHealthRegen", 					"Values": { "MinValue": 2, "MaxValue": 2, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "AddPhysicalResistancePercentage", 	"Values": { "MinValue": 10, "MaxValue": 10, "Increment": 1 } } },
+        { "Count": 4, "Effect": { "Type": "AddPolearmsSkill", 					"Values": { "MinValue": 10, "MaxValue": 10, "Increment": 1 } } },
+        { "Count": 5, "Effect": { "Type": "Undying" } }
+      ]
     }
   ] 
 }

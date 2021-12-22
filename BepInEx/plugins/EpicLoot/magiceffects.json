@@ -2084,6 +2084,7 @@
       "DisplayText" : "$mod_epicloot_me_featherfall_display",
       "Description" : "$mod_epicloot_me_featherfall_desc",
       "Requirements" : {
+        "NoRoll": true,
         "AllowedItemTypes" : [
           "Legs"
         ]

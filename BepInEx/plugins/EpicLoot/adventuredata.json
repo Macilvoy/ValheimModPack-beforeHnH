@@ -18,7 +18,19 @@
       { "Item": "ShardLegendary",   "CoinsCost": 625 },
       { "Item": "DustLegendary",    "CoinsCost": 625 },
       { "Item": "ReagentLegendary", "CoinsCost": 625 },
-      { "Item": "EssenceLegendary", "CoinsCost": 625 }
+      { "Item": "EssenceLegendary", "CoinsCost": 625 },
+      { "Item": "ArcherItem_DoD",      	"CoinsCost": 500 },
+      { "Item": "BerserkerItem_DoD",   	"CoinsCost": 500 },
+      { "Item": "DruidItem_DoD",      	"CoinsCost": 500 },
+      { "Item": "MageItem_DoD",      	"CoinsCost": 500 },
+      { "Item": "MonkItem_DoD",      	"CoinsCost": 500 },
+      { "Item": "NinjaItem_DoD",      	"CoinsCost": 500 },
+      { "Item": "PaladinItem_DoD",      "CoinsCost": 500 },
+      { "Item": "RogueItem_DoD",      	"CoinsCost": 500 },
+      { "Item": "ShamanItem_DoD",      	"CoinsCost": 500 },
+      { "Item": "WarlockItem_DoD",      "CoinsCost": 500 },
+      { "Item": "ShardLegendary",   	"CoinsCost": 625 },
+      { "Item": "DustLegendary",    	"CoinsCost": 625 }
     ],
     "RollsPerRarity": [1, 1, 1, 1],
     "RandomItems": [
@@ -167,7 +179,11 @@
       { "Biome": "BlackForest", "Cost": 200, "ForestTokens": 10, "MinRadius": 0,    "MaxRadius": 6000 },
       { "Biome": "Swamp",       "Cost": 300, "ForestTokens": 15, "MinRadius": 2000, "MaxRadius": 6000 },
       { "Biome": "Mountain",    "Cost": 400, "ForestTokens": 20, "MinRadius": 2000, "MaxRadius": 6000 },
-      { "Biome": "Plains",      "Cost": 500, "ForestTokens": 25, "MinRadius": 3000, "MaxRadius": 6000 }
+      { "Biome": "Plains",      "Cost": 500, "ForestTokens": 25, "MinRadius": 3000, "MaxRadius": 6000 }, 
+
+      { "Biome": "Mistlands",   "Cost": 600, "ForestTokens": 30, "MinRadius": 3000, "MaxRadius": 6000 },
+      { "Biome": "DeepNorth",   "Cost": 700, "ForestTokens": 35, "MinRadius": 3000, "MaxRadius": 6000 },
+      { "Biome": "AshLands",    "Cost": 800, "ForestTokens": 40, "MinRadius": 3000, "MaxRadius": 6000 }
     ],
     "StartRadiusMin": 0,
     "StartRadiusMax": 500,
@@ -178,7 +194,17 @@
       { "Item": "RunestoneMagic",     "ForestTokenCost": 5 },
       { "Item": "RunestoneRare",      "ForestTokenCost": 10 },
       { "Item": "RunestoneEpic",      "ForestTokenCost": 15 },
-      { "Item": "RunestoneLegendary", "ForestTokenCost": 20 }
+      { "Item": "RunestoneLegendary", "ForestTokenCost": 20 },
+      { "Item": "ArcherItem_DoD",      	"ForestTokenCost": 100 },
+      { "Item": "BerserkerItem_DoD",   	"ForestTokenCost": 100 },
+      { "Item": "DruidItem_DoD",      	"ForestTokenCost": 100 },
+      { "Item": "MageItem_DoD",      	"ForestTokenCost": 100 },
+      { "Item": "MonkItem_DoD",      	"ForestTokenCost": 100 },
+      { "Item": "NinjaItem_DoD",      	"ForestTokenCost": 100 },
+      { "Item": "PaladinItem_DoD",      "ForestTokenCost": 100 },
+      { "Item": "RogueItem_DoD",      	"ForestTokenCost": 100 },
+      { "Item": "ShamanItem_DoD",      	"ForestTokenCost": 100 },
+      { "Item": "WarlockItem_DoD",      "ForestTokenCost": 100 }
     ] 
   },
   "Bounties": { 
@@ -241,7 +267,38 @@
       { "Biome": "Plains",      "TargetID": "GoblinShaman",     "RewardGold": 3, "RewardIron": 10, "RewardCoins":200, "Adds": [ { "ID": "Goblin",      "Count": 3 }  ] },
       { "Biome": "Plains",      "TargetID": "GoblinShaman",     "RewardGold": 5, "RewardIron": 15, "RewardCoins":250, "Adds": [ { "ID": "GoblinBrute", "Count": 1 }, { "ID": "Goblin", "Count": 2 } ] },
     
-      { "Biome": "Ocean",       "TargetID": "Serpent",          "RewardGold": 1, "RewardIron": 0, "RewardCoins": 30 }
+      { "Biome": "Ocean",       "TargetID": "Serpent",          "RewardGold": 1, "RewardIron": 0, "RewardCoins": 30 },
+
+      { "Biome": "Mistlands",      "TargetID": "RRRN_Assassin_DoD",        		"RewardGold": 1, "RewardIron": 5   },
+      { "Biome": "Mistlands",      "TargetID": "RRRN_ShadowGuard_DoD",        	"RewardGold": 2, "RewardIron": 7   },
+      { "Biome": "Mistlands",      "TargetID": "RRRN_ShadowWarrior_DoD",      	"RewardGold": 2, "RewardIron": 7   },
+      { "Biome": "Mistlands",      "TargetID": "RRRN_ShadowSentinel_DoD",     	"RewardGold": 2, "RewardIron": 7   },
+      { "Biome": "Mistlands",      "TargetID": "RRRN_ShadowMaster_DoD",       	"RewardGold": 3, "RewardIron": 5   },
+      { "Biome": "Mistlands",      "TargetID": "RRRM_BlackSpider_DoD",       	"RewardGold": 1, "RewardIron": 9   },
+      { "Biome": "Mistlands",      "TargetID": "RRRM_ElderSpawn_ML_DoD",       	"RewardGold": 3, "RewardIron": 5   },
+      { "Biome": "Mistlands",      "TargetID": "RRRM_JumpingSpider_DoD",       	"RewardGold": 1, "RewardIron": 9   },
+      { "Biome": "Mistlands",      "TargetID": "Vilefang_DoD",       			"RewardGold": 1, "RewardIron": 9   },
+      { "Biome": "Mistlands",      "TargetID": "Vilesquito_DoD",       			"RewardGold": 1, "RewardIron": 9   },
+	  
+      { "Biome": "DeepNorth",      "TargetID": "RRRM_IceOgre_DoD",           	"RewardGold": 3, "RewardIron": 5   },
+      { "Biome": "DeepNorth",      "TargetID": "RRRM_IceSpider_DoD",           	"RewardGold": 1, "RewardIron": 5   },
+      { "Biome": "DeepNorth",      "TargetID": "RRRN_GrayWolf_DoD",           	"RewardGold": 2, "RewardIron": 7   },
+      { "Biome": "DeepNorth",      "TargetID": "RRRM_IceTroll_DoD",           	"RewardGold": 3, "RewardIron": 5   },
+      { "Biome": "DeepNorth",      "TargetID": "DireWolf_DoD",           		"RewardGold": 1, "RewardIron": 9   },
+      { "Biome": "DeepNorth",      "TargetID": "RRRM_IceDrake_DoD",           	"RewardGold": 1, "RewardIron": 9   },
+      { "Biome": "DeepNorth",      "TargetID": "RRRM_BearMountain_DoD",       	"RewardGold": 1, "RewardIron": 9   },
+      { "Biome": "DeepNorth",      "TargetID": "FrozenBones_DoD",       		"RewardGold": 2, "RewardIron": 7   },
+      { "Biome": "DeepNorth",      "TargetID": "IceGolem_DoD",       			"RewardGold": 3, "RewardIron": 5   },
+	  
+      { "Biome": "AshLands",      "TargetID": "CharredRemains_DoD",     		"RewardGold": 2, "RewardIron": 7   },
+      { "Biome": "AshLands",      "TargetID": "RRRM_Tormented_DoD",     		"RewardGold": 1, "RewardIron": 9   },
+      { "Biome": "AshLands",      "TargetID": "LavaGolem_DoD",     				"RewardGold": 3, "RewardIron": 5   },
+      { "Biome": "AshLands",      "TargetID": "RRRM_FlameSpider_DoD",     		"RewardGold": 1, "RewardIron": 9   },
+      { "Biome": "AshLands",      "TargetID": "RRRM_FireGolem_DoD",     		"RewardGold": 2, "RewardIron": 7   },
+      { "Biome": "AshLands",      "TargetID": "GreaterSurtling_DoD",     		"RewardGold": 1, "RewardIron": 9   },
+      { "Biome": "AshLands",      "TargetID": "RRRM_FlameDrake_DoD",     		"RewardGold": 1, "RewardIron": 9   },
+      { "Biome": "AshLands",      "TargetID": "ObsidianGolem_DoD",     			"RewardGold": 3, "RewardIron": 5   }
+
     ],
     "Names": {
       "Prefixes": [

@@ -47,55 +47,55 @@
 [Info   :   BepInEx] Loading [Repair Requires Mats 0.3.1]
 [Info   :   BepInEx] Loading [Repair Specific Items 0.2.1]
 [Info   :   BepInEx] Loading [Forgotten Biomes 0.0.10]
-[Info   : Unity Log] 12/20/2021 18:47:34: Forgotten_Biomes: Running on Windows based server 
+[Info   : Unity Log] 12/22/2021 21:46:45: Forgotten_Biomes: Running on Windows based server 
 
-[Info   : Unity Log] 12/20/2021 18:47:34: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\ashlands.veg
+[Info   : Unity Log] 12/22/2021 21:46:45: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\ashlands.veg
 
-[Info   : Unity Log] 12/20/2021 18:47:34: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\deepnorth.veg
+[Info   : Unity Log] 12/22/2021 21:46:45: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\deepnorth.veg
 
-[Info   : Unity Log] 12/20/2021 18:47:34: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\meadows.veg
+[Info   : Unity Log] 12/22/2021 21:46:45: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\meadows.veg
 
-[Info   : Unity Log] 12/20/2021 18:47:34: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\blackforest.veg
+[Info   : Unity Log] 12/22/2021 21:46:45: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\blackforest.veg
 
-[Info   : Unity Log] 12/20/2021 18:47:34: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\mountain.veg
+[Info   : Unity Log] 12/22/2021 21:46:45: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\mountain.veg
 
-[Info   : Unity Log] 12/20/2021 18:47:34: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\swamp.veg
+[Info   : Unity Log] 12/22/2021 21:46:45: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\swamp.veg
 
-[Info   : Unity Log] 12/20/2021 18:47:34: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\plains.veg
+[Info   : Unity Log] 12/22/2021 21:46:45: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\plains.veg
 
-[Info   : Unity Log] 12/20/2021 18:47:34: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\mistlands.veg
+[Info   : Unity Log] 12/22/2021 21:46:45: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\mistlands.veg
 
-[Info   : Unity Log] 12/20/2021 18:47:34: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\ocean.veg
+[Info   : Unity Log] 12/22/2021 21:46:45: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\ocean.veg
 
-[Info   : Unity Log] 12/20/2021 18:47:34: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\hiddenlocations.loc
+[Info   : Unity Log] 12/22/2021 21:46:45: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\hiddenlocations.loc
 
-[Info   : Unity Log] 12/20/2021 18:47:34: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\disabledlocation.loc
+[Info   : Unity Log] 12/22/2021 21:46:45: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\disabledlocation.loc
 
-[Info   : Unity Log] 12/20/2021 18:47:34: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\removelocation.loc
+[Info   : Unity Log] 12/22/2021 21:46:45: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\removelocation.loc
 
 [Info   :   BepInEx] Loading [Custom Raids 1.4.0]
 [Info   :Custom Raids] Loading configurations...
 [Info   :   BepInEx] Loading [RagnarsRökare Mob AI 0.3.2]
 [Info   :   BepInEx] Loading [Creature Level & Loot Control 4.4.1]
-[Info   : Unity Log] 12/20/2021 18:47:34: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 12/22/2021 21:46:45: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 12/20/2021 18:47:34: Failed to load language file localization_extra
+[Info   : Unity Log] 12/22/2021 21:46:45: Failed to load language file localization_extra
 
-[Info   : Unity Log] 12/20/2021 18:47:34: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 12/22/2021 21:46:45: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 12/20/2021 18:47:34: Failed to load language file localization_extra
+[Info   : Unity Log] 12/22/2021 21:46:45: Failed to load language file localization_extra
 
-[Info   : Unity Log] 12/20/2021 18:47:34: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 12/22/2021 21:46:45: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 12/20/2021 18:47:34: Failed to load language file localization_extra
+[Info   : Unity Log] 12/22/2021 21:46:45: Failed to load language file localization_extra
 
-[Info   : Unity Log] 12/20/2021 18:47:34: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 12/22/2021 21:46:45: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 12/20/2021 18:47:34: Failed to load language file localization_extra
+[Info   : Unity Log] 12/22/2021 21:46:45: Failed to load language file localization_extra
 
-[Info   : Unity Log] 12/20/2021 18:47:35: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 12/22/2021 21:46:45: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 12/20/2021 18:47:35: Failed to load language file localization_extra
+[Info   : Unity Log] 12/22/2021 21:46:45: Failed to load language file localization_extra
 
 [Info   :   BepInEx] Loading [Project Auga 1.0.3]
 [Info   :   BepInEx] Loading [Extended Item Data Framework 1.0.3]
@@ -398,7 +398,7 @@
 [Info   :   BepInEx] Loading [YetiMonsterZ 0.0.7]
 [Info   : Unity Log] Loading Yeti
 [Message:   BepInEx] Chainloader startup complete
-[Info   : Unity Log] 12/20/2021 18:48:18: Starting to load scene:start
+[Info   : Unity Log] 12/22/2021 21:47:33: Starting to load scene:start
 
 [Info   : Unity Log] ConfigurationManager Searching for vanilla Config Manager.
 [Info   : Unity Log] ConfigurationManager Vanilla Config Manager not found.
@@ -412,34 +412,34 @@
 [Info   : Unity Log] (SkToolbox) ->  (TOOLBOX) ->  (NOTIFY) -> 3 MODULES LOADED | TOOLBOX READY.  
 [Info   : Unity Log] (SkToolbox) ->  (CONTROLLER) ->  (NOTIFY) -> READY.  
 [Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-[Info   : Unity Log] 12/20/2021 18:48:46: Valheim version:0.156.2
+[Info   : Unity Log] 12/22/2021 21:48:08: Valheim version:0.156.2
 
-[Info   : Unity Log] 12/20/2021 18:48:46: Render threading mode:MultiThreaded
+[Info   : Unity Log] 12/22/2021 21:48:08: Render threading mode:MultiThreaded
 
-[Info   : Unity Log] 12/20/2021 18:48:46: Using environment steamid 892970
+[Info   : Unity Log] 12/22/2021 21:48:08: Using environment steamid 892970
 
-[Info   : Unity Log] 12/20/2021 18:48:46: Using steam APPID:892970
+[Info   : Unity Log] 12/22/2021 21:48:08: Using steam APPID:892970
 
-[Info   : Unity Log] 12/20/2021 18:48:46: Authentication:k_ESteamNetworkingAvailability_Attempting
+[Info   : Unity Log] 12/22/2021 21:48:09: Authentication:k_ESteamNetworkingAvailability_Attempting
 
-[Info   : Unity Log] 12/20/2021 18:48:46: Steam initialized, persona:Macilvoy
+[Info   : Unity Log] 12/22/2021 21:48:09: Steam initialized, persona:Macilvoy
 
-[Warning: Unity Log] 12/20/2021 18:48:46: Missing audio clip in music respawn
+[Warning: Unity Log] 12/22/2021 21:48:09: Missing audio clip in music respawn
 
-[Info   : Unity Log] 12/20/2021 18:48:46: Checking for installed DLCs
+[Info   : Unity Log] 12/22/2021 21:48:09: Checking for installed DLCs
 
-[Info   : Unity Log] 12/20/2021 18:48:46: DLC installed:1515960
+[Info   : Unity Log] 12/22/2021 21:48:09: DLC installed:1515960
 
-[Info   : Unity Log] 12/20/2021 18:48:46: DLC:beta installed:True
+[Info   : Unity Log] 12/22/2021 21:48:09: DLC:beta installed:True
 
 [Info   : Unity Log] CustomTextures Clutter system awake
 [Info   : Unity Log] CustomTextures Checking 17 clutters
 [Info   : Unity Log] CustomTextures Clutter System RunTime 00:00:00.00
 [Info   :QuickConnect] Loaded 1 server entries
 [Info   :Jotunn.Managers.LocalizationManager] Loading custom localizations
-[Info   : Unity Log] 12/20/2021 18:48:47: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 12/22/2021 21:48:10: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 12/20/2021 18:48:47: Failed to load language file localization_extra
+[Info   : Unity Log] 12/22/2021 21:48:10: Failed to load language file localization_extra
 
 [Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'English'
 [Warning:RRRMonsters] True
@@ -540,7 +540,7 @@
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_NordicJam
 [Info   : Unity Log] CustomTextures SetupObjectDB postfix
 [Info   : Unity Log] CustomTextures Replacing textures for 808 objects
-[Info   : Unity Log] CustomTextures SetupObjectDB RunTime 00:00:00.19
+[Info   : Unity Log] CustomTextures SetupObjectDB RunTime 00:00:00.21
 [Info   :Jotunn.Managers.InputManager] Registering 3 custom inputs
 [Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
 [Info   :BiggerPickupRadius] 2
@@ -554,7 +554,7 @@ ConfigurationManager.Patches.Start () (at <9edb05592bc445f5bb0c8d2eab8bf234>:0)
 [Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
 [Info   :BiggerPickupRadius] 2
 [Info   :BiggerPickupRadius] Player pickup range set to 6
-[Info   : Unity Log] 12/20/2021 18:48:49: UI Group status changed Menu = True
+[Info   : Unity Log] 12/22/2021 21:48:14: UI Group status changed Menu = True
 
 [Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
 [Info   :BiggerPickupRadius] 2
@@ -565,7 +565,7 @@ ConfigurationManager.Patches.Start () (at <9edb05592bc445f5bb0c8d2eab8bf234>:0)
 [Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
 [Info   :BiggerPickupRadius] 2
 [Info   :BiggerPickupRadius] Player pickup range set to 6
-[Info   : Unity Log] 12/20/2021 18:48:52: UI Group status changed Menu = True
+[Info   : Unity Log] 12/22/2021 21:48:18: UI Group status changed Menu = True
 
 [Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
 [Info   :BiggerPickupRadius] 2
@@ -573,23 +573,68 @@ ConfigurationManager.Patches.Start () (at <9edb05592bc445f5bb0c8d2eab8bf234>:0)
 [Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
 [Info   :BiggerPickupRadius] 2
 [Info   :BiggerPickupRadius] Player pickup range set to 6
-[Info   : Unity Log] 12/20/2021 18:48:56: connect to ip:192.168.0.111 port:2456
+[Info   : Unity Log] 12/22/2021 21:48:20: FOund selected StartGame
 
-[Info   : Unity Log] 12/20/2021 18:48:56: show character selection
+[Info   : Unity Log] 12/22/2021 21:48:20: show character selection
 
-[Info   : Unity Log] 12/20/2021 18:48:58: OnCharacterStart
+[Info   : Unity Log] 12/22/2021 21:48:22: OnCharacterStart
 
-[Info   : Unity Log] [BetterContinents] Joining a server, so disabling local settings
-[Info   : Unity Log] [BetterContinents] Init settings for new world
-[Info   : Unity Log] 12/20/2021 18:48:59: Loading player profile nicolasmacilvoy
+[Message:Spawn That!] Loading all configs.
+[Message:Spawn That!] Loading general configurations
+[Message:Spawn That!] Finished loading general configurations
+[Message:Spawn That!] Loading simple configurations
+[Message:Spawn That!] Loading world spawner configurations.
+[Message:Spawn That!] Loading local spawner configurations.
+[Message:Spawn That!] Config loading took: 00:00:00.8022212
+[Message:Drop That!] Loading general configuration from C:\Games\Valheim\BepInEx\config\drop_that.cfg.
+[Message:Drop That!] Loading character drop lists
+[Message:Drop That!] Loading character drop configurations
+[Message:Drop That!] Loading drop table lists
+[Message:Drop That!] Loading drop table configurations
+[Info   : Unity Log] [BetterContinents] Selected world TamrielTest, applying settings
+[Info   : Unity Log] [BetterContinents] Time to load (heightmap): 606 ms
+[Info   : Unity Log] [BetterContinents] Time to process (heightmap): 333 ms
+[Info   : Unity Log] [BetterContinents] Time to load (biomemap): 306 ms
+[Info   : Unity Log] [BetterContinents] Time to calculate biomes from (biomemap): 1564 ms
+[Info   : Unity Log] [BetterContinents] Version 6
+[Info   : Unity Log] [BetterContinents] WorldUId 302882358
+[Info   : Unity Log] [BetterContinents] GlobalScale 0,9999999
+[Info   : Unity Log] [BetterContinents] MountainsAmount 0,5
+[Info   : Unity Log] [BetterContinents] SeaLevelAdjustment 0,125
+[Info   : Unity Log] [BetterContinents] OceanChannelsEnabled False
+[Info   : Unity Log] [BetterContinents] RiversEnabled False
+[Info   : Unity Log] [BetterContinents] DisableMapEdgeDropoff False
+[Info   : Unity Log] [BetterContinents] MountainsAllowedAtCenter False
+[Info   : Unity Log] [BetterContinents] Heightmap file (heightmap)
+[Info   : Unity Log] [BetterContinents] Heightmap size 4096x4096, amount 0,5, blend 1, add 0, mask 0
+[Info   : Unity Log] [BetterContinents] Biomemap file (biomemap)
+[Info   : Unity Log] [BetterContinents] Biomemap size 4096x4096
+[Info   : Unity Log] [BetterContinents] Spawnmap file (spawnmap)
+[Info   : Unity Log] [BetterContinents] Spawnmap includes spawns for 2 types
+[Info   : Unity Log] [BetterContinents] Roughmap disabled
+[Info   : Unity Log] [BetterContinents] Flatmap disabled
+[Info   : Unity Log] [BetterContinents] ForestScale 0,9999999
+[Info   : Unity Log] [BetterContinents] ForestAmountOffset 0
+[Info   : Unity Log] [BetterContinents] Forestmap disabled
+[Info   : Unity Log] [BetterContinents] MaxRidgeHeight 0,5
+[Info   : Unity Log] [BetterContinents] RidgeScale 0,9999999
+[Info   : Unity Log] [BetterContinents] RidgeBlendSigmoidB -30
+[Info   : Unity Log] [BetterContinents] RidgeBlendSigmoidXOffset 1
+[Info   : Unity Log] 12/22/2021 21:48:32: Loading player profile dod
 
 [Info   : Unity Log] CustomTextures Reloading ZoneSystem textures _GameMain _Zone
-[Info   : Unity Log] 12/20/2021 18:48:59: Zonesystem Awake 312
+[Info   : Unity Log] 12/22/2021 21:48:32: Zonesystem Awake 284
 
-[Info   : Unity Log] 12/20/2021 18:48:59: DungeonDB Awake 312
+[Info   : Unity Log] 12/22/2021 21:48:32: DungeonDB Awake 284
 
-[Info   : Unity Log] 12/20/2021 18:48:59: Steam initialized, persona:Macilvoy
+[Info   : Unity Log] 12/22/2021 21:48:32: Steam initialized, persona:Macilvoy
 
+[Info   : Unity Log] Registered 'CL&LC ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'randyknapp.mods.epicloot ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'htd.armory ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'org.bepinex.plugins.steadyregeneration ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'GoldenJude_JudesEquipment ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'com.alexanderstrada.rrrcore ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Loading the eggs
 [Info   : Unity Log] Loading the eggs
 [Info   : Unity Log] Trying to register Prefabs
@@ -651,7 +696,7 @@ ConfigurationManager.Patches.Start () (at <9edb05592bc445f5bb0c8d2eab8bf234>:0)
 [Info   : Unity Log] Loading the eggs
 [Info   : Unity Log] CustomTextures ZNetScene awake
 [Info   : Unity Log] CustomTextures Checking 2149 prefabs
-[Info   : Unity Log] CustomTextures ZNetScene RunTime 00:00:00.74
+[Info   : Unity Log] CustomTextures ZNetScene RunTime 00:00:00.70
 [Info   : Unity Log] CustomTextures Reloading Environment textures
 [Info   : Unity Log] CustomTextures Reloading 9 Environment textures
 [Info   : Unity Log] CustomTextures 
@@ -763,6 +808,124 @@ loading custom texture file for texture_ygg_leaf_n_BumpMap
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HoneyCloudberryJam
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_KingsJam
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_NordicJam
+[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.Ashe.json
+[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.Dvorah.json
+[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.Dwarf.json
+[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.Eir.json
+[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.Friendly05.json
+[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.Friendly10.json
+[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.Friendly15.json
+[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.Friendly20.json
+[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.Friendly25.json
+[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.Friendly30.json
+[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.Friendly35.json
+[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.Friendly40.json
+[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.Friendly45.json
+[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.FriendlyFemale0.json
+[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.FriendlyMale0.json
+[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.Mage.json
+[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.Necromancer.json
+[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.mountainbandit1.json
+[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.mountainbandit2.json
+[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.mountainbandit3.json
+[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.plainsbandit1.json
+[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.plainsbandit2.json
+[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.plainsbandit3.json
+[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.wildbandit1.json
+[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.wildbandit2.json
+[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.wildbandit3.json
+[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.wildbandit4giant.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\MonsterLabZ\Monsters\BlackSpider\rrrmonsters.custom.BlackSpider.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\MonsterLabZ\Monsters\BrownSpider\rrrmonsters.custom.BrownSpider.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\MonsterLabZ\Monsters\FireGolem\rrrmonsters.custom.FireGolem.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\MonsterLabZ\Monsters\ForestSpider\rrrmonsters.custom.ForestSpider.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\MonsterLabZ\Monsters\FrigidSpider\rrrmonsters.custom.FrigidSpider.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\MonsterLabZ\Monsters\FrostSpider\rrrmonsters.custom.FrostSpider.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\MonsterLabZ\Monsters\GhostWarrior\rrrmonsters.custom.GhostWarrior.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\MonsterLabZ\Monsters\GreenSpider\rrrmonsters.custom.GreenSpider.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\MonsterLabZ\Monsters\IceGolem\rrrmonsters.custom.IceGolem.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\MonsterLabZ\Monsters\SkeletonWarrior\rrrmonsters.custom.SkeletonWarrior.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\MonsterLabZ\Monsters\SkeletonWarriorFire\rrrmonsters.custom.SkeletonWarriorFire.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\MonsterLabZ\Monsters\SkeletonWarriorIce\rrrmonsters.custom.SkeletonWarriorIce.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\MonsterLabZ\Monsters\TanSpider\rrrmonsters.custom.TanSpider.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\MonsterLabZ\Monsters\TreeSpider\rrrmonsters.custom.TreeSpider.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshHatchling.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshMosquito.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshNeck.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.BlazingBones.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.BlazingDamnedOne.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.BurnedBones.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.DamnedOne.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.ElderSurtling.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.SmallAshNeck.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.SwollenBody.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.AngryFrozenCorpse.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.AngrySpirit.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.CalmSpirit.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.DevourerFenring.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.Dvergr.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.DvergrEvent.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.ForgottenOne.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.FrozenCorpse.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.Jotunn.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.PolarFenring.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.PolarLox.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.SilverGolem.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.SmallPolarLox.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.SmalPolarSerpent.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.DarkMosquito.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.DarkProtector.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.DarkSpider.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.MotherDarkSpider.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.PoisonDarkSpider.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SmallDarkSpider.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.Svartalfr.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrArcher.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrBrigade.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrHeavy.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrMage.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrQueen.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ocean\rrrmonsters.custom.DrownedSoul.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ocean\rrrmonsters.custom.StormHatchling.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Others\rrrmonsters.custom.StormFenring.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Others\rrrmonsters.custom.StormWolf.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\rrrmonsters.custom.NorthGolem.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\rrrmonsters.custom.NorthLox.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\rrrmonsters.custom.NorthUndead.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\rrrmonsters.custom.NorthWolf.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.DeathsquitoT1.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.EikthyrBoar.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.EikthyrLox.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.EikthyrNeck.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.EikthyrNeckT3M.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.EikthyrNeckT3R.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.EikthyrNeckT4.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.EikthyrWolf.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.GDBurningTorch.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.GDElderBrute.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.GDTosser.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.GDVileHand.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.TrollT1M.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.TrollT1R.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.TrollT2Elite.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.TrollT3Elite.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.TrollT4Elite.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadHrungnir.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT1.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT2M.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT2R.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT3Captain.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT3M.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT3R.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT4Captain.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT4M.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT4MageFire.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT4MageIce.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT5M.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.WraithT1.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.WraithT2.json
+[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.WraithT3.json
+[Message:Friendlies] M
 [Info   :Jotunn.Managers.PieceManager] Adding 2 custom piece table categories
 [Info   :Jotunn.Managers.PieceManager] Adding 18 custom pieces to the PieceTables
 [Warning:Jotunn.PrefabExtension] Not fixing potential mock references for field m_remainingRequirements : Dictionary is not supported.
@@ -798,14 +961,14 @@ loading custom texture file for texture_ygg_leaf_n_BumpMap
 [Info   : Unity Log] Updated AttackSE: Skir_Voidbolt_Projectile_DoD
 [Info   :PlanBuild.Blueprints.BlueprintManager] Registering known blueprints
 [Info   :Seed Totem] Moving Seed Totem to Cultivator
-[Info   : Unity Log] 12/20/2021 18:49:03: Audioman already exist, destroying self
+[Info   : Unity Log] 12/22/2021 21:48:39: Audioman already exist, destroying self
 
 [Info   : Unity Log] Compass Added compass to hud
-[Info   : Unity Log] 12/20/2021 18:49:03: Checking for installed DLCs
+[Info   : Unity Log] 12/22/2021 21:48:39: Checking for installed DLCs
 
-[Info   : Unity Log] 12/20/2021 18:49:03: DLC installed:1515960
+[Info   : Unity Log] 12/22/2021 21:48:39: DLC installed:1515960
 
-[Info   : Unity Log] 12/20/2021 18:49:03: DLC:beta installed:True
+[Info   : Unity Log] 12/22/2021 21:48:39: DLC:beta installed:True
 
 [Info   : Unity Log] CustomTextures Clutter system awake
 [Info   : Unity Log] CustomTextures Checking 17 clutters
@@ -841,7 +1004,7 @@ loading custom texture file for texture_ygg_leaf_n_BumpMap
 [Info   :AuthoritativeConfig_nex.SpeedyPaths] Authoritative Config Registered -> AuthoritativeConfig_nex.SpeedyPaths
 [Info   : Unity Log] CustomTextures Starting ZoneSystem Location prefab replacement
 [Info   : Unity Log] CustomTextures ZoneSystem Locations RunTime 00:00:00.00
-[Info   : Unity Log] 12/20/2021 18:49:06: Zonesystem Start 312
+[Info   : Unity Log] 12/22/2021 21:48:42: Zonesystem Start 284
 
 [Info   : Unity Log] ZoneSystem_Start_Patch ran
 [Info   : Unity Log] Skipping BossStone_Bonemass
@@ -854,2040 +1017,219 @@ loading custom texture file for texture_ygg_leaf_n_BumpMap
 [Info   : Unity Log] Skipping BossStone_Yagluth
 [Info   : Unity Log] Skipping BossStone_TheElder
 [Info   : Unity Log] Skipping BossStone_Eikthyr
-[Info   : Unity Log] 12/20/2021 18:49:06: DungeonDB Start 312
+[Info   : Unity Log] 12/22/2021 21:48:43: DungeonDB Start 284
 
-[Info   : Unity Log] 12/20/2021 18:49:06: Connecting to server 192.168.0.111:2456
+[Info   : Unity Log] 12/22/2021 21:48:43: Load world TamrielTest
 
-[Info   : Unity Log] 12/20/2021 18:49:06: Starting to connect to 192.168.0.111:2456
+[Info   : Unity Log] 12/22/2021 21:48:43: Loading 1304656 zdos , my id 2335723390 data version:27
 
-[Info   : Unity Log] [BetterContinents] Registering settings RPC
-[Info   : Unity Log] 12/20/2021 18:49:07: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+[Info   : Unity Log] 12/22/2021 21:48:48: Loaded 32357 dead zdos
 
-[Info   : Unity Log] 12/20/2021 18:49:07: New connection
+[Info   : Unity Log] 12/22/2021 21:48:48: Removed 0 OLD generated ZDOS
 
-[Info   : Unity Log] 12/20/2021 18:49:07: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+[Info   : Unity Log] 12/22/2021 21:48:48: Loaded 6459 locations
 
-[Info   : Unity Log] 12/20/2021 18:49:07: Connected
+[Info   : Unity Log] 12/22/2021 21:48:48: Random event set:eikthyrwildt1
 
-[Info   : Unity Log] 12/20/2021 18:49:07: Got connection SteamID 90154275677774853
+[Info   : Unity Log] 12/22/2021 21:48:48: Starting respawn
 
 [Info   : Unity Log] GetZoomSens: 10
-[Info   : Unity Log] VERSION check: theirs 1.0  mine 1.0.5
-[Info   : Unity Log] Version matched
-[Info   : Unity Log] [BetterContinents] Receiving server version 0.6.3
-[Info   : Unity Log] [BetterContinents] Loading server world settings from local cache, id e15e30f467f2e43205d56ec44ff9dc27
-[Message:Drop That!] Received locations package.
-[Message:Drop That!] Successfully received and unpacked locations package.
-[Message:Drop That!] Received package.
-[Message:Drop That!] Successfully general configs.
-[Message:Drop That!] Received package.
-[Message:Drop That!] Successfully unpacked CharacterDrop configs.
-[Info   : Unity Log] 12/20/2021 18:49:09: Session auth respons callback
+[Info   : Unity Log] 12/22/2021 21:48:51: tip:$loadscreen_tip21
 
-[Message:Drop That!] Received package.
-[Message:Drop That!] Successfully unpacked DropTable configs.
-[Info   : Unity Log] [BetterContinents] Version 6
-[Info   : Unity Log] [BetterContinents] WorldUId 1181943417
-[Info   : Unity Log] [BetterContinents] GlobalScale 0,9999999
-[Info   : Unity Log] [BetterContinents] MountainsAmount 0,5
-[Info   : Unity Log] [BetterContinents] SeaLevelAdjustment 0,125
-[Info   : Unity Log] [BetterContinents] OceanChannelsEnabled True
-[Info   : Unity Log] [BetterContinents] RiversEnabled True
-[Info   : Unity Log] [BetterContinents] DisableMapEdgeDropoff False
-[Info   : Unity Log] [BetterContinents] MountainsAllowedAtCenter True
-[Info   : Unity Log] [BetterContinents] Heightmap file (heightmap)
-[Info   : Unity Log] [BetterContinents] Heightmap size 4096x4096, amount 0,5, blend 1, add 0, mask 0
-[Info   : Unity Log] [BetterContinents] Biomemap file (biomemap)
-[Info   : Unity Log] [BetterContinents] Biomemap size 4096x4096
-[Info   : Unity Log] [BetterContinents] Spawnmap file (spawnmap)
-[Info   : Unity Log] [BetterContinents] Spawnmap includes spawns for 2 types
-[Info   : Unity Log] [BetterContinents] Roughmap disabled
-[Info   : Unity Log] [BetterContinents] Flatmap disabled
-[Info   : Unity Log] [BetterContinents] ForestScale 0,9999999
-[Info   : Unity Log] [BetterContinents] ForestAmountOffset 0
-[Info   : Unity Log] [BetterContinents] Forestmap disabled
-[Info   : Unity Log] [BetterContinents] MaxRidgeHeight 0,5
-[Info   : Unity Log] [BetterContinents] RidgeScale 0,9999999
-[Info   : Unity Log] [BetterContinents] RidgeBlendSigmoidB -30
-[Info   : Unity Log] [BetterContinents] RidgeBlendSigmoidXOffset 1
-[Info   : Unity Log] Received 95 configs and 2 custom values from the server for mod CL&LC
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_LeatherBelt): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_SilverRing): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_GoldRubyRing): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ShardRareUpgrade): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ShardEpicUpgrade): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ShardLegendaryUpgrade): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_DustRareUpgrade): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_DustEpicUpgrade): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_DustLegendaryUpgrade): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ReagentRareUpgrade): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ReagentEpicUpgrade): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ReagentLegendaryUpgrade): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EssenceRareUpgrade): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EssenceEpicUpgrade): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EssenceLegendaryUpgrade): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RunestoneRareUpgrade): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RunestoneEpicUpgrade): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RunestoneLegendaryUpgrade): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_MagicShardToDust_Conversion): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToDust_Conversion
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_MagicShardToEssence_Conversion): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToEssence_Conversion
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_MagicShardToReagent_Conversion): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToReagent_Conversion
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RareShardToDust_Conversion): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToDust_Conversion
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RareShardToEssence_Conversion): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToEssence_Conversion
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RareShardToReagent_Conversion): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToReagent_Conversion
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EpicShardToDust_Conversion): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToDust_Conversion
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EpicShardToEssence_Conversion): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToEssence_Conversion
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EpicShardToReagent_Conversion): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToReagent_Conversion
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_LegendaryShardToDust_Conversion): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToDust_Conversion
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_LegendaryShardToEssence_Conversion): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToEssence_Conversion
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_LegendaryShardToReagent_Conversion): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToReagent_Conversion
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_BoneSkeletonTrophy): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_BoneSkeletonTrophy
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EyeGreydwarfTrophy): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EyeGreydwarfTrophy
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_AntlerDeerTrophy): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_AntlerDeerTrophy
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_HideTrollTrophy): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HideTrollTrophy
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_CoreSurtlingTrophy): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_CoreSurtlingTrophy
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_FreezeGlandDrakeTrophy): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_DragonTearRunestone): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_YagluthThingRunestone): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
-[Info   : Unity Log] Received 7 configs and 9 custom values from the server for mod Epic Loot
-[Info   : Unity Log] Received 1830 configs and 0 custom values from the server for mod Jude's Equipment
-[Info   :Jotunn.Managers.SynchronizationManager] Received admin status from server: No Admin
-[Info   : Unity Log] Received 29 configs and 1 custom values from the server for mod RRRCore
-[Message:Boneappetit.BoneAppetit] Initial Config sync event received
-[Info   : Unity Log] 12/20/2021 18:49:13: VERSION check their:0.156.2  mine:0.156.2
+[Info   : Unity Log] 12/22/2021 21:48:56: Vis equip model set to 1
 
-[Info   : PlantEverything] Authoritative Config Requested
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Authoritative Config Registered -> AuthoritativeConfig_nex.SpeedyPaths
-[Info   : Unity Log] Speedy Paths Mod: Authoritative Config Requested -> AuthoritativeConfig_nex.SpeedyPaths
-[Info   : Unity Log] 12/20/2021 18:49:17: client got keys 3
-
-[Info   : Unity Log] 12/20/2021 18:49:17: client got location icons
-
-[Info   : Unity Log] 12/20/2021 18:49:17: Icons:1
-
-[Info   : Unity Log] Received 0 configs and 2 custom values from the server for mod Hugo's Armory
-[Info   : PlantEverything] Applied 67 config pairs
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Hud.BuffIcon +1: 1
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Hud.BuffIcon +2: 1.39
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Hud.DebuffIcon -1: 1
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Hud.DebuffIcon -2: 0.79
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => SpeedModifiers.DirtPathSpeed: 1.15
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => SpeedModifiers.StonePathSpeed: 1.4
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => SpeedModifiers.CultivatedSpeed: 1
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => SpeedModifiers.StructureWoodSpeed: 1.15
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => SpeedModifiers.StructureHardWoodSpeed: 1.15
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => SpeedModifiers.StructureStoneSpeed: 1.4
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => SpeedModifiers.StructureIronSpeed: 1.4
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => StaminaModifiers.DirtPathStamina: 0.8
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => StaminaModifiers.StonePathStamina: 0.7
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => StaminaModifiers.CultivatedStamina: 1
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => StaminaModifiers.StructureWoodStamina: 0.8
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => StaminaModifiers.StructureHardWoodStamina: 0.8
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => StaminaModifiers.StructureStoneStamina: 0.7
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => StaminaModifiers.StructureIronStamina: 0.7
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => SpeedModifiers_Biomes.Untamed_None_Speed: 1
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => StaminaModifiers_Biomes.Untamed_None_Stamina: 1
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Strings.Biome_None: default
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => SpeedModifiers_Biomes.Untamed_Meadows_Speed: 1
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => StaminaModifiers_Biomes.Untamed_Meadows_Stamina: 1
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Strings.Biome_Meadows: default
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => SpeedModifiers_Biomes.Untamed_Swamp_Speed: 1
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => StaminaModifiers_Biomes.Untamed_Swamp_Stamina: 1
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Strings.Biome_Swamp: default
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => SpeedModifiers_Biomes.Untamed_Mountain_Speed: 1
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => StaminaModifiers_Biomes.Untamed_Mountain_Stamina: 1
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Strings.Biome_Mountain: default
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => SpeedModifiers_Biomes.Untamed_BlackForest_Speed: 1
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => StaminaModifiers_Biomes.Untamed_BlackForest_Stamina: 1
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Strings.Biome_BlackForest: default
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => SpeedModifiers_Biomes.Untamed_Plains_Speed: 1
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => StaminaModifiers_Biomes.Untamed_Plains_Stamina: 1
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Strings.Biome_Plains: default
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => SpeedModifiers_Biomes.Untamed_AshLands_Speed: 1
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => StaminaModifiers_Biomes.Untamed_AshLands_Stamina: 1
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Strings.Biome_AshLands: default
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => SpeedModifiers_Biomes.Untamed_DeepNorth_Speed: 1
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => StaminaModifiers_Biomes.Untamed_DeepNorth_Stamina: 1
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Strings.Biome_DeepNorth: default
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => SpeedModifiers_Biomes.Untamed_Ocean_Speed: 1
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => StaminaModifiers_Biomes.Untamed_Ocean_Stamina: 1
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Strings.Biome_Ocean: default
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => SpeedModifiers_Biomes.Untamed_Mistlands_Speed: 1
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => StaminaModifiers_Biomes.Untamed_Mistlands_Stamina: 1
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Strings.Biome_Mistlands: default
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Strings.PathDirt: Dirt Path
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Strings.PathStone: Stone Path
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Strings.Cultivated: Cultivated
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Strings.StructureWood: Wood
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Strings.StructureHardWood: Hardwood
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Strings.StructureStone: Stone
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Strings.StructureIron: Iron
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied 55 config pairs
-[Message:Friendlies] M
-[Info   : Unity Log] 12/20/2021 18:49:28: Starting respawn
-
-[Info   : Unity Log] 12/20/2021 18:49:28: tip:$loadscreen_tip22
-
-[Info   : Unity Log] 12/20/2021 18:49:35: Spawned after 8,019994
+[Info   : Unity Log] 12/22/2021 21:49:00: Spawned after 8,019994
 
 [Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
 [Info   :BiggerPickupRadius] 2
 [Info   :BiggerPickupRadius] Player pickup range set to 6
-[Info   : Unity Log] [Passive Forsaken Powers] Applying GP_Eikthyr forsaken power.
-[Info   : Unity Log] 12/20/2021 18:49:35: Minimap: Adding unique location (369.1, 45.2, -97.4)
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] [Passive Forsaken Powers] Applying GP_Bonemass forsaken power.
+[Info   : Unity Log] 12/22/2021 21:49:00: Resumed music CombatEventL1 at 0
+
+[Info   : Unity Log] 12/22/2021 21:49:00: Minimap: Adding unique location (369.1, 47.4, -97.4)
+
+[Info   : Unity Log] 12/22/2021 21:49:00: Minimap: Adding unique location (-253.0, 61.2, 3311.4)
 
 [Info   : Unity Log] Compass scale 1 1080 50
-[Info   : Unity Log] 12/20/2021 18:49:40: client got keys 3
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 18:49:41: Spawned Greydwarf x 4
-
-[Info   : Unity Log] 12/20/2021 18:49:41: Spawned Greydwarf x 1
-
-[Info   : Unity Log] 12/20/2021 18:49:41: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 18:49:41: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 18:49:41: Spawned Ghost x 2
-
-[Info   : Unity Log] 12/20/2021 18:49:41: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 18:49:41: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 18:49:41: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 18:49:41: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 18:49:41: Spawned Ghost x 2
-
-[Info   : Unity Log] 12/20/2021 18:49:41: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 18:49:41: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 18:49:41: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 18:49:41: Spawned Ghost x 0
-
-[Info   : Unity Log] 12/20/2021 18:49:45: Spawned Ghost x 2
-
-[Info   : Unity Log] 12/20/2021 18:49:53: Force generaeting hmap (512.0, 0.0, 768.0)
-
-[Info   : Unity Log] 12/20/2021 18:50:02: Spawned Neck x 2
-
-[Info   : Unity Log] 12/20/2021 18:50:02: Spawned Greydwarf x 1
-
-[Info   : Unity Log] 12/20/2021 18:50:02: Spawned Greydwarf x 1
-
-[Info   : Unity Log] 12/20/2021 18:50:02: Spawned Ghost x 2
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 18:50:23: Spawned Greydwarf x 1
-
-[Info   : Unity Log] 12/20/2021 18:50:23: Spawned Greydwarf x 1
-
-[Info   : Unity Log] 12/20/2021 18:50:23: Spawned Ghost x 2
-
-[Info   : Unity Log] 12/20/2021 18:50:23: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 18:50:23: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 18:50:23: Spawned Ghost x 1
-
-[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Info   : Unity Log] 12/20/2021 18:50:24: Setting selected recipe 0
-
-[Info   : Unity Log] 12/20/2021 18:50:24: UI Group status changed root = True
-
-[Info   : Unity Log] 12/20/2021 18:50:24: UI Group status changed Player = True
-
-[Info   : Unity Log] 12/20/2021 18:50:24: Loading dungeon
-
-[Info   : Unity Log] 12/20/2021 18:50:24: Dungeon loaded 8
-
-[Info   : Unity Log] 12/20/2021 18:50:24: Dungeon load time 85,77 ms
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 18:51:08: Loading dungeon
-
-[Info   : Unity Log] 12/20/2021 18:51:08: Dungeon loaded 50
-
-[Info   : Unity Log] 12/20/2021 18:51:08: Dungeon load time 20,9432 ms
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 18:51:46: Spawned Greydwarf_Shaman x 1
-
-[Info   : Unity Log] 12/20/2021 18:51:46: Spawned RRRM_SkeletonWarrior x 2
-
-[Info   : Unity Log] 12/20/2021 18:51:59: Resumed music blackforest at 0
-
-[Info   : Unity Log] 12/20/2021 18:52:00: Poison damage: 29,25 ttl:6,408327 hits:6 dmg perhit:4,875
-
-[Info   : Unity Log] 12/20/2021 18:52:00: hit mine rock 44
-
-[Info   : Unity Log] 12/20/2021 18:52:01: hit mine rock 44
-
-[Info   : Unity Log] 12/20/2021 18:52:01: hit mine rock 44
-
-[Info   : Unity Log] 12/20/2021 18:52:02: hit mine rock 44
-
-[Info   : Unity Log] 12/20/2021 18:52:02: hit mine rock 44
-
-[Info   : Unity Log] 12/20/2021 18:52:03: Stoped music blackforest at 175929
-
-[Info   : Unity Log] 12/20/2021 18:52:03: hit mine rock 44
-
-[Info   : Unity Log] 12/20/2021 18:52:03: hit mine rock 44
-
-[Info   : Unity Log] 12/20/2021 18:52:04: hit mine rock 20
-
-[Info   : Unity Log] 12/20/2021 18:52:04: Suport time 2,807617
-
-[Info   : Unity Log] 12/20/2021 18:52:04: hit mine rock 102
-
-[Info   : Unity Log] 12/20/2021 18:52:07: hit mine rock 77
-
-[Info   : Unity Log] 12/20/2021 18:52:07: hit mine rock 83
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 18:52:12: hit mine rock 17
-
-[Info   : Unity Log] 12/20/2021 18:52:13: Loading dungeon
-
-[Info   : Unity Log] 12/20/2021 18:52:13: Dungeon loaded 50
-
-[Info   : Unity Log] 12/20/2021 18:52:13: Dungeon load time 19,9706 ms
-
-[Info   : Unity Log] 12/20/2021 18:52:14: Poison damage: 5 ttl:3,236068 hits:3 dmg perhit:1,666667
-
-[Info   : Unity Log] 12/20/2021 18:52:34: Spawned FireFlies x 1
-
-[Info   : Unity Log] 12/20/2021 18:52:39: Resumed music blackforest at 175929
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 18:52:43: Stoped music blackforest at 354680
-
-[Info   : Unity Log] 12/20/2021 18:52:53: Loading dungeon
-
-[Info   : Unity Log] 12/20/2021 18:52:53: Dungeon loaded 50
-
-[Info   : Unity Log] 12/20/2021 18:52:53: Dungeon load time 19,927 ms
-
-[Info   : Unity Log] 12/20/2021 18:53:06: Spawned FireFlies x 1
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 18:53:18: Starting respawn
-
-[Warning: Unity Log] 12/20/2021 18:53:18: Local player destroyed
-
-[Info   : Unity Log] 12/20/2021 18:53:18: tip:$loadscreen_tip07
-
-[Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
-[Info   :BiggerPickupRadius] 2
-[Info   :BiggerPickupRadius] Player pickup range set to 6
-[Info   : Unity Log] [Passive Forsaken Powers] Applying GP_Eikthyr forsaken power.
-[Info   : Unity Log] 12/20/2021 18:53:22: Force generaeting hmap (256.0, 0.0, -128.0)
-
-[Info   : Unity Log] 12/20/2021 18:53:22: Force generaeting hmap (320.0, 0.0, -128.0)
-
-[Info   : Unity Log] 12/20/2021 18:53:22: Force generaeting hmap (384.0, 0.0, 0.0)
-
-[Info   : Unity Log] 12/20/2021 18:53:22: Setting selected recipe 0
-
-[Info   : Unity Log] 12/20/2021 18:53:22: Setting selected recipe 0
-
-[Info   : Unity Log] 12/20/2021 18:53:22: UI Group status changed root = True
-
-[Info   : Unity Log] 12/20/2021 18:53:22: UI Group status changed Player = True
-
-[Info   : Unity Log] 12/20/2021 18:53:22: Done fading color
-
-[Info   : Unity Log] 12/20/2021 18:53:23: client got keys 3
-
-[Error  : Unity Log] InvalidCastException: Specified cast is not valid.
-Stack trace:
-BepInEx.Configuration.TomlTypeConverter+<>c.<.cctor>b__14_22 (System.Object obj, System.Type type) (at <be164cbbe0a546c59eda05037ff079c2>:0)
-BepInEx.Configuration.TomlTypeConverter.ConvertToString (System.Object value, System.Type valueType) (at <be164cbbe0a546c59eda05037ff079c2>:0)
-ServerSync.ConfigSync+PreventSavingServerInfo.Prefix (BepInEx.Configuration.ConfigEntryBase __instance, System.String& __result) (at <edace3db10664d6aa7dfc61232713e2c>:0)
-(wrapper dynamic-method) BepInEx.Configuration.ConfigEntryBase.DMD<BepInEx.Configuration.ConfigEntryBase::GetSerializedValue>(BepInEx.Configuration.ConfigEntryBase)
-BepInEx.Configuration.ConfigFile+<>c.<Save>b__24_0 (System.Collections.Generic.KeyValuePair`2[TKey,TValue] x) (at <be164cbbe0a546c59eda05037ff079c2>:0)
-System.Linq.Enumerable+SelectEnumerableIterator`2[TSource,TResult].MoveNext () (at <351e49e2a5bf4fd6beabb458ce2255f3>:0)
-System.Linq.Enumerable+ConcatIterator`1[TSource].MoveNext () (at <351e49e2a5bf4fd6beabb458ce2255f3>:0)
-System.Linq.Lookup`2[TKey,TElement].Create (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) (at <351e49e2a5bf4fd6beabb458ce2255f3>:0)
-System.Linq.GroupedEnumerable`2[TSource,TKey].ToArray () (at <351e49e2a5bf4fd6beabb458ce2255f3>:0)
-System.Linq.Buffer`1[TElement]..ctor (System.Collections.Generic.IEnumerable`1[T] source) (at <351e49e2a5bf4fd6beabb458ce2255f3>:0)
-System.Linq.OrderedEnumerable`1+<GetEnumerator>d__3[TElement].MoveNext () (at <351e49e2a5bf4fd6beabb458ce2255f3>:0)
-BepInEx.Configuration.ConfigFile.Save () (at <be164cbbe0a546c59eda05037ff079c2>:0)
-BepInEx.Configuration.ConfigFile.OnSettingChanged (System.Object sender, BepInEx.Configuration.ConfigEntryBase changedEntryBase) (at <be164cbbe0a546c59eda05037ff079c2>:0)
-BepInEx.Configuration.ConfigEntryBase.OnSettingChanged (System.Object sender) (at <be164cbbe0a546c59eda05037ff079c2>:0)
-BepInEx.Configuration.ConfigEntry`1[T].set_Value (T value) (at <be164cbbe0a546c59eda05037ff079c2>:0)
-MagicOverhaul.MagicOverhaul+ResizePanel.OnEndDrag (UnityEngine.EventSystems.PointerEventData task) (at <df5ffa0337114fa28c30abfc5f055cd4>:0)
-UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IEndDragHandler handler, UnityEngine.EventSystems.BaseEventData eventData) (at <5abdc278a459476dabe36f8ad65ea091>:0)
-UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) (at <5abdc278a459476dabe36f8ad65ea091>:0)
-UnityEngine.EventSystems.EventSystem:Update()
-
-[Info   : Unity Log] 12/20/2021 18:53:26: UI Group status changed MenuRoot = True
-
-[Info   :Jotunn.Managers.InputManager] Registering 3 custom inputs
-[Info   : Unity Log] 12/20/2021 18:53:28: Current res 1920x1080     1920x1080
-
-[Info   : Unity Log] 12/20/2021 18:53:28: UI Group status changed MenuRoot = False
-
-[Info   : Unity Log] 12/20/2021 18:53:32: FOund selected Ok
-
-[Info   : Unity Log] 12/20/2021 18:53:32: UI Group status changed MenuRoot = True
-
-[Info   : Unity Log] 12/20/2021 18:53:34: Spawned Greydwarf x 1
-
-[Info   : Unity Log] 12/20/2021 18:53:34: Spawned Greydwarf x 3
-
-[Info   : Unity Log] 12/20/2021 18:53:37: Setting selected recipe 0
-
-[Info   : Unity Log] 12/20/2021 18:53:37: UI Group status changed root = True
-
-[Info   : Unity Log] 12/20/2021 18:53:37: UI Group status changed Player = True
-
-[Error  : Unity Log] InvalidCastException: Specified cast is not valid.
-Stack trace:
-BepInEx.Configuration.TomlTypeConverter+<>c.<.cctor>b__14_22 (System.Object obj, System.Type type) (at <be164cbbe0a546c59eda05037ff079c2>:0)
-BepInEx.Configuration.TomlTypeConverter.ConvertToString (System.Object value, System.Type valueType) (at <be164cbbe0a546c59eda05037ff079c2>:0)
-ServerSync.ConfigSync+PreventSavingServerInfo.Prefix (BepInEx.Configuration.ConfigEntryBase __instance, System.String& __result) (at <edace3db10664d6aa7dfc61232713e2c>:0)
-(wrapper dynamic-method) BepInEx.Configuration.ConfigEntryBase.DMD<BepInEx.Configuration.ConfigEntryBase::GetSerializedValue>(BepInEx.Configuration.ConfigEntryBase)
-BepInEx.Configuration.ConfigFile+<>c.<Save>b__24_0 (System.Collections.Generic.KeyValuePair`2[TKey,TValue] x) (at <be164cbbe0a546c59eda05037ff079c2>:0)
-System.Linq.Enumerable+SelectEnumerableIterator`2[TSource,TResult].MoveNext () (at <351e49e2a5bf4fd6beabb458ce2255f3>:0)
-System.Linq.Enumerable+ConcatIterator`1[TSource].MoveNext () (at <351e49e2a5bf4fd6beabb458ce2255f3>:0)
-System.Linq.Lookup`2[TKey,TElement].Create (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) (at <351e49e2a5bf4fd6beabb458ce2255f3>:0)
-System.Linq.GroupedEnumerable`2[TSource,TKey].ToArray () (at <351e49e2a5bf4fd6beabb458ce2255f3>:0)
-System.Linq.Buffer`1[TElement]..ctor (System.Collections.Generic.IEnumerable`1[T] source) (at <351e49e2a5bf4fd6beabb458ce2255f3>:0)
-System.Linq.OrderedEnumerable`1+<GetEnumerator>d__3[TElement].MoveNext () (at <351e49e2a5bf4fd6beabb458ce2255f3>:0)
-BepInEx.Configuration.ConfigFile.Save () (at <be164cbbe0a546c59eda05037ff079c2>:0)
-BepInEx.Configuration.ConfigFile.OnSettingChanged (System.Object sender, BepInEx.Configuration.ConfigEntryBase changedEntryBase) (at <be164cbbe0a546c59eda05037ff079c2>:0)
-BepInEx.Configuration.ConfigEntryBase.OnSettingChanged (System.Object sender) (at <be164cbbe0a546c59eda05037ff079c2>:0)
-BepInEx.Configuration.ConfigEntry`1[T].set_Value (T value) (at <be164cbbe0a546c59eda05037ff079c2>:0)
-MagicOverhaul.MagicOverhaul+ResizePanel.OnEndDrag (UnityEngine.EventSystems.PointerEventData task) (at <df5ffa0337114fa28c30abfc5f055cd4>:0)
-UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IEndDragHandler handler, UnityEngine.EventSystems.BaseEventData eventData) (at <5abdc278a459476dabe36f8ad65ea091>:0)
-UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) (at <5abdc278a459476dabe36f8ad65ea091>:0)
-UnityEngine.EventSystems.EventSystem:Update()
-
-[Info   :ColorfulLights] Removed 0/1 fireplace refs.
-[Error  : Unity Log] InvalidCastException: Specified cast is not valid.
-Stack trace:
-BepInEx.Configuration.TomlTypeConverter+<>c.<.cctor>b__14_22 (System.Object obj, System.Type type) (at <be164cbbe0a546c59eda05037ff079c2>:0)
-BepInEx.Configuration.TomlTypeConverter.ConvertToString (System.Object value, System.Type valueType) (at <be164cbbe0a546c59eda05037ff079c2>:0)
-ServerSync.ConfigSync+PreventSavingServerInfo.Prefix (BepInEx.Configuration.ConfigEntryBase __instance, System.String& __result) (at <edace3db10664d6aa7dfc61232713e2c>:0)
-(wrapper dynamic-method) BepInEx.Configuration.ConfigEntryBase.DMD<BepInEx.Configuration.ConfigEntryBase::GetSerializedValue>(BepInEx.Configuration.ConfigEntryBase)
-BepInEx.Configuration.ConfigFile+<>c.<Save>b__24_0 (System.Collections.Generic.KeyValuePair`2[TKey,TValue] x) (at <be164cbbe0a546c59eda05037ff079c2>:0)
-System.Linq.Enumerable+SelectEnumerableIterator`2[TSource,TResult].MoveNext () (at <351e49e2a5bf4fd6beabb458ce2255f3>:0)
-System.Linq.Enumerable+ConcatIterator`1[TSource].MoveNext () (at <351e49e2a5bf4fd6beabb458ce2255f3>:0)
-System.Linq.Lookup`2[TKey,TElement].Create (System.Collections.Generic.IEnumerable`1[T] source, System.Func`2[T,TResult] keySelector, System.Collections.Generic.IEqualityComparer`1[T] comparer) (at <351e49e2a5bf4fd6beabb458ce2255f3>:0)
-System.Linq.GroupedEnumerable`2[TSource,TKey].ToArray () (at <351e49e2a5bf4fd6beabb458ce2255f3>:0)
-System.Linq.Buffer`1[TElement]..ctor (System.Collections.Generic.IEnumerable`1[T] source) (at <351e49e2a5bf4fd6beabb458ce2255f3>:0)
-System.Linq.OrderedEnumerable`1+<GetEnumerator>d__3[TElement].MoveNext () (at <351e49e2a5bf4fd6beabb458ce2255f3>:0)
-BepInEx.Configuration.ConfigFile.Save () (at <be164cbbe0a546c59eda05037ff079c2>:0)
-BepInEx.Configuration.ConfigFile.OnSettingChanged (System.Object sender, BepInEx.Configuration.ConfigEntryBase changedEntryBase) (at <be164cbbe0a546c59eda05037ff079c2>:0)
-BepInEx.Configuration.ConfigEntryBase.OnSettingChanged (System.Object sender) (at <be164cbbe0a546c59eda05037ff079c2>:0)
-BepInEx.Configuration.ConfigEntry`1[T].set_Value (T value) (at <be164cbbe0a546c59eda05037ff079c2>:0)
-MagicOverhaul.MagicOverhaul+DragUI.OnEndDrag (UnityEngine.EventSystems.PointerEventData config) (at <df5ffa0337114fa28c30abfc5f055cd4>:0)
-UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IEndDragHandler handler, UnityEngine.EventSystems.BaseEventData eventData) (at <5abdc278a459476dabe36f8ad65ea091>:0)
-UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) (at <5abdc278a459476dabe36f8ad65ea091>:0)
-UnityEngine.EventSystems.EventSystem:Update()
-
-[Info   : Unity Log] 12/20/2021 18:53:46: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 18:53:46: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 18:53:46: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 18:53:46: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 18:53:46: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 18:53:46: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 18:53:46: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 18:53:46: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 18:53:46: Spawned Ghost x 2
-
-[Info   : Unity Log] 12/20/2021 18:53:46: Spawned Ghost x 2
-
-[Info   : Unity Log] 12/20/2021 18:53:46: Spawned Ghost x 2
-
-[Info   : Unity Log] 12/20/2021 18:53:46: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 18:53:50: Spawned Greydwarf x 1
-
-[Info   : Unity Log] 12/20/2021 18:53:50: Vis equip model set to 1
-
-[Info   : Unity Log] 12/20/2021 18:53:56: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 18:53:58: Vis equip model set to 1
-
-[Info   : Unity Log] 12/20/2021 18:54:03: Spawned Greydwarf x 1
-
-[Info   : Unity Log] 12/20/2021 18:54:03: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 18:54:03: Spawned Ghost x 2
-
-[Info   : Unity Log] 12/20/2021 18:54:03: Spawned Ghost x 2
-
-[Info   : Unity Log] 12/20/2021 18:54:03: Spawned Ghost x 2
-
-[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Info   : Unity Log] 12/20/2021 18:54:06: Vis equip model set to 1
-
-[Info   :ColorfulLights] Removed 1/2 fireplace refs.
-[Info   : Unity Log] 12/20/2021 18:54:17: Force generaeting hmap (256.0, 0.0, 256.0)
-
-[Info   : Unity Log] 12/20/2021 18:54:19: Spawned Greydwarf x 4
-
-[Info   : Unity Log] 12/20/2021 18:54:19: Spawned Ghost x 2
-
-[Info   : Unity Log] 12/20/2021 18:54:19: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 18:54:19: Spawned Ghost x 2
-
-[Info   : Unity Log] 12/20/2021 18:54:19: Spawned Ghost x 2
-
-[Info   : Unity Log] 12/20/2021 18:54:19: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 18:54:37: Spawned Ghost x 2
-
-[Info   : Unity Log] 12/20/2021 18:54:37: Spawned Ghost x 1
-
-[Info   :ColorfulLights] Removed 0/1 fireplace refs.
-[Info   : Unity Log] 12/20/2021 18:55:00: Spawned Greydwarf x 1
-
-[Info   : Unity Log] 12/20/2021 18:55:00: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 18:55:00: Spawned Ghost x 1
-
-[Info   :ColorfulLights] Removed 0/1 fireplace refs.
-[Info   : Unity Log] 12/20/2021 18:55:18: Spawned Deer x 1
-
-[Info   : Unity Log] 12/20/2021 18:55:18: Spawned RRRM_DrownedSoul x 1
-
-[Info   : Unity Log] 12/20/2021 18:55:18: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 18:55:18: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 18:55:18: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 18:55:18: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 18:55:36: Spawned Greydwarf x 2
-
-[Info   : Unity Log] 12/20/2021 18:55:36: Spawned Ghost x 2
-
-[Info   :ColorfulLights] Removed 1/1 fireplace refs.
-[Info   : Unity Log] 12/20/2021 18:55:57: Starting respawn
-
-[Warning: Unity Log] 12/20/2021 18:55:57: Local player destroyed
-
-[Info   : Unity Log] 12/20/2021 18:55:57: tip:$loadscreen_tip17
-
-[Info   : Unity Log] 12/20/2021 18:56:00: Force generaeting hmap (256.0, 0.0, -128.0)
-
-[Info   : Unity Log] 12/20/2021 18:56:00: Force generaeting hmap (320.0, 0.0, -128.0)
-
-[Info   : Unity Log] 12/20/2021 18:56:00: Force generaeting hmap (384.0, 0.0, 0.0)
-
-[Info   : Unity Log] 12/20/2021 18:56:01: Done fading color
-
-[Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
-[Info   :BiggerPickupRadius] 2
-[Info   :BiggerPickupRadius] Player pickup range set to 6
-[Info   : Unity Log] [Passive Forsaken Powers] Applying GP_Eikthyr forsaken power.
-[Info   : Unity Log] 12/20/2021 18:56:03: Resumed music meadows at 0
-
-[Info   : Unity Log] 12/20/2021 18:56:08: client got keys 3
-
-[Info   :ColorfulLights] Removed 0/1 fireplace refs.
-[Info   : Unity Log] 12/20/2021 18:56:11: Vis equip model set to 1
-
-[Info   : Unity Log] 12/20/2021 18:56:22: Vis equip model set to 1
-
-[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
-Stack trace:
-MonsterAI.IsEventCreature () (at <1b865f8b3455488592cdc401081112e3>:0)
-RRRBetterRaids.Configs+RaidersAlwaysAlert.AlwaysAlert (MonsterAI __instance) (at <7715e5425cfc4844a217cb8cd4ae5946>:0)
-(wrapper dynamic-method) MonsterAI.DMD<MonsterAI::UpdateAI>(MonsterAI,single)
-BaseAI.FixedUpdate () (at <1b865f8b3455488592cdc401081112e3>:0)
-
-[Info   : Unity Log] 12/20/2021 18:56:23: Vis equip model set to 1
-
-[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Info   : Unity Log] 12/20/2021 18:56:36: Force generaeting hmap (256.0, 0.0, 256.0)
-
-[Info   : Unity Log] 12/20/2021 18:56:40: Vis equip model set to 1
-
-[Info   :ColorfulLights] Removed 1/2 fireplace refs.
-[Info   : Unity Log] 12/20/2021 18:57:09: Vis equip model set to 1
-
-[Info   :ColorfulLights] Removed 1/1 fireplace refs.
-[Info   : Unity Log] 12/20/2021 18:57:11: Vis equip model set to 1
-
-[Info   : Unity Log] 12/20/2021 18:57:13: Vis equip model set to 1
-
-[Info   : Unity Log] 12/20/2021 18:57:17: Spawned Neck x 1
-
-[Info   : Unity Log] 12/20/2021 18:57:17: Spawned Rainbow_Butterfly x 1
-
-[Info   : Unity Log] 12/20/2021 18:57:19: Vis equip model set to 1
-
-[Info   : Unity Log] [MoreSkills]: Saved Taming Levels from : Boar to the Temporal Database
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 18:57:42: Spawned Neck x 2
-
-[Info   : Unity Log] 12/20/2021 18:57:42: Spawned Neck x 1
-
-[Info   : Unity Log] 12/20/2021 18:57:48: Spawned Greyling x 1
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   :Transparent Sails] Creating texture for sail_hide
-[Info   :Transparent Sails] Mast -3878916: Overwriting sail texture: sail_hide
-[Info   : Unity Log] 12/20/2021 18:58:49: Stoped music meadows at 7298726
-
-[Info   : Unity Log] 12/20/2021 18:59:11: Resumed music meadows at 7298726
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 18:59:40: Vis equip model set to 1
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 18:59:43: Vis equip model set to 1
-
-[Info   : Unity Log] 12/20/2021 18:59:51: Setting selected recipe 0
-
-[Info   : Unity Log] 12/20/2021 18:59:51: UI Group status changed root = True
-
-[Info   : Unity Log] 12/20/2021 18:59:51: UI Group status changed Player = True
-
-[Info   : Unity Log] 12/20/2021 19:00:01: Force generaeting hmap (-192.0, 0.0, 576.0)
-
-[Info   : Unity Log] 12/20/2021 19:00:01: Force generaeting hmap (-128.0, 0.0, 576.0)
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:00:14: Loading dungeon
-
-[Info   : Unity Log] 12/20/2021 19:00:14: Dungeon loaded 11
-
-[Info   : Unity Log] 12/20/2021 19:00:14: Dungeon load time 58,8428 ms
-
-[Info   : Unity Log] 12/20/2021 19:00:28: Spawned Greyling x 2
-
-[Info   : Unity Log] 12/20/2021 19:00:34: Spawned Deer x 1
-
-[Info   : Unity Log] 12/20/2021 19:00:38: Spawned Deer x 1
-
-[Info   : Unity Log] 12/20/2021 19:00:38: Spawned Boar x 1
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:00:47: Player 2007181184 wants to open TreasureChest_meadows(Clone)   im: 2007181184
-
-[Info   : Unity Log] 12/20/2021 19:00:47: Setting selected recipe 0
-
-[Info   : Unity Log] 12/20/2021 19:00:47: UI Group status changed root = True
-
-[Info   : Unity Log] 12/20/2021 19:00:47: UI Group status changed Player = True
-
-[Info   : Unity Log] 12/20/2021 19:00:50: FOund selected TakeAll
-
-[Info   : Unity Log] 12/20/2021 19:00:59: Player 2007181184 wants to open TreasureChest_meadows(Clone)   im: 2007181184
-
-[Info   : Unity Log] 12/20/2021 19:00:59: Setting selected recipe 0
-
-[Info   : Unity Log] 12/20/2021 19:00:59: UI Group status changed root = True
-
-[Info   : Unity Log] 12/20/2021 19:00:59: UI Group status changed Player = True
-
-[Info   : Unity Log] 12/20/2021 19:01:02: FOund selected TakeAll
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:01:16: Player 2007181184 wants to open TreasureChest_meadows(Clone)   im: 2007181184
-
-[Info   : Unity Log] 12/20/2021 19:01:16: Setting selected recipe 0
-
-[Info   : Unity Log] 12/20/2021 19:01:16: UI Group status changed root = True
-
-[Info   : Unity Log] 12/20/2021 19:01:16: UI Group status changed Player = True
-
-[Info   : Unity Log] 12/20/2021 19:01:18: FOund selected TakeAll
-
-[Info   : Unity Log] 12/20/2021 19:01:33: Spawned Seagal x 1
-
-[Info   : Unity Log] 12/20/2021 19:01:33: Spawned Seagal x 1
-
-[Info   : Unity Log] 12/20/2021 19:01:33: Spawned Fish1 x 3
-
-[Info   : Unity Log] 12/20/2021 19:01:33: Spawned Fish2 x 2
-
-[Info   : Unity Log] 12/20/2021 19:01:33: Spawned Fish2 x 2
-
-[Info   : Unity Log] 12/20/2021 19:01:35: Spawned Deer x 1
-
-[Info   : Unity Log] 12/20/2021 19:01:35: Spawned Fish1 x 1
-
-[Info   : Unity Log] 12/20/2021 19:01:35: Spawned Greyling x 2
-
-[Info   : Unity Log] 12/20/2021 19:01:40: Loading dungeon
-
-[Info   : Unity Log] 12/20/2021 19:01:40: Dungeon loaded 28
-
-[Info   : Unity Log] 12/20/2021 19:01:40: Dungeon load time 18,9498 ms
-
-[Info   : Unity Log] 12/20/2021 19:01:40: Loading dungeon
-
-[Info   : Unity Log] 12/20/2021 19:01:40: Dungeon loaded 37
-
-[Info   : Unity Log] 12/20/2021 19:01:40: Dungeon load time 15,9571 ms
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:01:42: Spawned Seagal x 1
-
-[Info   : Unity Log] 12/20/2021 19:01:42: Spawned Greyling x 1
-
-[Info   : Unity Log] 12/20/2021 19:01:42: Spawned Greyling x 1
-
-[Info   : Unity Log] 12/20/2021 19:01:48: Spawned Boar x 1
-
-[Info   : Unity Log] 12/20/2021 19:01:48: Spawned Greyling x 1
-
-[Info   : Unity Log] 12/20/2021 19:02:04: Spawned Deer x 2
-
-[Info   : Unity Log] 12/20/2021 19:02:04: Spawned Boar x 2
-
-[Info   : Unity Log] 12/20/2021 19:02:04: Spawned Seagal x 1
-
-[Info   : Unity Log] 12/20/2021 19:02:04: Spawned Fish3 x 1
-
-[Info   : Unity Log] 12/20/2021 19:02:04: Spawned Fish3 x 2
-
-[Info   : Unity Log] 12/20/2021 19:02:04: Spawned Greyling x 1
-
-[Info   : Unity Log] 12/20/2021 19:02:08: Spawned Deer x 1
-
-[Info   : Unity Log] 12/20/2021 19:02:08: Spawned Fish1 x 4
-
-[Info   : Unity Log] 12/20/2021 19:02:08: Spawned Fish2 x 3
-
-[Info   : Unity Log] 12/20/2021 19:02:08: Spawned Greyling x 2
-
-[Info   : Unity Log] 12/20/2021 19:02:08: Spawned Rainbow_Butterfly x 1
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:02:19: Spawned Boar x 1
-
-[Info   : Unity Log] 12/20/2021 19:02:19: Spawned Fish2 x 1
-
-[Info   : Unity Log] 12/20/2021 19:02:22: Vis equip model set to 1
-
-[Info   : Unity Log] 12/20/2021 19:02:34: Spawned Deer x 2
-
-[Info   : Unity Log] 12/20/2021 19:02:34: Spawned Boar x 3
-
-[Info   : Unity Log] 12/20/2021 19:02:34: Spawned Seagal x 2
-
-[Info   : Unity Log] 12/20/2021 19:02:35: Loading dungeon
-
-[Info   : Unity Log] 12/20/2021 19:02:35: Dungeon loaded 26
-
-[Info   : Unity Log] 12/20/2021 19:02:35: Dungeon load time 18,5636 ms
-
-[Info   : Unity Log] 12/20/2021 19:02:38: Spawned Greyling x 3
-
-[Info   : Unity Log] 12/20/2021 19:02:38: Spawned Rainbow_Butterfly x 1
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:02:42: Spawned Greyling x 1
-
-[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Info   : Unity Log] 12/20/2021 19:02:55: Spawned Deer x 2
-
-[Info   : Unity Log] 12/20/2021 19:02:55: Loading dungeon
-
-[Info   : Unity Log] 12/20/2021 19:02:55: Dungeon loaded 50
-
-[Info   : Unity Log] 12/20/2021 19:02:55: Dungeon load time 19,9464 ms
-
-[Info   : Unity Log] 12/20/2021 19:03:05: Spawned Boar x 1
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:03:20: Spawned Greyling x 2
-
-[Info   : Unity Log] 12/20/2021 19:03:21: Loading dungeon
-
-[Info   : Unity Log] 12/20/2021 19:03:21: Dungeon loaded 8
-
-[Info   : Unity Log] 12/20/2021 19:03:21: Dungeon load time 67,6782 ms
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:03:52: Disabling viewblock  viewblock
-
-[Info   :PlanBuild.Blueprints.BlueprintManager] Registering known blueprints
-[Info   : Unity Log] 12/20/2021 19:03:56: Setting selected recipe 0
-
-[Info   : Unity Log] 12/20/2021 19:03:56: UI Group status changed root = True
-
-[Info   : Unity Log] 12/20/2021 19:03:56: UI Group status changed Player = True
-
-[Info   : Unity Log] 12/20/2021 19:04:00: Setting selected recipe 0
-
-[Info   : Unity Log] 12/20/2021 19:04:00: UI Group status changed root = True
-
-[Info   : Unity Log] 12/20/2021 19:04:00: UI Group status changed Player = True
-
-[Info   : Unity Log] 12/20/2021 19:04:02: Setting selected recipe 0
-
-[Info   : Unity Log] 12/20/2021 19:04:02: UI Group status changed root = True
-
-[Info   : Unity Log] 12/20/2021 19:04:02: UI Group status changed Player = True
-
-[Info   : Unity Log] 12/20/2021 19:04:04: Setting selected recipe 0
-
-[Info   : Unity Log] 12/20/2021 19:04:05: Setting selected recipe 2
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:04:12: Im still nto the owner
-
-[Info   : Unity Log] 12/20/2021 19:04:12: Im still nto the owner
-
-[Info   : Unity Log] 12/20/2021 19:04:12: Im finally the owner
-
-[Info   : Unity Log] 12/20/2021 19:04:12: Im still nto the owner
-
-[Info   : Unity Log] 12/20/2021 19:04:12: Im still nto the owner
-
-[Info   : Unity Log] 12/20/2021 19:04:12: Im still nto the owner
-
-[Info   : Unity Log] 12/20/2021 19:04:12: Im still nto the owner
-
-[Info   : Unity Log] 12/20/2021 19:04:12: Im still nto the owner
-
-[Info   : Unity Log] 12/20/2021 19:04:13: Im finally the owner
-
-[Info   : Unity Log] 12/20/2021 19:04:18: Im still nto the owner
-
-[Info   : Unity Log] 12/20/2021 19:04:18: Im still nto the owner
-
-[Info   : Unity Log] 12/20/2021 19:04:18: Im still nto the owner
-
-[Info   : Unity Log] 12/20/2021 19:04:18: Im still nto the owner
-
-[Info   : Unity Log] 12/20/2021 19:04:18: Im still nto the owner
-
-[Info   : Unity Log] 12/20/2021 19:04:19: Im finally the owner
-
-[Info   : Unity Log] 12/20/2021 19:04:19: Force generaeting hmap (512.0, 0.0, 768.0)
-
-[Info   : Unity Log] 12/20/2021 19:04:20: Spawned Greyling x 2
-
-[Info   : Unity Log] 12/20/2021 19:04:27: Loading dungeon
-
-[Info   : Unity Log] 12/20/2021 19:04:27: Dungeon loaded 50
-
-[Info   : Unity Log] 12/20/2021 19:04:27: Dungeon load time 20,9654 ms
-
-[Info   : Unity Log] 12/20/2021 19:04:28: Vis equip model set to 1
-
-[Info   : Unity Log] 12/20/2021 19:04:28: Spawned RRRN_Friendly05 x 1
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:04:45: Setting selected recipe 0
-
-[Info   : Unity Log] 12/20/2021 19:04:45: Setting selected recipe 0
-
-[Info   : Unity Log] 12/20/2021 19:04:45: UI Group status changed root = True
-
-[Info   : Unity Log] 12/20/2021 19:04:45: UI Group status changed Player = True
-
-[Info   : Unity Log] 12/20/2021 19:04:51: Setting selected recipe 4
-
-[Info   : Unity Log] 12/20/2021 19:04:53: Setting selected recipe 4
-
-[Info   : Unity Log] 12/20/2021 19:04:53: Setting selected recipe 4
-
-[Info   : Unity Log] 12/20/2021 19:04:53: UI Group status changed root = True
-
-[Info   : Unity Log] 12/20/2021 19:04:53: UI Group status changed Player = True
-
-[Info   : Unity Log] 12/20/2021 19:04:56: Item is not in this container
-
-[Info   : Unity Log] 12/20/2021 19:04:56: Setting selected recipe 4
-
-[Info   : Unity Log] 12/20/2021 19:05:03: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:05:03: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:05:03: UI Group status changed root = True
-
-[Info   : Unity Log] 12/20/2021 19:05:03: UI Group status changed Player = True
-
-[Info   : Unity Log] 12/20/2021 19:05:07: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:05:07: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:05:07: UI Group status changed root = True
-
-[Info   : Unity Log] 12/20/2021 19:05:07: UI Group status changed Player = True
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:05:16: Force generaeting hmap (512.0, 0.0, 768.0)
-
-[Info   : Unity Log] 12/20/2021 19:05:32: Grave should fit in inventory, loot all
-
-[Info   : Unity Log] 12/20/2021 19:05:32: Player 2007181184 wants to takeall from Player_tombstone(Clone)   im: 2007181184
-
-[Info   : Unity Log] 12/20/2021 19:05:34: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:05:34: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:05:34: UI Group status changed root = True
-
-[Info   : Unity Log] 12/20/2021 19:05:34: UI Group status changed Player = True
-
-[Info   : Unity Log] 12/20/2021 19:05:37: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:05:37: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:05:37: UI Group status changed root = True
-
-[Info   : Unity Log] 12/20/2021 19:05:37: UI Group status changed Player = True
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:05:44: Random event set:forestbaset2
-
-[Info   : Unity Log] 12/20/2021 19:05:46: client got keys 3
-
-[Info   : Unity Log] 12/20/2021 19:05:52: Spawned Greyling x 3
-
-[Info   : Unity Log] 12/20/2021 19:05:52: Spawned TentaRoot x 3
-
-[Info   : Unity Log] 12/20/2021 19:05:52: Spawned TentaRoot x 6
-
-[Info   : Unity Log] 12/20/2021 19:05:52: Spawned RRRM_SkeletonWarriorIce x 1
-
-[Info   : Unity Log] 12/20/2021 19:05:55: Stoped music meadows at 5710794
-
-[Info   : Unity Log] 12/20/2021 19:05:55: Vis equip model set to 1
-
-[Info   : Unity Log] 12/20/2021 19:05:58: Spawned Greydwarf x 1
-
-[Info   : Unity Log] 12/20/2021 19:05:58: Spawned WendigoForest x 1
-
-[Info   : Unity Log] 12/20/2021 19:06:11: Spawned TentaRoot x 1
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:06:23: Spawned TentaRoot x 5
-
-[Info   : Unity Log] 12/20/2021 19:06:23: Spawned RRRM_BlackSpider x 1
-
-[Info   : Unity Log] 12/20/2021 19:06:30: Player 2007181184 wants to open Player_tombstone(Clone)   im: 2007181184
-
-[Info   : Unity Log] 12/20/2021 19:06:30: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:06:30: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:06:31: UI Group status changed root = True
-
-[Info   : Unity Log] 12/20/2021 19:06:31: UI Group status changed Player = True
-
-[Info   : Unity Log] 12/20/2021 19:06:33: FOund selected TakeAll
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:06:46: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:06:46: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:06:46: UI Group status changed root = True
-
-[Info   : Unity Log] 12/20/2021 19:06:46: UI Group status changed Player = True
-
-[Info   : Unity Log] 12/20/2021 19:07:00: Spawned Deer x 1
-
-[Info   : Unity Log] 12/20/2021 19:07:00: Spawned Fish1 x 3
-
-[Info   : Unity Log] 12/20/2021 19:07:08: Player 2007181184 wants to open Player_tombstone(Clone)   im: 2007181184
-
-[Info   : Unity Log] 12/20/2021 19:07:08: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:07:08: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:07:08: UI Group status changed root = True
-
-[Info   : Unity Log] 12/20/2021 19:07:08: UI Group status changed Player = True
-
-[Info   : Unity Log] 12/20/2021 19:07:11: FOund selected TakeAll
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:07:18: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:07:18: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:07:18: UI Group status changed root = True
-
-[Info   : Unity Log] 12/20/2021 19:07:18: UI Group status changed Player = True
-
-[Info   : Unity Log] Use $item_trophy_boar!
-[Info   : Unity Log] Consume $item_trophy_boar!
-[Info   : Unity Log] Raised Sneak by 4
-[Info   : Unity Log] 12/20/2021 19:07:22: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:07:22: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:07:22: UI Group status changed root = True
-
-[Info   : Unity Log] 12/20/2021 19:07:22: UI Group status changed Player = True
-
-[Info   : Unity Log] 12/20/2021 19:07:38: Starting respawn
-
-[Warning: Unity Log] 12/20/2021 19:07:38: Local player destroyed
-
-[Info   : Unity Log] 12/20/2021 19:07:38: tip:$loadscreen_tip11
-
-[Info   : Unity Log] 12/20/2021 19:07:41: Force generaeting hmap (256.0, 0.0, -128.0)
-
-[Info   : Unity Log] 12/20/2021 19:07:41: Force generaeting hmap (320.0, 0.0, -128.0)
-
-[Info   : Unity Log] 12/20/2021 19:07:41: Force generaeting hmap (384.0, 0.0, 0.0)
-
-[Info   :ColorfulLights] Removed 0/1 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:07:42: Done fading color
-
-[Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
-[Info   :BiggerPickupRadius] 2
-[Info   :BiggerPickupRadius] Player pickup range set to 6
-[Info   : Unity Log] [Passive Forsaken Powers] Applying GP_Eikthyr forsaken power.
-[Info   : Unity Log] 12/20/2021 19:07:48: client got keys 3
-
-[Info   : Unity Log] 12/20/2021 19:07:48: Stoped music blackforest at 4985299
-
-[Info   : Unity Log] 12/20/2021 19:07:48: Resumed music meadows at 5710794
-
-[Info   : Unity Log] 12/20/2021 19:07:51: Vis equip model set to 1
-
-[Info   : Unity Log] 12/20/2021 19:07:51: Vis equip model set to 1
-
-[Info   : Unity Log] 12/20/2021 19:07:51: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:07:51: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:07:52: UI Group status changed root = True
-
-[Info   : Unity Log] 12/20/2021 19:07:52: UI Group status changed Player = True
-
-[Info   : Unity Log] 12/20/2021 19:07:58: client got keys 3
-
-[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Info   : Unity Log] 12/20/2021 19:08:00: Force generaeting hmap (512.0, 0.0, 192.0)
-
-[Info   : Unity Log] 12/20/2021 19:08:01: Vis equip model set to 1
-
-[Info   : Unity Log] 12/20/2021 19:08:06: Force generaeting hmap (256.0, 0.0, 256.0)
-
-[Info   : Unity Log] 12/20/2021 19:08:07: Vis equip model set to 1
-
-[Info   :ColorfulLights] Removed 1/2 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:08:37: Left click
-
-[Info   :ColorfulLights] Removed 0/1 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:09:06: Vis equip model set to 1
-
-[Info   : Unity Log] 12/20/2021 19:09:12: Stoped music meadows at 9392144
-
-[Info   :ColorfulLights] Removed 1/1 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:09:28: Resumed music meadows at 9392144
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:09:43: Spawned Deer x 1
-
-[Info   : Unity Log] 12/20/2021 19:09:43: Spawned Seagal x 1
-
-[Info   : Unity Log] 12/20/2021 19:09:43: Spawned Seagal x 1
-
-[Info   : Unity Log] 12/20/2021 19:09:43: Spawned Greyling x 2
-
-[Info   : Unity Log] 12/20/2021 19:09:52: Starting respawn
-
-[Warning: Unity Log] 12/20/2021 19:09:52: Local player destroyed
-
-[Info   : Unity Log] 12/20/2021 19:09:52: tip:$loadscreen_tip01
-
-[Info   : Unity Log] 12/20/2021 19:09:55: Force generaeting hmap (256.0, 0.0, -128.0)
-
-[Info   : Unity Log] 12/20/2021 19:09:55: Force generaeting hmap (320.0, 0.0, -128.0)
-
-[Info   : Unity Log] 12/20/2021 19:09:55: Force generaeting hmap (384.0, 0.0, 0.0)
-
-[Info   : Unity Log] 12/20/2021 19:09:56: Vis equip model set to 1
-
-[Info   : Unity Log] 12/20/2021 19:09:56: Done fading color
-
-[Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
-[Info   :BiggerPickupRadius] 2
-[Info   :BiggerPickupRadius] Player pickup range set to 6
-[Info   : Unity Log] [Passive Forsaken Powers] Applying GP_Eikthyr forsaken power.
-[Info   : Unity Log] 12/20/2021 19:10:00: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:10:00: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:10:00: UI Group status changed root = True
-
-[Info   : Unity Log] 12/20/2021 19:10:00: UI Group status changed Player = True
-
-[Info   : Unity Log] 12/20/2021 19:10:02: client got keys 3
-
-[Info   : Unity Log] 12/20/2021 19:10:02: Stoped music meadows at 1184674
-
-[Info   : Unity Log] 12/20/2021 19:10:02: Resumed music meadows at 1184674
-
-[Info   :ColorfulLights] Removed 1/1 fireplace refs.
-[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Info   : Unity Log] 12/20/2021 19:10:13: Vis equip model set to 1
-
-[Info   : Unity Log] 12/20/2021 19:10:15: Vis equip model set to 1
-
-[Info   : Unity Log] 12/20/2021 19:10:18: Force generaeting hmap (256.0, 0.0, 256.0)
-
-[Info   : Unity Log] 12/20/2021 19:10:21: Vis equip model set to 1
-
-[Info   :ColorfulLights] Removed 0/1 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:10:46: Vis equip model set to 1
-
-[Info   : Unity Log] 12/20/2021 19:10:46: Spawned Greyling x 2
-
-[Info   : Unity Log] 12/20/2021 19:10:54: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:10:54: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:10:54: UI Group status changed root = True
-
-[Info   : Unity Log] 12/20/2021 19:10:54: UI Group status changed Player = True
-
-[Info   :ColorfulLights] Removed 0/1 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:11:22: Stoped music meadows at 4679745
-
-[Info   : Unity Log] 12/20/2021 19:11:26: Resumed music meadows at 4679745
-
-[Info   :ColorfulLights] Removed 0/1 fireplace refs.
-[Info   :ColorfulLights] Removed 0/1 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:12:16: Stoped music meadows at 6903796
-
-[Info   : Unity Log] 12/20/2021 19:12:17: Spawned RRRN_Friendly05 x 1
-
-[Info   : Unity Log] 12/20/2021 19:12:34: Resumed music meadows at 6903796
-
-[Info   :ColorfulLights] Removed 1/1 fireplace refs.
-[Info   : Unity Log] [MoreSkills]: Saved Taming Levels from : RRRN_Friendly05 to the Temporal Database
-[Info   : Unity Log] 12/20/2021 19:12:59: Grave should fit in inventory, loot all
-
-[Info   : Unity Log] 12/20/2021 19:12:59: Player 2007181184 wants to takeall from Player_tombstone(Clone)   im: 2007181184
-
-[Info   : Unity Log] 12/20/2021 19:13:01: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:13:01: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:13:01: UI Group status changed root = True
-
-[Info   : Unity Log] 12/20/2021 19:13:01: UI Group status changed Player = True
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:13:25: Spawned Seagal x 1
-
-[Info   : Unity Log] 12/20/2021 19:13:25: Spawned Rainbow_Butterfly x 1
-
-[Info   : Unity Log] 12/20/2021 19:13:32: Vis equip model set to 1
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:13:44: Force generaeting hmap (512.0, 0.0, 768.0)
-
-[Info   : Unity Log] 12/20/2021 19:13:58: Spawned RRRN_Friendly05 x 1
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Info   : Unity Log] 12/20/2021 19:14:26: Loading dungeon
-
-[Info   : Unity Log] 12/20/2021 19:14:26: Dungeon loaded 8
-
-[Info   : Unity Log] 12/20/2021 19:14:26: Dungeon load time 69,882 ms
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:14:47: Vis equip model set to 1
-
-[Info   : Unity Log] 12/20/2021 19:14:53: Spawned Greyling x 1
-
-[Info   : Unity Log] 12/20/2021 19:14:53: Spawned TentaRoot x 5
-
-[Info   : Unity Log] 12/20/2021 19:14:53: Spawned Rainbow_Butterfly x 1
-
-[Info   : Unity Log] 12/20/2021 19:14:53: Spawned RRRM_BlackSpider x 1
-
-[Info   : Unity Log] 12/20/2021 19:15:00: Spawned RRRM_SkeletonWarrior x 1
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:15:18: Stoped music meadows at 4406982
-
-[Info   : Unity Log] 12/20/2021 19:15:20: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:15:20: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:15:20: UI Group status changed root = True
-
-[Info   : Unity Log] 12/20/2021 19:15:20: UI Group status changed Player = True
-
-[Info   : Unity Log] 12/20/2021 19:15:20: Poison damage: 53,62501 ttl:8,32291 hits:8 dmg perhit:6,703126
-
-[Info   : Unity Log] 12/20/2021 19:15:21: Poison damage: 214,5 ttl:15,64582 hits:15 dmg perhit:14,3
-
-[Info   : Unity Log] 12/20/2021 19:15:23: Poison damage: 53,62501 ttl:8,32291 hits:8 dmg perhit:6,703126
-
-[Info   : Unity Log] 12/20/2021 19:15:24: Poison damage: 53,62501 ttl:8,32291 hits:8 dmg perhit:6,703126
-
-[Info   : Unity Log] 12/20/2021 19:15:24: Poison damage: 53,62501 ttl:8,32291 hits:8 dmg perhit:6,703126
-
-[Info   : Unity Log] 12/20/2021 19:15:25: Poison damage: 53,62501 ttl:8,32291 hits:8 dmg perhit:6,703126
-
-[Info   : Unity Log] 12/20/2021 19:15:25: Poison damage: 214,5 ttl:15,64582 hits:15 dmg perhit:14,3
-
-[Info   : Unity Log] 12/20/2021 19:15:27: Player 2007181184 wants to open Player_tombstone(Clone)   im: 2007181184
-
-[Info   : Unity Log] 12/20/2021 19:15:27: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:15:27: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:15:27: UI Group status changed root = True
-
-[Info   : Unity Log] 12/20/2021 19:15:27: UI Group status changed Player = True
-
-[Info   : Unity Log] 12/20/2021 19:15:32: Item is not in this container
-
-[Info   : Unity Log] 12/20/2021 19:15:32: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:15:34: Drop item $item_dandelion
-
-[Info   : Unity Log] 12/20/2021 19:15:34: drop all 1  1
-
-[Info   : Unity Log] 12/20/2021 19:15:34: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:15:36: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:15:36: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:15:36: UI Group status changed root = True
-
-[Info   : Unity Log] 12/20/2021 19:15:36: UI Group status changed Player = True
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:15:50: Spawned Fish3 x 1
-
-[Info   : Unity Log] 12/20/2021 19:15:56: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:15:56: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:15:56: UI Group status changed root = True
-
-[Info   : Unity Log] 12/20/2021 19:15:56: UI Group status changed Player = True
-
-[Info   : Unity Log] 12/20/2021 19:16:00: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:16:04: Drop item $item_torch
-
-[Info   : Unity Log] 12/20/2021 19:16:04: drop all 1  1
-
-[Info   : Unity Log] 12/20/2021 19:16:04: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:16:06: Drop item $item_torch
-
-[Info   : Unity Log] 12/20/2021 19:16:06: drop all 1  1
-
-[Info   : Unity Log] 12/20/2021 19:16:06: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:16:09: Added to stack6 0
-
-[Info   : Unity Log] 12/20/2021 19:16:09: Setting selected recipe 2
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:16:44: Stoped music blackforest at 3785779
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:17:14: Spawned Deer x 1
-
-[Info   : Unity Log] 12/20/2021 19:17:14: Spawned Seagal x 1
-
-[Info   : Unity Log] 12/20/2021 19:17:14: Spawned Greydwarf_Shaman x 1
-
-[Info   : Unity Log] 12/20/2021 19:17:14: Spawned FireFlies x 1
-
-[Info   : Unity Log] 12/20/2021 19:17:14: Spawned TentaRoot x 4
-
-[Info   : Unity Log] 12/20/2021 19:17:14: Spawned RRRM_SkeletonWarriorFire x 1
-
-[Info   : Unity Log] 12/20/2021 19:17:14: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 19:17:14: Spawned Ghost x 2
-
-[Info   : Unity Log] 12/20/2021 19:17:14: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 19:17:14: Spawned Ghost x 2
-
-[Info   : Unity Log] 12/20/2021 19:17:14: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 19:17:14: Spawned Ghost x 2
-
-[Info   : Unity Log] 12/20/2021 19:17:22: Spawned FireFlies x 1
-
-[Info   : Unity Log] 12/20/2021 19:17:22: Spawned FireFlies x 1
-
-[Info   : Unity Log] 12/20/2021 19:17:22: Spawned TentaRoot x 3
-
-[Info   : Unity Log] 12/20/2021 19:17:22: Spawned RRRM_SkeletonWarriorFire x 2
-
-[Info   : Unity Log] 12/20/2021 19:17:22: Vis equip model set to 1
-
-[Info   : Unity Log] 12/20/2021 19:17:22: Spawned RRRN_Friendly1 x 1
-
-[Info   : Unity Log] 12/20/2021 19:17:30: Resumed music blackforest at 3785779
-
-[Info   : Unity Log] 12/20/2021 19:17:35: Spawned Seagal x 1
-
-[Info   : Unity Log] 12/20/2021 19:17:35: Spawned RRRM_BlackSpider x 2
-
-[Info   : Unity Log] 12/20/2021 19:17:35: Spawned RRRM_SkeletonWarrior x 1
-
-[Info   : Unity Log] 12/20/2021 19:17:35: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 19:17:35: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 19:17:35: Spawned Ghost x 2
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
-Stack trace:
-EpicLoot.MagicItemEffects.StaggeringProjectileHit_Projectile_OnHit_Patch.Prefix (Projectile __instance, UnityEngine.Collider collider) (at <ea52786f3f914cba991542418b9f4805>:0)
-(wrapper dynamic-method) Projectile.DMD<Projectile::OnHit>(Projectile,UnityEngine.Collider,UnityEngine.Vector3,bool)
-Projectile.FixedUpdate () (at <1b865f8b3455488592cdc401081112e3>:0)
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:18:24: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 19:18:28: Spawned Greydwarf_Shaman x 1
-
-[Info   : Unity Log] 12/20/2021 19:18:33: Spawned Greydwarf_Elite x 1
-
-[Info   : Unity Log] 12/20/2021 19:18:33: Spawned Greydwarf_Elite x 1
-
-[Info   : Unity Log] 12/20/2021 19:18:33: Spawned RRRM_SkeletonWarriorIce x 3
-
-[Info   : Unity Log] 12/20/2021 19:18:33: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 19:18:33: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 19:18:33: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 19:18:33: Spawned Ghost x 2
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:18:50: Spawned Fish2 x 1
-
-[Info   : Unity Log] 12/20/2021 19:18:50: Spawned Fish2 x 1
-
-[Info   : Unity Log] 12/20/2021 19:18:50: Spawned Greydwarf_Shaman x 1
-
-[Info   : Unity Log] 12/20/2021 19:18:50: Spawned Greydwarf x 1
-
-[Info   : Unity Log] 12/20/2021 19:18:50: Spawned TentaRoot x 6
-
-[Info   : Unity Log] 12/20/2021 19:18:50: Spawned RRRM_SkeletonWarrior x 2
-
-[Info   : Unity Log] 12/20/2021 19:18:50: Spawned Ghost x 2
-
-[Info   : Unity Log] 12/20/2021 19:18:50: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 19:18:50: Vis equip model set to 1
-
-[Info   : Unity Log] 12/20/2021 19:19:07: Spawned Greydwarf x 1
-
-[Info   : Unity Log] 12/20/2021 19:19:07: Spawned TentaRoot x 3
-
-[Info   : Unity Log] 12/20/2021 19:19:07: Spawned RRRM_GhostWarrior x 1
-
-[Info   : Unity Log] 12/20/2021 19:19:07: Spawned Ghost x 2
-
-[Info   : Unity Log] 12/20/2021 19:19:07: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 19:19:10: Stoped music blackforest at 8211302
-
-[Info   : Unity Log] 12/20/2021 19:19:10: Resumed music blackforest at 8211302
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:19:14: Stoped music blackforest at 8385349
-
-[Info   : Unity Log] 12/20/2021 19:19:16: Resumed music blackforest at 8385349
-
-[Info   : Unity Log] 12/20/2021 19:19:19: Spawned Greydwarf_Elite x 2
-
-[Info   : Unity Log] 12/20/2021 19:19:19: Spawned Greydwarf_Shaman x 1
-
-[Info   : Unity Log] 12/20/2021 19:19:19: Spawned FireFlies x 1
-
-[Info   : Unity Log] 12/20/2021 19:19:19: Spawned FireFlies x 1
-
-[Info   : Unity Log] 12/20/2021 19:19:19: Spawned FireFlies x 1
-
-[Info   : Unity Log] 12/20/2021 19:19:19: Spawned FireFlies x 1
-
-[Info   : Unity Log] 12/20/2021 19:19:19: Spawned Ghost x 2
-
-[Info   : Unity Log] 12/20/2021 19:19:19: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 19:19:20: Stoped music blackforest at 8560337
-
-[Info   : Unity Log] 12/20/2021 19:19:38: Vis equip model set to 1
-
-[Info   : Unity Log] 12/20/2021 19:19:40: Vis equip model set to 1
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:19:59: Spawned Ghost x 2
-
-[Info   : Unity Log] 12/20/2021 19:19:59: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 19:20:09: Spawned Fish3 x 1
-
-[Info   : Unity Log] 12/20/2021 19:20:09: Spawned Ghost x 1
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:20:20: Vis equip model set to 1
-
-[Info   : Unity Log] 12/20/2021 19:20:30: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:20:30: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:20:30: UI Group status changed root = True
-
-[Info   : Unity Log] 12/20/2021 19:20:30: UI Group status changed Player = True
-
-[Info   : Unity Log] 12/20/2021 19:20:33: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:20:33: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:20:33: UI Group status changed root = True
-
-[Info   : Unity Log] 12/20/2021 19:20:33: UI Group status changed Player = True
-
-[Info   : Unity Log] 12/20/2021 19:20:34: Spawned Boar x 1
-
-[Info   : Unity Log] 12/20/2021 19:20:34: Spawned Fish3 x 1
-
-[Info   : Unity Log] 12/20/2021 19:20:34: Spawned Ghost x 2
-
-[Info   : Unity Log] 12/20/2021 19:20:42: Spawned Deer x 2
-
-[Info   : Unity Log] 12/20/2021 19:20:42: Spawned Neck x 1
-
-[Info   : Unity Log] 12/20/2021 19:20:42: Spawned Fish3 x 1
-
 [Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:20:58: Spawned Deer x 1
-
-[Info   : Unity Log] 12/20/2021 19:20:58: Spawned Neck x 2
-
-[Info   : Unity Log] 12/20/2021 19:20:58: Spawned Fish1 x 1
-
-[Info   : Unity Log] 12/20/2021 19:20:58: Spawned Fish3 x 2
+[Info   : Unity Log] 12/22/2021 21:49:20: Stoped music CombatEventL1 at 880588
 
-[Info   : Unity Log] 12/20/2021 19:20:58: Spawned Greydwarf x 1
+[Info   : Unity Log] 12/22/2021 21:49:20: Resumed music meadows at 0
 
-[Info   : Unity Log] 12/20/2021 19:21:09: Spawned Boar x 1
-
-[Info   : Unity Log] 12/20/2021 19:21:09: Spawned Neck x 1
-
 [Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:21:32: Force generaeting hmap (512.0, 0.0, 768.0)
-
-[Info   : Unity Log] 12/20/2021 19:21:33: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 19:21:33: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 19:21:33: Spawned Ghost x 2
-
-[Info   : Unity Log] 12/20/2021 19:21:33: Spawned Ghost x 1
-
-[Info   : Unity Log] 12/20/2021 19:21:33: Spawned Ghost x 2
-
-[Info   : Unity Log] 12/20/2021 19:21:33: Spawned Ghost x 1
+[Info   : Unity Log] 12/22/2021 21:50:00: Spawn time :8,9748 ms
 
-[Info   : Unity Log] 12/20/2021 19:21:33: Spawned Ghost x 1
+[Info   : Unity Log] 12/22/2021 21:50:01: Spawn time :1,9944 ms
 
-[Info   : Unity Log] 12/20/2021 19:21:33: Spawned Ghost x 2
+[Info   : Unity Log] 12/22/2021 21:50:02: Spawn time :0,9973 ms
 
-[Info   : Unity Log] 12/20/2021 19:21:34: Setting selected recipe 2
+[Info   : Unity Log] 12/22/2021 21:50:03: Spawn time :0,9975 ms
 
-[Info   : Unity Log] 12/20/2021 19:21:34: Setting selected recipe 2
+[Info   : Unity Log] 12/22/2021 21:50:04: Spawn time :1,5429 ms
 
-[Info   : Unity Log] 12/20/2021 19:21:34: UI Group status changed root = True
+[Info   : Unity Log] 12/22/2021 21:50:05: Spawn time :0,9973 ms
 
-[Info   : Unity Log] 12/20/2021 19:21:34: UI Group status changed Player = True
+[Info   : Unity Log] 12/22/2021 21:50:05: Spawn time :1,3543 ms
 
 [Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:22:56: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:22:56: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:22:56: UI Group status changed root = True
-
-[Info   : Unity Log] 12/20/2021 19:22:56: UI Group status changed Player = True
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:23:29: Spawned Greydwarf x 1
-
-[Info   : Unity Log] 12/20/2021 19:23:29: Spawned WendigoForest x 1
+[Info   : Unity Log] 12/22/2021 21:50:16: Spawn time :2,0151 ms
 
-[Info   : Unity Log] 12/20/2021 19:23:29: Spawned WereWolfDarkGrey x 1
+[Info   : Unity Log] 12/22/2021 21:50:18: Spawn time :1,9944 ms
 
-[Info   : Unity Log] 12/20/2021 19:23:29: Spawned Ghost x 1
+[Info   : Unity Log] 12/22/2021 21:50:19: Spawn time :1,9945 ms
 
-[Info   : Unity Log] 12/20/2021 19:23:29: Vis equip model set to 1
+[Info   : Unity Log] 12/22/2021 21:50:19: Spawn time :0,9969 ms
 
-[Info   : Unity Log] 12/20/2021 19:23:29: Spawned RRRN_Friendly1 x 1
+[Info   : Unity Log] 12/22/2021 21:50:19: Spawn time :1,9956 ms
 
-[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
-Stack trace:
-EpicLoot.MagicItemEffects.StaggeringProjectileHit_Projectile_OnHit_Patch.Prefix (Projectile __instance, UnityEngine.Collider collider) (at <ea52786f3f914cba991542418b9f4805>:0)
-(wrapper dynamic-method) Projectile.DMD<Projectile::OnHit>(Projectile,UnityEngine.Collider,UnityEngine.Vector3,bool)
-Projectile.FixedUpdate () (at <1b865f8b3455488592cdc401081112e3>:0)
+[Info   : Unity Log] 12/22/2021 21:50:20: Spawn time :1,9941 ms
 
-[Info   : Unity Log] 12/20/2021 19:23:36: hit mine rock 3
+[Info   : Unity Log] 12/22/2021 21:50:20: Spawn time :1,0116 ms
 
-[Info   : Unity Log] 12/20/2021 19:23:37: hit mine rock 3
+[Info   : Unity Log] 12/22/2021 21:50:21: Spawn time :0,994 ms
 
-[Info   : Unity Log] 12/20/2021 19:23:38: hit mine rock 0
+[Info   : Unity Log] 12/22/2021 21:50:24: Queue unlock msg:$msg_newmaterial:$item_guck
 
-[Info   : Unity Log] 12/20/2021 19:23:38: Suport time 0,2441406
+[Info   : Unity Log] 12/22/2021 21:50:32: Spawn time :0,9972 ms
 
-[Info   : Unity Log] 12/20/2021 19:23:38: hit mine rock 3
-
-[Info   : Unity Log] 12/20/2021 19:23:39: hit mine rock 2
-
-[Info   : Unity Log] 12/20/2021 19:23:40: hit mine rock 2
-
-[Info   : Unity Log] 12/20/2021 19:23:41: Vis equip model set to 1
-
-[Info   : Unity Log] 12/20/2021 19:23:41: hit mine rock 2
-
-[Info   : Unity Log] 12/20/2021 19:23:41: hit mine rock 4
-
-[Info   : Unity Log] 12/20/2021 19:23:42: hit mine rock 2
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:23:43: hit mine rock 2
+[Info   : Unity Log] 12/22/2021 21:50:33: Spawn time :0,997 ms
 
-[Info   : Unity Log] 12/20/2021 19:23:43: hit mine rock 2
+[Info   : Unity Log] 12/22/2021 21:50:33: Spawn time :0,993 ms
 
-[Info   : Unity Log] 12/20/2021 19:23:44: Spawned Greydwarf_Shaman x 1
+[Info   : Unity Log] 12/22/2021 21:50:34: Spawn time :0,9972 ms
 
-[Info   : Unity Log] 12/20/2021 19:23:44: Spawned TentaRoot x 6
+[Info   : Unity Log] 12/22/2021 21:50:34: Spawn time :1,9939 ms
 
-[Info   : Unity Log] 12/20/2021 19:23:44: Spawned Ghost x 1
+[Info   : Unity Log] 12/22/2021 21:50:34: Spawn time :1,9953 ms
 
-[Info   : Unity Log] 12/20/2021 19:23:44: hit mine rock 2
+[Info   : Unity Log] 12/22/2021 21:50:35: Spawn time :0,9923 ms
 
-[Info   : Unity Log] 12/20/2021 19:23:45: hit mine rock 2
+[Info   : Unity Log] 12/22/2021 21:50:35: Spawn time :0,9899 ms
 
-[Info   : Unity Log] 12/20/2021 19:23:45: Resumed music blackforest at 8560337
+[Info   : Unity Log] 12/22/2021 21:50:35: Spawn time :1,5216 ms
 
-[Info   : Unity Log] 12/20/2021 19:23:52: Poison damage: 14,88112 ttl:4,857605 hits:4 dmg perhit:3,72028
+[Info   : Unity Log] 12/22/2021 21:50:36: Spawn time :0,9976 ms
 
-[Info   : Unity Log] 12/20/2021 19:23:55: hit mine rock 3
+[Info   : Unity Log] 12/22/2021 21:50:36: Spawn time :1,4584 ms
 
-[Info   : Unity Log] 12/20/2021 19:23:56: Poison damage: 15,49931 ttl:4,936916 hits:4 dmg perhit:3,874828
+[Info   : Unity Log] 12/22/2021 21:50:36: Spawn time :0,9773 ms
 
-[Info   : Unity Log] 12/20/2021 19:23:58: Poison damage: 18,00201 ttl:5,242877 hits:5 dmg perhit:3,600402
+[Info   : Unity Log] 12/22/2021 21:50:36: Spawn time :1,0469 ms
 
-[Info   : Unity Log] 12/20/2021 19:24:05: Poison damage: 18,55866 ttl:5,307977 hits:5 dmg perhit:3,711732
+[Info   : Unity Log] 12/22/2021 21:50:38: Spawn time :0,9979 ms
 
 [Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:24:18: Spawned Ghost x 2
+[Info   : Unity Log] 12/22/2021 21:50:47: Spawn time :0,9965 ms
 
-[Info   : Unity Log] 12/20/2021 19:24:18: Spawned Ghost x 1
+[Info   : Unity Log] 12/22/2021 21:50:48: Spawn time :1,9954 ms
 
-[Info   : Unity Log] 12/20/2021 19:24:22: Stoped music blackforest at 1114449
+[Info   : Unity Log] 12/22/2021 21:50:49: Spawn time :1,9941 ms
 
-[Info   : Unity Log] 12/20/2021 19:24:26: Setting selected recipe 2
+[Info   : Unity Log] 12/22/2021 21:50:49: Spawn time :1,9953 ms
 
-[Info   : Unity Log] 12/20/2021 19:24:26: Setting selected recipe 2
+[Info   : Unity Log] 12/22/2021 21:50:49: Spawn time :0,9973 ms
 
-[Info   : Unity Log] 12/20/2021 19:24:27: UI Group status changed root = True
+[Info   : Unity Log] 12/22/2021 21:50:49: Spawn time :0,9977 ms
 
-[Info   : Unity Log] 12/20/2021 19:24:27: UI Group status changed Player = True
+[Info   : Unity Log] 12/22/2021 21:50:50: Spawn time :0,9977 ms
 
-[Info   : Unity Log] 12/20/2021 19:24:34: Setting selected recipe 2
+[Info   : Unity Log] 12/22/2021 21:50:50: Spawn time :1,0056 ms
 
-[Info   : Unity Log] 12/20/2021 19:24:34: Setting selected recipe 2
+[Info   : Unity Log] 12/22/2021 21:50:50: Spawn time :0,9937 ms
 
-[Info   : Unity Log] 12/20/2021 19:24:34: UI Group status changed root = True
+[Info   : Unity Log] 12/22/2021 21:50:50: Spawn time :0,9979 ms
 
-[Info   : Unity Log] 12/20/2021 19:24:34: UI Group status changed Player = True
+[Info   : Unity Log] 12/22/2021 21:50:51: Spawn time :1 ms
 
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:25:13: Spawned FireFlies x 1
-
-[Info   : Unity Log] 12/20/2021 19:25:13: Spawned FireFlies x 1
-
-[Info   : Unity Log] 12/20/2021 19:25:13: Spawned FireFlies x 1
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:25:22: Resumed music blackforest at 1114449
-
-[Info   : Unity Log] 12/20/2021 19:25:38: Queue unlock msg:$msg_newitem:$item_helmet_bronze
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:25:45: Stoped music blackforest at 2123927
+[Info   : Unity Log] 12/22/2021 21:50:51: Spawn time :1,9984 ms
 
-[Info   : Unity Log] 12/20/2021 19:25:48: hit mine rock 1
+[Info   : Unity Log] 12/22/2021 21:50:51: Spawn time :0,9972 ms
 
-[Info   : Unity Log] 12/20/2021 19:25:48: Suport time 0
+[Info   : Unity Log] 12/22/2021 21:50:51: Spawn time :1,9979 ms
 
-[Info   : Unity Log] 12/20/2021 19:26:10: Player 2007181184 wants to open Player_tombstone(Clone)   im: 2007181184
+[Info   : Unity Log] 12/22/2021 21:50:51: Spawn time :0,9911 ms
 
-[Info   : Unity Log] 12/20/2021 19:26:10: Setting selected recipe 2
+[Info   : Unity Log] 12/22/2021 21:51:02: Setting selected recipe 0
 
-[Info   : Unity Log] 12/20/2021 19:26:10: Setting selected recipe 2
+[Info   : Unity Log] 12/22/2021 21:51:02: UI Group status changed root = True
 
-[Info   : Unity Log] 12/20/2021 19:26:10: UI Group status changed root = True
+[Info   : Unity Log] 12/22/2021 21:51:02: UI Group status changed Player = True
 
-[Info   : Unity Log] 12/20/2021 19:26:10: UI Group status changed Player = True
-
 [Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:26:15: Added to stack56 0
-
-[Info   : Unity Log] 12/20/2021 19:26:15: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:26:18: Added to stack14 0
-
-[Info   : Unity Log] 12/20/2021 19:26:18: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:26:19: Resumed music blackforest at 2123927
-
-[Info   : Unity Log] 12/20/2021 19:26:20: Added to stack13 0
-
-[Info   : Unity Log] 12/20/2021 19:26:20: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:26:24: Item is not in this container
+[Info   : Unity Log] 12/22/2021 21:51:13: Stoped music meadows at 4967496
 
-[Info   : Unity Log] 12/20/2021 19:26:24: Setting selected recipe 2
+[Info   : Unity Log] 12/22/2021 21:51:21: Spawned Greyling x 1
 
-[Info   : Unity Log] 12/20/2021 19:26:27: Item is not in this container
+[Info   : Unity Log] 12/22/2021 21:51:21: Spawned Greyling x 2
 
-[Info   : Unity Log] 12/20/2021 19:26:27: Setting selected recipe 2
+[Info   : Unity Log] 12/22/2021 21:51:25: Spawned Boar x 1
 
-[Info   : Unity Log] 12/20/2021 19:26:30: Added to stack20 0
-
-[Info   : Unity Log] 12/20/2021 19:26:30: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:26:40: Item is not in this container
-
-[Info   : Unity Log] 12/20/2021 19:26:40: Setting selected recipe 2
-
 [Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:26:51: Added to stack10 0
-
-[Info   : Unity Log] 12/20/2021 19:26:51: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:26:54: Added to stack9 0
-
-[Info   : Unity Log] 12/20/2021 19:26:54: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:27:06: Starting respawn
-
-[Warning: Unity Log] 12/20/2021 19:27:06: Local player destroyed
-
-[Info   : Unity Log] 12/20/2021 19:27:06: tip:$loadscreen_tip12
-
-[Info   : Unity Log] 12/20/2021 19:27:10: Force generaeting hmap (256.0, 0.0, -128.0)
-
-[Info   : Unity Log] 12/20/2021 19:27:10: Force generaeting hmap (320.0, 0.0, -128.0)
-
-[Info   : Unity Log] 12/20/2021 19:27:10: Force generaeting hmap (384.0, 0.0, 0.0)
-
-[Info   : Unity Log] 12/20/2021 19:27:11: Vis equip model set to 1
-
-[Info   : Unity Log] 12/20/2021 19:27:11: Done fading color
-
-[Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
-[Info   :BiggerPickupRadius] 2
-[Info   :BiggerPickupRadius] Player pickup range set to 6
-[Info   : Unity Log] [Passive Forsaken Powers] Applying GP_Eikthyr forsaken power.
-[Info   :ColorfulLights] Removed 0/1 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:27:16: Stoped music blackforest at 4646211
+[Info   : Unity Log] 12/22/2021 21:52:01: Resumed music meadows at 4967496
 
-[Info   : Unity Log] 12/20/2021 19:27:17: client got keys 3
-
-[Info   : Unity Log] 12/20/2021 19:27:21: Spawned Greyling x 1
-
-[Info   : Unity Log] 12/20/2021 19:27:32: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:27:32: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:27:32: UI Group status changed root = True
-
-[Info   : Unity Log] 12/20/2021 19:27:32: UI Group status changed Player = True
-
-[Info   : Unity Log] 12/20/2021 19:27:40: Vis equip model set to 1
-
-[Info   :ColorfulLights] Removed 1/1 fireplace refs.
-[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Info   : Unity Log] 12/20/2021 19:27:44: Force generaeting hmap (512.0, 0.0, 192.0)
-
-[Info   : Unity Log] 12/20/2021 19:27:46: Spawned Greyling x 1
-
-[Info   : Unity Log] 12/20/2021 19:27:48: Vis equip model set to 1
-
-[Info   : Unity Log] 12/20/2021 19:27:49: Spawned Boar x 1
-
-[Info   : Unity Log] 12/20/2021 19:27:49: Force generaeting hmap (256.0, 0.0, 256.0)
-
-[Info   : Unity Log] 12/20/2021 19:27:59: client got keys 3
-
-[Info   :ColorfulLights] Removed 0/1 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:28:16: Vis equip model set to 1
-
-[Info   : Unity Log] 12/20/2021 19:28:38: Spawned Boar x 3
-
-[Info   : Unity Log] 12/20/2021 19:28:38: Vis equip model set to 1
-
-[Info   : Unity Log] 12/20/2021 19:28:42: Random event set:serpentwildt1
-
-[Info   :ColorfulLights] Removed 0/1 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:28:46: Stoped music meadows at 3928780
-
-[Info   : Unity Log] 12/20/2021 19:28:46: Spawned Serpent x 1
-
-[Info   : Unity Log] 12/20/2021 19:28:53: Spawned Greyling x 2
-
-[Info   : Unity Log] 12/20/2021 19:29:08: Resumed music meadows at 3928780
-
-[Info   :ColorfulLights] Removed 1/1 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:29:15: Starting respawn
-
-[Warning: Unity Log] 12/20/2021 19:29:15: Local player destroyed
-
-[Info   : Unity Log] 12/20/2021 19:29:15: tip:$loadscreen_tip18
-
-[Info   : Unity Log] 12/20/2021 19:29:18: Force generaeting hmap (320.0, 0.0, -128.0)
-
-[Info   : Unity Log] 12/20/2021 19:29:18: Force generaeting hmap (256.0, 0.0, -128.0)
-
-[Info   : Unity Log] 12/20/2021 19:29:18: Force generaeting hmap (384.0, 0.0, 0.0)
-
-[Info   : Unity Log] 12/20/2021 19:29:19: Done fading color
-
-[Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
-[Info   :BiggerPickupRadius] 2
-[Info   :BiggerPickupRadius] Player pickup range set to 6
-[Info   : Unity Log] [Passive Forsaken Powers] Applying GP_Eikthyr forsaken power.
-[Info   : Unity Log] 12/20/2021 19:29:23: Stoped music meadows at 4602392
-
-[Info   : Unity Log] 12/20/2021 19:29:23: Resumed music meadows at 4602392
-
-[Info   : Unity Log] 12/20/2021 19:29:25: client got keys 3
-
-[Info   : Unity Log] 12/20/2021 19:29:32: Vis equip model set to 1
-
-[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Info   : Unity Log] 12/20/2021 19:29:39: Vis equip model set to 1
-
-[Info   : Unity Log] 12/20/2021 19:29:41: Force generaeting hmap (256.0, 0.0, 256.0)
-
-[Info   :ColorfulLights] Removed 1/2 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:29:57: Spawned Deer x 1
-
-[Info   :ColorfulLights] Removed 1/1 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:30:19: Vis equip model set to 1
-
-[Info   : Unity Log] 12/20/2021 19:30:25: Setting selected recipe 4
-
-[Info   : Unity Log] 12/20/2021 19:30:25: Setting selected recipe 4
-
-[Info   : Unity Log] 12/20/2021 19:30:25: UI Group status changed root = True
-
-[Info   : Unity Log] 12/20/2021 19:30:25: UI Group status changed Player = True
-
-[Info   : Unity Log] 12/20/2021 19:30:43: Vis equip model set to 1
-
 [Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:30:51: Spawned Boar x 3
-
-[Info   : Unity Log] 12/20/2021 19:30:51: Spawned Greyling x 2
-
-[Info   : Unity Log] 12/20/2021 19:30:51: Spawned Greyling x 0
-
-[Info   : Unity Log] 12/20/2021 19:30:58: Stoped music meadows at 8785188
+[Info   : Unity Log] 12/22/2021 21:52:17: Spawn time :1,9946 ms
 
-[Info   : Unity Log] 12/20/2021 19:31:08: Resumed music meadows at 8785188
+[Info   : Unity Log] 12/22/2021 21:52:18: Spawn time :1,9938 ms
 
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:31:22: Force generaeting hmap (256.0, 0.0, 256.0)
+[Info   : Unity Log] 12/22/2021 21:52:18: Spawn time :1,9951 ms
 
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:31:57: Vis equip model set to 1
+[Info   : Unity Log] 12/22/2021 21:52:19: Spawn time :1,9945 ms
 
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:32:15: Vis equip model set to 1
+[Info   : Unity Log] 12/22/2021 21:52:19: Spawn time :1,995 ms
 
-[Info   : Unity Log] 12/20/2021 19:32:25: Force generaeting hmap (512.0, 0.0, 768.0)
+[Info   : Unity Log] 12/22/2021 21:52:19: Spawn time :1,9948 ms
 
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Info   : Unity Log] 12/20/2021 19:32:49: Loading dungeon
+[Info   : Unity Log] 12/22/2021 21:52:20: Spawn time :1,6644 ms
 
-[Info   : Unity Log] 12/20/2021 19:32:49: Dungeon loaded 8
+[Info   : Unity Log] 12/22/2021 21:52:20: Spawn time :1,0055 ms
 
-[Info   : Unity Log] 12/20/2021 19:32:49: Dungeon load time 80,8097 ms
+[Info   : Unity Log] 12/22/2021 21:52:21: Spawn time :1,9984 ms
 
-[Info   : Unity Log] 12/20/2021 19:33:09: Vis equip model set to 1
+[Info   : Unity Log] 12/22/2021 21:52:21: Spawn time :2,1502 ms
 
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:33:18: Spawned RRRM_ForestSpider x 1
+[Info   : Unity Log] 12/22/2021 21:52:21: Spawn time :2,9897 ms
 
-[Info   : Unity Log] 12/20/2021 19:33:23: Spawned Greyling x 1
+[Info   : Unity Log] 12/22/2021 21:52:22: Spawn time :0,9968 ms
 
-[Info   : Unity Log] 12/20/2021 19:33:32: Stoped music meadows at 5399318
+[Info   : Unity Log] 12/22/2021 21:52:23: Spawn time :1,0048 ms
 
-[Info   : Unity Log] 12/20/2021 19:33:32: Resumed music blackforest at 4646211
+[Info   : Unity Log] 12/22/2021 21:52:24: Spawn time :0,9972 ms
 
-[Info   : Unity Log] 12/20/2021 19:33:37: Spawned Greydwarf x 2
+[Info   : Unity Log] 12/22/2021 21:52:33: Queue unlock msg:$msg_newitem:$item_axe_bronze
 
-[Info   : Unity Log] 12/20/2021 19:33:37: Spawned Greydwarf x 1
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] 12/22/2021 21:52:34: Setting selected recipe 0
 
-[Info   : Unity Log] 12/20/2021 19:33:42: Queue unlock msg:$msg_newmaterial:$item_carrotseeds
+[Info   : Unity Log] 12/22/2021 21:52:34: Setting selected recipe 0
 
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:34:07: Spawned RRRM_BlackSpider x 1
+[Info   : Unity Log] 12/22/2021 21:52:34: UI Group status changed root = True
 
-[Info   : Unity Log] 12/20/2021 19:34:10: Spawned Fish1 x 1
+[Info   : Unity Log] 12/22/2021 21:52:34: UI Group status changed Player = True
 
-[Info   : Unity Log] 12/20/2021 19:34:11: Vis equip model set to 1
+[Info   : Unity Log] 12/22/2021 21:52:40: Queue unlock msg:$msg_newmaterial:$item_entrails
 
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:34:16: Spawned Fish2 x 2
+[Info   : Unity Log] 12/22/2021 21:52:42: UI Group status changed MenuRoot = True
 
 [Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:34:49: Spawned Seagal x 1
-
-[Info   : Unity Log] 12/20/2021 19:34:49: Spawned TentaRoot x 6
-
-[Info   : Unity Log] 12/20/2021 19:34:52: Spawned TentaRoot x 5
-
-[Info   : Unity Log] 12/20/2021 19:34:52: Spawned RRRM_SkeletonWarriorIce x 1
-
-[Info   : Unity Log] 12/20/2021 19:34:56: Player 2007181184 wants to open Player_tombstone(Clone)   im: 2007181184
-
-[Info   : Unity Log] 12/20/2021 19:34:56: Setting selected recipe 1
+[Info   : Unity Log] 12/22/2021 21:52:44: UI Group status changed MenuRoot = False
 
-[Info   : Unity Log] 12/20/2021 19:34:56: Setting selected recipe 1
+[Info   : Unity Log] 12/22/2021 21:52:45: Game - OnApplicationQuit
 
-[Info   : Unity Log] 12/20/2021 19:34:56: UI Group status changed root = True
-
-[Info   : Unity Log] 12/20/2021 19:34:56: UI Group status changed Player = True
-
-[Info   : Unity Log] 12/20/2021 19:35:02: Drop item $item_torch
-
-[Info   : Unity Log] 12/20/2021 19:35:02: drop all 1  1
-
-[Info   : Unity Log] 12/20/2021 19:35:02: Setting selected recipe 2
-
-[Info   : Unity Log] 12/20/2021 19:35:04: Drop item $item_torch
-
-[Info   : Unity Log] 12/20/2021 19:35:04: drop all 1  1
-
-[Info   : Unity Log] 12/20/2021 19:35:04: Setting selected recipe 2
-
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/20/2021 19:35:20: Starting respawn
+[Info   : Unity Log] 12/22/2021 21:52:45: Shuting down
 
-[Warning: Unity Log] 12/20/2021 19:35:20: Local player destroyed
+[Info   : Unity Log] 12/22/2021 21:52:45: ZNet Shutdown
 
-[Info   : Unity Log] 12/20/2021 19:35:21: tip:$loadscreen_tip20
+[Info   : Unity Log] 12/22/2021 21:52:47: clone 2528
 
-[Info   : Unity Log] 12/20/2021 19:35:24: Force generaeting hmap (256.0, 0.0, -128.0)
+[Info   : Unity Log] 12/22/2021 21:52:51: Sending disconnect msg
 
-[Info   : Unity Log] 12/20/2021 19:35:24: Force generaeting hmap (320.0, 0.0, -128.0)
-
-[Info   : Unity Log] 12/20/2021 19:35:24: Force generaeting hmap (384.0, 0.0, 0.0)
-
-[Info   : Unity Log] 12/20/2021 19:35:25: Done fading color
-
-[Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
-[Info   :BiggerPickupRadius] 2
-[Info   :BiggerPickupRadius] Player pickup range set to 6
-[Info   : Unity Log] [Passive Forsaken Powers] Applying GP_Eikthyr forsaken power.
-[Info   : Unity Log] 12/20/2021 19:35:30: Stoped music blackforest at 841037
-
-[Info   : Unity Log] 12/20/2021 19:35:30: Resumed music meadows at 5399318
-
-[Info   : Unity Log] 12/20/2021 19:35:31: client got keys 3
-
-[Info   : Unity Log] 12/20/2021 19:35:32: Vis equip model set to 1
-
-[Info   : Unity Log] 12/20/2021 19:35:33: UI Group status changed MenuRoot = True
-
-[Info   : Unity Log] 12/20/2021 19:35:34: UI Group status changed MenuRoot = False
-
-[Info   : Unity Log] 12/20/2021 19:35:35: Game - OnApplicationQuit
-
-[Info   : Unity Log] 12/20/2021 19:35:35: Shuting down
-
-[Info   : Unity Log] 12/20/2021 19:35:35: ZNet Shutdown
-
-[Info   : Unity Log] 12/20/2021 19:35:36: Sending disconnect msg
-
-[Info   : Unity Log] 12/20/2021 19:35:36: Sent to 90154275677774853
-
-[Info   : Unity Log] 12/20/2021 19:35:36: Released session ticket
-
-[Info   : Unity Log] 12/20/2021 19:35:36: Disposing socket
-
-[Info   : Unity Log] 12/20/2021 19:35:36: Closing socket 90154275677774853
-
-[Info   : Unity Log] 12/20/2021 19:35:36:   send queue size:0
-
-[Info   : Unity Log] 12/20/2021 19:35:36: Last socket, unregistering callback
-
-[Info   : Unity Log] 12/20/2021 19:35:36: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
-
-[Info   : Unity Log] 12/20/2021 19:35:36: Disposing socket
-
-[Info   : Unity Log] 12/20/2021 19:35:36: Last socket, unregistering callback
-
-[Info   : Unity Log] 12/20/2021 19:35:36: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
-
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_LeatherBelt): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_SilverRing): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_GoldRubyRing): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ShardRareUpgrade): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ShardEpicUpgrade): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ShardLegendaryUpgrade): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_DustRareUpgrade): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_DustEpicUpgrade): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_DustLegendaryUpgrade): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ReagentRareUpgrade): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ReagentEpicUpgrade): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ReagentLegendaryUpgrade): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EssenceRareUpgrade): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EssenceEpicUpgrade): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EssenceLegendaryUpgrade): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RunestoneRareUpgrade): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RunestoneEpicUpgrade): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RunestoneLegendaryUpgrade): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_MagicShardToDust_Conversion): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToDust_Conversion
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_MagicShardToEssence_Conversion): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToEssence_Conversion
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_MagicShardToReagent_Conversion): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToReagent_Conversion
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RareShardToDust_Conversion): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToDust_Conversion
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RareShardToEssence_Conversion): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToEssence_Conversion
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RareShardToReagent_Conversion): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToReagent_Conversion
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EpicShardToDust_Conversion): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToDust_Conversion
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EpicShardToEssence_Conversion): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToEssence_Conversion
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EpicShardToReagent_Conversion): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToReagent_Conversion
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_LegendaryShardToDust_Conversion): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToDust_Conversion
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_LegendaryShardToEssence_Conversion): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToEssence_Conversion
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_LegendaryShardToReagent_Conversion): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToReagent_Conversion
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_BoneSkeletonTrophy): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_BoneSkeletonTrophy
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EyeGreydwarfTrophy): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EyeGreydwarfTrophy
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_AntlerDeerTrophy): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_AntlerDeerTrophy
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_HideTrollTrophy): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HideTrollTrophy
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_CoreSurtlingTrophy): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_CoreSurtlingTrophy
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_FreezeGlandDrakeTrophy): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_DragonTearRunestone): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
-[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_YagluthThingRunestone): 1
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
-[Warning: Unity Log] 12/20/2021 19:35:38: Local player destroyed
-
-[Info   : Unity Log] 12/20/2021 19:35:39: Steam manager on destroy
-
-[Info   : Unity Log] 12/20/2021 19:35:39: FOund selected ButtonYes
-
-[Info   : Unity Log] 12/20/2021 19:35:39: ZNet OnDestroy
-
-[Info   : Unity Log] 12/20/2021 19:35:39: Net scene destroyed
+[Info   : Unity Log] 12/22/2021 21:52:54: Steam manager on destroy
 
 [Info   : Unity Log] Compass Destroying plugin
-[Warning:  HarmonyX] UnpatchAll has been called with harmonyID=null - This will remove ALL HARMONY PATCHES. If you want to only unpatch patches created by this instance (harmony-auto-0f55af2f-73be-4c28-a3e5-cc93b96c9661), use UnpatchSelf() instead.
+[Warning:  HarmonyX] UnpatchAll has been called with harmonyID=null - This will remove ALL HARMONY PATCHES. If you want to only unpatch patches created by this instance (harmony-auto-5a52a167-5367-4a99-87b9-4b03feab1276), use UnpatchSelf() instead.
