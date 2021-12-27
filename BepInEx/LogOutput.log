@@ -29,7 +29,7 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 122 plugins to load
+[Info   :   BepInEx] 121 plugins to load
 [Info   :   BepInEx] Loading [This Goes Here 1.1.0]
 [Info   :   BepInEx] Loading [serverblankpassword 1.0.0.0]
 [Info   :   BepInEx] Loading [PlantEverything 1.8.0]
@@ -49,55 +49,55 @@
 [Info   :   BepInEx] Loading [Repair Requires Mats 0.3.1]
 [Info   :   BepInEx] Loading [Repair Specific Items 0.2.1]
 [Info   :   BepInEx] Loading [Forgotten Biomes 0.0.10]
-[Info   : Unity Log] 12/27/2021 19:14:24: Forgotten_Biomes: Running on Windows based server 
+[Info   : Unity Log] 12/27/2021 20:36:30: Forgotten_Biomes: Running on Windows based server 
 
-[Info   : Unity Log] 12/27/2021 19:14:24: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\ashlands.veg
+[Info   : Unity Log] 12/27/2021 20:36:30: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\ashlands.veg
 
-[Info   : Unity Log] 12/27/2021 19:14:24: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\deepnorth.veg
+[Info   : Unity Log] 12/27/2021 20:36:30: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\deepnorth.veg
 
-[Info   : Unity Log] 12/27/2021 19:14:24: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\meadows.veg
+[Info   : Unity Log] 12/27/2021 20:36:30: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\meadows.veg
 
-[Info   : Unity Log] 12/27/2021 19:14:24: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\blackforest.veg
+[Info   : Unity Log] 12/27/2021 20:36:30: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\blackforest.veg
 
-[Info   : Unity Log] 12/27/2021 19:14:24: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\mountain.veg
+[Info   : Unity Log] 12/27/2021 20:36:30: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\mountain.veg
 
-[Info   : Unity Log] 12/27/2021 19:14:24: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\swamp.veg
+[Info   : Unity Log] 12/27/2021 20:36:30: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\swamp.veg
 
-[Info   : Unity Log] 12/27/2021 19:14:24: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\plains.veg
+[Info   : Unity Log] 12/27/2021 20:36:30: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\plains.veg
 
-[Info   : Unity Log] 12/27/2021 19:14:24: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\mistlands.veg
+[Info   : Unity Log] 12/27/2021 20:36:30: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\mistlands.veg
 
-[Info   : Unity Log] 12/27/2021 19:14:24: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\ocean.veg
+[Info   : Unity Log] 12/27/2021 20:36:30: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\ocean.veg
 
-[Info   : Unity Log] 12/27/2021 19:14:24: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\hiddenlocations.loc
+[Info   : Unity Log] 12/27/2021 20:36:30: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\hiddenlocations.loc
 
-[Info   : Unity Log] 12/27/2021 19:14:24: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\disabledlocation.loc
+[Info   : Unity Log] 12/27/2021 20:36:30: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\disabledlocation.loc
 
-[Info   : Unity Log] 12/27/2021 19:14:24: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\removelocation.loc
+[Info   : Unity Log] 12/27/2021 20:36:30: Forgotten_Biomes: loaded config from : C:\Games\Valheim\BepInEx\plugins\Forgotten_Biomes\removelocation.loc
 
 [Info   :   BepInEx] Loading [Custom Raids 1.4.0]
 [Info   :Custom Raids] Loading configurations...
 [Info   :   BepInEx] Loading [RagnarsRökare Mob AI 0.3.2]
 [Info   :   BepInEx] Loading [Creature Level & Loot Control 4.4.1]
-[Info   : Unity Log] 12/27/2021 19:14:24: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 12/27/2021 20:36:30: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 12/27/2021 19:14:24: Failed to load language file localization_extra
+[Info   : Unity Log] 12/27/2021 20:36:30: Failed to load language file localization_extra
 
-[Info   : Unity Log] 12/27/2021 19:14:24: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 12/27/2021 20:36:30: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 12/27/2021 19:14:24: Failed to load language file localization_extra
+[Info   : Unity Log] 12/27/2021 20:36:30: Failed to load language file localization_extra
 
-[Info   : Unity Log] 12/27/2021 19:14:24: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 12/27/2021 20:36:30: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 12/27/2021 19:14:24: Failed to load language file localization_extra
+[Info   : Unity Log] 12/27/2021 20:36:30: Failed to load language file localization_extra
 
-[Info   : Unity Log] 12/27/2021 19:14:24: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 12/27/2021 20:36:30: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 12/27/2021 19:14:24: Failed to load language file localization_extra
+[Info   : Unity Log] 12/27/2021 20:36:30: Failed to load language file localization_extra
 
-[Info   : Unity Log] 12/27/2021 19:14:24: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 12/27/2021 20:36:30: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 12/27/2021 19:14:24: Failed to load language file localization_extra
+[Info   : Unity Log] 12/27/2021 20:36:30: Failed to load language file localization_extra
 
 [Info   :   BepInEx] Loading [Project Auga 1.0.3]
 [Info   :   BepInEx] Loading [Extended Item Data Framework 1.0.3]
@@ -145,7 +145,6 @@
 [Info   :Skills Give More Carry Weight] Succesfully loaded configuration
 [Info   :Skills Give More Carry Weight] Succesfully loaded Skills Give More Carry Weight 1.0.3
 [Info   :   BepInEx] Loading [Better Wagon Mod 1.1.0]
-[Info   :   BepInEx] Loading [DeathIconUpdate 1.0.0]
 [Info   :   BepInEx] Loading [Crawler 0.0.7]
 [Info   : Unity Log] Loading Nasty Crawler
 [Info   :   BepInEx] Loading [Dig Deeper 1.1.0.0]
@@ -410,7 +409,7 @@ IterateDestinationSnapPoints:X
 [Info   :   BepInEx] Loading [YetiMonsterZ 0.0.7]
 [Info   : Unity Log] Loading Yeti
 [Message:   BepInEx] Chainloader startup complete
-[Info   : Unity Log] 12/27/2021 19:15:12: Starting to load scene:start
+[Info   : Unity Log] 12/27/2021 20:37:18: Starting to load scene:start
 
 [Info   : Unity Log] ConfigurationManager Searching for vanilla Config Manager.
 [Info   : Unity Log] ConfigurationManager Vanilla Config Manager not found.
@@ -424,34 +423,34 @@ IterateDestinationSnapPoints:X
 [Info   : Unity Log] (SkToolbox) ->  (TOOLBOX) ->  (NOTIFY) -> 3 MODULES LOADED | TOOLBOX READY.  
 [Info   : Unity Log] (SkToolbox) ->  (CONTROLLER) ->  (NOTIFY) -> READY.  
 [Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-[Info   : Unity Log] 12/27/2021 19:15:45: Valheim version:0.156.2
+[Info   : Unity Log] 12/27/2021 20:37:50: Valheim version:0.156.2
 
-[Info   : Unity Log] 12/27/2021 19:15:45: Render threading mode:MultiThreaded
+[Info   : Unity Log] 12/27/2021 20:37:50: Render threading mode:MultiThreaded
 
-[Info   : Unity Log] 12/27/2021 19:15:45: Using environment steamid 892970
+[Info   : Unity Log] 12/27/2021 20:37:50: Using environment steamid 892970
 
-[Info   : Unity Log] 12/27/2021 19:15:45: Using steam APPID:892970
+[Info   : Unity Log] 12/27/2021 20:37:50: Using steam APPID:892970
 
-[Info   : Unity Log] 12/27/2021 19:15:46: Authentication:k_ESteamNetworkingAvailability_Attempting
+[Info   : Unity Log] 12/27/2021 20:37:50: Authentication:k_ESteamNetworkingAvailability_Attempting
 
-[Info   : Unity Log] 12/27/2021 19:15:46: Steam initialized, persona:Macilvoy
+[Info   : Unity Log] 12/27/2021 20:37:50: Steam initialized, persona:Macilvoy
 
-[Warning: Unity Log] 12/27/2021 19:15:46: Missing audio clip in music respawn
+[Warning: Unity Log] 12/27/2021 20:37:50: Missing audio clip in music respawn
 
-[Info   : Unity Log] 12/27/2021 19:15:46: Checking for installed DLCs
+[Info   : Unity Log] 12/27/2021 20:37:50: Checking for installed DLCs
 
-[Info   : Unity Log] 12/27/2021 19:15:46: DLC installed:1515960
+[Info   : Unity Log] 12/27/2021 20:37:50: DLC installed:1515960
 
-[Info   : Unity Log] 12/27/2021 19:15:46: DLC:beta installed:True
+[Info   : Unity Log] 12/27/2021 20:37:50: DLC:beta installed:True
 
 [Info   : Unity Log] CustomTextures Clutter system awake
 [Info   : Unity Log] CustomTextures Checking 17 clutters
-[Info   : Unity Log] CustomTextures Clutter System RunTime 00:00:00.01
+[Info   : Unity Log] CustomTextures Clutter System RunTime 00:00:00.00
 [Info   :QuickConnect] Loaded 1 server entries
 [Info   :Jotunn.Managers.LocalizationManager] Loading custom localizations
-[Info   : Unity Log] 12/27/2021 19:15:46: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 12/27/2021 20:37:51: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 12/27/2021 19:15:46: Failed to load language file localization_extra
+[Info   : Unity Log] 12/27/2021 20:37:51: Failed to load language file localization_extra
 
 [Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'English'
 [Warning:RRRMonsters] True
@@ -555,7 +554,7 @@ IterateDestinationSnapPoints:X
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_NordicJam
 [Info   : Unity Log] CustomTextures SetupObjectDB postfix
 [Info   : Unity Log] CustomTextures Replacing textures for 808 objects
-[Info   : Unity Log] CustomTextures SetupObjectDB RunTime 00:00:00.25
+[Info   : Unity Log] CustomTextures SetupObjectDB RunTime 00:00:00.20
 [Info   :Jotunn.Managers.InputManager] Registering 3 custom inputs
 [Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
 [Info   :BiggerPickupRadius] 2
@@ -569,7 +568,7 @@ ConfigurationManager.Patches.Start () (at <9edb05592bc445f5bb0c8d2eab8bf234>:0)
 [Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
 [Info   :BiggerPickupRadius] 2
 [Info   :BiggerPickupRadius] Player pickup range set to 6
-[Info   : Unity Log] 12/27/2021 19:15:51: UI Group status changed Menu = True
+[Info   : Unity Log] 12/27/2021 20:37:55: UI Group status changed Menu = True
 
 [Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
 [Info   :BiggerPickupRadius] 2
@@ -580,7 +579,7 @@ ConfigurationManager.Patches.Start () (at <9edb05592bc445f5bb0c8d2eab8bf234>:0)
 [Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
 [Info   :BiggerPickupRadius] 2
 [Info   :BiggerPickupRadius] Player pickup range set to 6
-[Info   : Unity Log] 12/27/2021 19:15:55: UI Group status changed Menu = True
+[Info   : Unity Log] 12/27/2021 20:37:59: UI Group status changed Menu = True
 
 [Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
 [Info   :BiggerPickupRadius] 2
@@ -594,69 +593,23 @@ ConfigurationManager.Patches.Start () (at <9edb05592bc445f5bb0c8d2eab8bf234>:0)
 [Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
 [Info   :BiggerPickupRadius] 2
 [Info   :BiggerPickupRadius] Player pickup range set to 6
-[Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/27/2021 19:16:31: FOund selected StartGame
+[Info   : Unity Log] 12/27/2021 20:38:01: connect to ip:192.168.0.111 port:2456
 
-[Info   : Unity Log] 12/27/2021 19:16:31: show character selection
+[Info   : Unity Log] 12/27/2021 20:38:01: show character selection
 
-[Info   : Unity Log] 12/27/2021 19:16:32: OnCharacterStart
+[Info   : Unity Log] 12/27/2021 20:38:03: OnCharacterStart
 
-[Message:Spawn That!] Loading all configs.
-[Message:Spawn That!] Loading general configurations
-[Message:Spawn That!] Finished loading general configurations
-[Message:Spawn That!] Loading simple configurations
-[Message:Spawn That!] Loading world spawner configurations.
-[Message:Spawn That!] Loading local spawner configurations.
-[Message:Spawn That!] Config loading took: 00:00:00.8246551
-[Message:Drop That!] Loading general configuration from C:\Games\Valheim\BepInEx\config\drop_that.cfg.
-[Message:Drop That!] Loading character drop lists
-[Message:Drop That!] Loading character drop configurations
-[Message:Drop That!] Loading drop table lists
-[Message:Drop That!] Loading drop table configurations
-[Info   : Unity Log] [BetterContinents] Selected world camera, applying settings
-[Info   : Unity Log] [BetterContinents] Time to load C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Tamriel.png: 618 ms
-[Info   : Unity Log] [BetterContinents] Time to process C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Tamriel.png: 291 ms
-[Info   : Unity Log] [BetterContinents] Time to load C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Biomes.png: 344 ms
-[Info   : Unity Log] [BetterContinents] Time to calculate biomes from C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Biomes.png: 1545 ms
-[Info   : Unity Log] [BetterContinents] Version 6
-[Info   : Unity Log] [BetterContinents] WorldUId 529648173
-[Info   : Unity Log] [BetterContinents] GlobalScale 0,9999999
-[Info   : Unity Log] [BetterContinents] MountainsAmount 0,5
-[Info   : Unity Log] [BetterContinents] SeaLevelAdjustment 0,125
-[Info   : Unity Log] [BetterContinents] OceanChannelsEnabled False
-[Info   : Unity Log] [BetterContinents] RiversEnabled True
-[Info   : Unity Log] [BetterContinents] DisableMapEdgeDropoff False
-[Info   : Unity Log] [BetterContinents] MountainsAllowedAtCenter True
-[Info   : Unity Log] [BetterContinents] Heightmap file C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Tamriel.png
-[Info   : Unity Log] [BetterContinents] Heightmap size 4096x4096, amount 0,5, blend 1, add 0, mask 0
-[Info   : Unity Log] [BetterContinents] Biomemap file C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Biomes.png
-[Info   : Unity Log] [BetterContinents] Biomemap size 4096x4096
-[Info   : Unity Log] [BetterContinents] Spawnmap file C:\Games\Valheim\BepInEx\config\Worlds\Tamriel\Spawn.png
-[Info   : Unity Log] [BetterContinents] Spawnmap includes spawns for 2 types
-[Info   : Unity Log] [BetterContinents] Roughmap disabled
-[Info   : Unity Log] [BetterContinents] Flatmap disabled
-[Info   : Unity Log] [BetterContinents] ForestScale 0,9999999
-[Info   : Unity Log] [BetterContinents] ForestAmountOffset 0
-[Info   : Unity Log] [BetterContinents] Forestmap disabled
-[Info   : Unity Log] [BetterContinents] MaxRidgeHeight 0,5
-[Info   : Unity Log] [BetterContinents] RidgeScale 0,9999999
-[Info   : Unity Log] [BetterContinents] RidgeBlendSigmoidB -30
-[Info   : Unity Log] [BetterContinents] RidgeBlendSigmoidXOffset 1
-[Info   : Unity Log] 12/27/2021 19:16:42: Loading player profile cameralol
+[Info   : Unity Log] [BetterContinents] Joining a server, so disabling local settings
+[Info   : Unity Log] [BetterContinents] Init settings for new world
+[Info   : Unity Log] 12/27/2021 20:38:04: Loading player profile nicolasmacilvoy
 
 [Info   : Unity Log] CustomTextures Reloading ZoneSystem textures _GameMain _Zone
-[Info   : Unity Log] 12/27/2021 19:16:42: Zonesystem Awake 923
+[Info   : Unity Log] 12/27/2021 20:38:04: Zonesystem Awake 239
 
-[Info   : Unity Log] 12/27/2021 19:16:42: DungeonDB Awake 923
+[Info   : Unity Log] 12/27/2021 20:38:04: DungeonDB Awake 239
 
-[Info   : Unity Log] 12/27/2021 19:16:42: Steam initialized, persona:Macilvoy
+[Info   : Unity Log] 12/27/2021 20:38:04: Steam initialized, persona:Macilvoy
 
-[Info   : Unity Log] Registered 'CL&LC ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'randyknapp.mods.epicloot ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'htd.armory ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'org.bepinex.plugins.steadyregeneration ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'GoldenJude_JudesEquipment ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'com.alexanderstrada.rrrcore ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Loading the eggs
 [Info   : Unity Log] Loading the eggs
 [Info   : Unity Log] Trying to register Prefabs
@@ -718,7 +671,7 @@ ConfigurationManager.Patches.Start () (at <9edb05592bc445f5bb0c8d2eab8bf234>:0)
 [Info   : Unity Log] Loading the eggs
 [Info   : Unity Log] CustomTextures ZNetScene awake
 [Info   : Unity Log] CustomTextures Checking 2149 prefabs
-[Info   : Unity Log] CustomTextures ZNetScene RunTime 00:00:00.68
+[Info   : Unity Log] CustomTextures ZNetScene RunTime 00:00:00.77
 [Info   : Unity Log] CustomTextures Reloading Environment textures
 [Info   : Unity Log] CustomTextures Reloading 9 Environment textures
 [Info   : Unity Log] CustomTextures 
@@ -832,124 +785,6 @@ loading custom texture file for texture_ygg_leaf_n_BumpMap
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HoneyCloudberryJam
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_KingsJam
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_NordicJam
-[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.Ashe.json
-[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.Dvorah.json
-[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.Dwarf.json
-[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.Eir.json
-[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.Friendly05.json
-[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.Friendly10.json
-[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.Friendly15.json
-[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.Friendly20.json
-[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.Friendly25.json
-[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.Friendly30.json
-[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.Friendly35.json
-[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.Friendly40.json
-[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.Friendly45.json
-[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.FriendlyFemale0.json
-[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.FriendlyMale0.json
-[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.Mage.json
-[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\friendliesNpcs\rrrnpcs.custom.Necromancer.json
-[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.mountainbandit1.json
-[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.mountainbandit2.json
-[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.mountainbandit3.json
-[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.plainsbandit1.json
-[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.plainsbandit2.json
-[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.plainsbandit3.json
-[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.wildbandit1.json
-[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.wildbandit2.json
-[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.wildbandit3.json
-[Info   :   RRRNpcs] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrnpcs.custom.wildbandit4giant.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\MonsterLabZ\Monsters\BlackSpider\rrrmonsters.custom.BlackSpider.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\MonsterLabZ\Monsters\BrownSpider\rrrmonsters.custom.BrownSpider.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\MonsterLabZ\Monsters\FireGolem\rrrmonsters.custom.FireGolem.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\MonsterLabZ\Monsters\ForestSpider\rrrmonsters.custom.ForestSpider.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\MonsterLabZ\Monsters\FrigidSpider\rrrmonsters.custom.FrigidSpider.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\MonsterLabZ\Monsters\FrostSpider\rrrmonsters.custom.FrostSpider.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\MonsterLabZ\Monsters\GhostWarrior\rrrmonsters.custom.GhostWarrior.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\MonsterLabZ\Monsters\GreenSpider\rrrmonsters.custom.GreenSpider.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\MonsterLabZ\Monsters\IceGolem\rrrmonsters.custom.IceGolem.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\MonsterLabZ\Monsters\SkeletonWarrior\rrrmonsters.custom.SkeletonWarrior.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\MonsterLabZ\Monsters\SkeletonWarriorFire\rrrmonsters.custom.SkeletonWarriorFire.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\MonsterLabZ\Monsters\SkeletonWarriorIce\rrrmonsters.custom.SkeletonWarriorIce.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\MonsterLabZ\Monsters\TanSpider\rrrmonsters.custom.TanSpider.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\MonsterLabZ\Monsters\TreeSpider\rrrmonsters.custom.TreeSpider.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshHatchling.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshMosquito.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshNeck.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.BlazingBones.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.BlazingDamnedOne.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.BurnedBones.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.DamnedOne.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.ElderSurtling.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.SmallAshNeck.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.SwollenBody.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.AngryFrozenCorpse.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.AngrySpirit.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.CalmSpirit.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.DevourerFenring.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.Dvergr.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.DvergrEvent.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.ForgottenOne.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.FrozenCorpse.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.Jotunn.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.PolarFenring.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.PolarLox.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.SilverGolem.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.SmallPolarLox.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.SmalPolarSerpent.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.DarkMosquito.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.DarkProtector.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.DarkSpider.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.MotherDarkSpider.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.PoisonDarkSpider.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SmallDarkSpider.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.Svartalfr.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrArcher.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrBrigade.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrHeavy.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrMage.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrQueen.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ocean\rrrmonsters.custom.DrownedSoul.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ocean\rrrmonsters.custom.StormHatchling.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Others\rrrmonsters.custom.StormFenring.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Others\rrrmonsters.custom.StormWolf.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\rrrmonsters.custom.NorthGolem.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\rrrmonsters.custom.NorthLox.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\rrrmonsters.custom.NorthUndead.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\rrrmonsters.custom.NorthWolf.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.DeathsquitoT1.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.EikthyrBoar.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.EikthyrLox.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.EikthyrNeck.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.EikthyrNeckT3M.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.EikthyrNeckT3R.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.EikthyrNeckT4.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.EikthyrWolf.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.GDBurningTorch.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.GDElderBrute.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.GDTosser.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.GDVileHand.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.TrollT1M.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.TrollT1R.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.TrollT2Elite.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.TrollT3Elite.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.TrollT4Elite.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadHrungnir.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT1.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT2M.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT2R.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT3Captain.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT3M.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT3R.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT4Captain.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT4M.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT4MageFire.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT4MageIce.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.UndeadT5M.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.WraithT1.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.WraithT2.json
-[Info   :RRRMonsters] Loading: C:\Games\Valheim\BepInEx\config\supplementalraids\custommonsters\rrrmonsters.custom.WraithT3.json
-[Message:Friendlies] M
 [Info   :Jotunn.Managers.PieceManager] Adding 2 custom piece table categories
 [Info   :Jotunn.Managers.PieceManager] Adding 80 custom pieces to the PieceTables
 [Warning:Jotunn.PrefabExtension] Not fixing potential mock references for field m_remainingRequirements : Dictionary is not supported.
@@ -985,14 +820,14 @@ loading custom texture file for texture_ygg_leaf_n_BumpMap
 [Info   : Unity Log] Updated AttackSE: Skir_Voidbolt_Projectile_DoD
 [Info   :PlanBuild.Blueprints.BlueprintManager] Registering known blueprints
 [Info   :Seed Totem] Moving Seed Totem to Cultivator
-[Info   : Unity Log] 12/27/2021 19:16:49: Audioman already exist, destroying self
+[Info   : Unity Log] 12/27/2021 20:38:08: Audioman already exist, destroying self
 
 [Info   : Unity Log] Compass Added compass to hud
-[Info   : Unity Log] 12/27/2021 19:16:49: Checking for installed DLCs
+[Info   : Unity Log] 12/27/2021 20:38:08: Checking for installed DLCs
 
-[Info   : Unity Log] 12/27/2021 19:16:49: DLC installed:1515960
+[Info   : Unity Log] 12/27/2021 20:38:08: DLC installed:1515960
 
-[Info   : Unity Log] 12/27/2021 19:16:49: DLC:beta installed:True
+[Info   : Unity Log] 12/27/2021 20:38:08: DLC:beta installed:True
 
 [Info   : Unity Log] CustomTextures Clutter system awake
 [Info   : Unity Log] CustomTextures Checking 17 clutters
@@ -1028,7 +863,7 @@ loading custom texture file for texture_ygg_leaf_n_BumpMap
 [Info   :AuthoritativeConfig_nex.SpeedyPaths] Authoritative Config Registered -> AuthoritativeConfig_nex.SpeedyPaths
 [Info   : Unity Log] CustomTextures Starting ZoneSystem Location prefab replacement
 [Info   : Unity Log] CustomTextures ZoneSystem Locations RunTime 00:00:00.00
-[Info   : Unity Log] 12/27/2021 19:16:52: Zonesystem Start 923
+[Info   : Unity Log] 12/27/2021 20:38:11: Zonesystem Start 239
 
 [Info   : Unity Log] ZoneSystem_Start_Patch ran
 [Info   : Unity Log] Skipping BossStone_Bonemass
@@ -1041,717 +876,457 @@ loading custom texture file for texture_ygg_leaf_n_BumpMap
 [Info   : Unity Log] Skipping BossStone_Yagluth
 [Info   : Unity Log] Skipping BossStone_TheElder
 [Info   : Unity Log] Skipping BossStone_Eikthyr
-[Info   : Unity Log] 12/27/2021 19:16:52: DungeonDB Start 923
+[Info   : Unity Log] 12/27/2021 20:38:12: DungeonDB Start 239
 
-[Info   : Unity Log] 12/27/2021 19:16:53: Load world camera
+[Info   : Unity Log] 12/27/2021 20:38:12: Connecting to server 192.168.0.111:2456
 
-[Info   : Unity Log] 12/27/2021 19:16:53: Loading 17190 zdos , my id 356239681 data version:27
+[Info   : Unity Log] 12/27/2021 20:38:12: Starting to connect to 192.168.0.111:2456
 
-[Info   : Unity Log] 12/27/2021 19:16:53: Loaded 585 dead zdos
+[Info   : Unity Log] [BetterContinents] Registering settings RPC
+[Info   : Unity Log] 12/27/2021 20:38:12: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
 
-[Info   : Unity Log] 12/27/2021 19:16:53: Removed 0 OLD generated ZDOS
+[Info   : Unity Log] 12/27/2021 20:38:12: New connection
 
-[Info   : Unity Log] 12/27/2021 19:16:53: Loaded 8169 locations
+[Info   : Unity Log] 12/27/2021 20:38:12: Got status changed msg k_ESteamNetworkingConnectionState_Connected
 
-[Info   : Unity Log] 12/27/2021 19:16:53: Starting respawn
+[Info   : Unity Log] 12/27/2021 20:38:12: Connected
+
+[Info   : Unity Log] 12/27/2021 20:38:12: Got connection SteamID 90154478637514757
 
 [Info   : Unity Log] GetZoomSens: 10
-[Info   : Unity Log] 12/27/2021 19:16:59: tip:$loadscreen_tip18
+[Info   : Unity Log] VERSION check: theirs 1.0  mine 1.0.5
+[Info   : Unity Log] Version matched
+[Info   : Unity Log] [BetterContinents] Receiving server version 0.6.3
+[Info   : Unity Log] [BetterContinents] Loading server world settings from local cache, id e15e30f467f2e43205d56ec44ff9dc27
+[Info   : Unity Log] 12/27/2021 20:38:15: Session auth respons callback
+
+[Message:Drop That!] Received locations package.
+[Message:Drop That!] Successfully received and unpacked locations package.
+[Message:Drop That!] Received package.
+[Message:Drop That!] Successfully general configs.
+[Message:Drop That!] Received package.
+[Message:Drop That!] Successfully unpacked CharacterDrop configs.
+[Message:Drop That!] Received package.
+[Message:Drop That!] Successfully unpacked DropTable configs.
+[Info   : Unity Log] [BetterContinents] Version 6
+[Info   : Unity Log] [BetterContinents] WorldUId 1181943417
+[Info   : Unity Log] [BetterContinents] GlobalScale 0,9999999
+[Info   : Unity Log] [BetterContinents] MountainsAmount 0,5
+[Info   : Unity Log] [BetterContinents] SeaLevelAdjustment 0,125
+[Info   : Unity Log] [BetterContinents] OceanChannelsEnabled True
+[Info   : Unity Log] [BetterContinents] RiversEnabled True
+[Info   : Unity Log] [BetterContinents] DisableMapEdgeDropoff False
+[Info   : Unity Log] [BetterContinents] MountainsAllowedAtCenter True
+[Info   : Unity Log] [BetterContinents] Heightmap file (heightmap)
+[Info   : Unity Log] [BetterContinents] Heightmap size 4096x4096, amount 0,5, blend 1, add 0, mask 0
+[Info   : Unity Log] [BetterContinents] Biomemap file (biomemap)
+[Info   : Unity Log] [BetterContinents] Biomemap size 4096x4096
+[Info   : Unity Log] [BetterContinents] Spawnmap file (spawnmap)
+[Info   : Unity Log] [BetterContinents] Spawnmap includes spawns for 2 types
+[Info   : Unity Log] [BetterContinents] Roughmap disabled
+[Info   : Unity Log] [BetterContinents] Flatmap disabled
+[Info   : Unity Log] [BetterContinents] ForestScale 0,9999999
+[Info   : Unity Log] [BetterContinents] ForestAmountOffset 0
+[Info   : Unity Log] [BetterContinents] Forestmap disabled
+[Info   : Unity Log] [BetterContinents] MaxRidgeHeight 0,5
+[Info   : Unity Log] [BetterContinents] RidgeScale 0,9999999
+[Info   : Unity Log] [BetterContinents] RidgeBlendSigmoidB -30
+[Info   : Unity Log] [BetterContinents] RidgeBlendSigmoidXOffset 1
+[Info   : Unity Log] Received 95 configs and 2 custom values from the server for mod CL&LC
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_LeatherBelt): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_SilverRing): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_GoldRubyRing): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ShardRareUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ShardEpicUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ShardLegendaryUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_DustRareUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_DustEpicUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_DustLegendaryUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ReagentRareUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ReagentEpicUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ReagentLegendaryUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EssenceRareUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EssenceEpicUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EssenceLegendaryUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RunestoneRareUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RunestoneEpicUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RunestoneLegendaryUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_MagicShardToDust_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_MagicShardToEssence_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_MagicShardToReagent_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RareShardToDust_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RareShardToEssence_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RareShardToReagent_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EpicShardToDust_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EpicShardToEssence_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EpicShardToReagent_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_LegendaryShardToDust_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_LegendaryShardToEssence_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_LegendaryShardToReagent_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_BoneSkeletonTrophy): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_BoneSkeletonTrophy
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EyeGreydwarfTrophy): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EyeGreydwarfTrophy
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_AntlerDeerTrophy): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_AntlerDeerTrophy
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_HideTrollTrophy): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HideTrollTrophy
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_CoreSurtlingTrophy): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_CoreSurtlingTrophy
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_FreezeGlandDrakeTrophy): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_DragonTearRunestone): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_YagluthThingRunestone): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
+[Info   : Unity Log] Received 7 configs and 9 custom values from the server for mod Epic Loot
+[Info   : Unity Log] Received 1830 configs and 0 custom values from the server for mod Jude's Equipment
+[Info   :Jotunn.Managers.SynchronizationManager] Received admin status from server: No Admin
+[Info   : Unity Log] Received 29 configs and 1 custom values from the server for mod RRRCore
+[Message:Boneappetit.BoneAppetit] Initial Config sync event received
+[Info   : Unity Log] 12/27/2021 20:38:19: VERSION check their:0.156.2  mine:0.156.2
+
+[Info   : PlantEverything] Authoritative Config Requested
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Authoritative Config Registered -> AuthoritativeConfig_nex.SpeedyPaths
+[Info   : Unity Log] Speedy Paths Mod: Authoritative Config Requested -> AuthoritativeConfig_nex.SpeedyPaths
+[Info   : Unity Log] 12/27/2021 20:38:23: client got keys 20
+
+[Info   : Unity Log] 12/27/2021 20:38:23: client got location icons
+
+[Info   : Unity Log] 12/27/2021 20:38:23: Icons:2
+
+[Info   : Unity Log] Received 0 configs and 2 custom values from the server for mod Hugo's Armory
+[Info   : PlantEverything] Applied 67 config pairs
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Hud.BuffIcon +1: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Hud.BuffIcon +2: 1.39
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Hud.DebuffIcon -1: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Hud.DebuffIcon -2: 0.79
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => SpeedModifiers.DirtPathSpeed: 1.15
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => SpeedModifiers.StonePathSpeed: 1.4
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => SpeedModifiers.CultivatedSpeed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => SpeedModifiers.StructureWoodSpeed: 1.15
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => SpeedModifiers.StructureHardWoodSpeed: 1.15
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => SpeedModifiers.StructureStoneSpeed: 1.4
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => SpeedModifiers.StructureIronSpeed: 1.4
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => StaminaModifiers.DirtPathStamina: 0.8
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => StaminaModifiers.StonePathStamina: 0.7
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => StaminaModifiers.CultivatedStamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => StaminaModifiers.StructureWoodStamina: 0.8
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => StaminaModifiers.StructureHardWoodStamina: 0.8
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => StaminaModifiers.StructureStoneStamina: 0.7
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => StaminaModifiers.StructureIronStamina: 0.7
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => SpeedModifiers_Biomes.Untamed_None_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => StaminaModifiers_Biomes.Untamed_None_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Strings.Biome_None: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => SpeedModifiers_Biomes.Untamed_Meadows_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => StaminaModifiers_Biomes.Untamed_Meadows_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Strings.Biome_Meadows: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => SpeedModifiers_Biomes.Untamed_Swamp_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => StaminaModifiers_Biomes.Untamed_Swamp_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Strings.Biome_Swamp: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => SpeedModifiers_Biomes.Untamed_Mountain_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => StaminaModifiers_Biomes.Untamed_Mountain_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Strings.Biome_Mountain: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => SpeedModifiers_Biomes.Untamed_BlackForest_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => StaminaModifiers_Biomes.Untamed_BlackForest_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Strings.Biome_BlackForest: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => SpeedModifiers_Biomes.Untamed_Plains_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => StaminaModifiers_Biomes.Untamed_Plains_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Strings.Biome_Plains: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => SpeedModifiers_Biomes.Untamed_AshLands_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => StaminaModifiers_Biomes.Untamed_AshLands_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Strings.Biome_AshLands: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => SpeedModifiers_Biomes.Untamed_DeepNorth_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => StaminaModifiers_Biomes.Untamed_DeepNorth_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Strings.Biome_DeepNorth: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => SpeedModifiers_Biomes.Untamed_Ocean_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => StaminaModifiers_Biomes.Untamed_Ocean_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Strings.Biome_Ocean: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => SpeedModifiers_Biomes.Untamed_Mistlands_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => StaminaModifiers_Biomes.Untamed_Mistlands_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Strings.Biome_Mistlands: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Strings.PathDirt: Dirt Path
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Strings.PathStone: Stone Path
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Strings.Cultivated: Cultivated
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Strings.StructureWood: Wood
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Strings.StructureHardWood: Hardwood
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Strings.StructureStone: Stone
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied Server Authoritative config pair => Strings.StructureIron: Iron
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Applied 55 config pairs
+[Message:Friendlies] M
+[Info   : Unity Log] 12/27/2021 20:38:32: Starting respawn
+
+[Info   : Unity Log] 12/27/2021 20:38:33: tip:$loadscreen_tip09
 
 [Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
 [Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
-[Info   : Unity Log] 12/27/2021 19:17:02: Loading dungeon
+[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
+[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
+[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
+[Info   : Unity Log] New portal activation Distance:  3
+[Info   : Unity Log] New portal activation Distance:  3
+[Info   : Unity Log] 12/27/2021 20:38:36: Force generaeting hmap (-320.0, 0.0, -256.0)
 
-[Info   : Unity Log] 12/27/2021 19:17:02: Dungeon loaded 17
+[Info   : Unity Log] 12/27/2021 20:38:36: Force generaeting hmap (-320.0, 0.0, -192.0)
 
-[Info   : Unity Log] 12/27/2021 19:17:02: Dungeon load time 65,8243 ms
+[Info   : Unity Log] 12/27/2021 20:38:36: Force generaeting hmap (-320.0, 0.0, -128.0)
 
-[Info   : Unity Log] 12/27/2021 19:17:03: Vis equip model set to 1
-
-[Info   : Unity Log] 12/27/2021 19:17:07: Spawned after 8,019994
+[Info   : Unity Log] 12/27/2021 20:38:40: Spawned after 8,019994
 
 [Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
 [Info   :BiggerPickupRadius] 2
 [Info   :BiggerPickupRadius] Player pickup range set to 6
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] 12/27/2021 19:17:07: Minimap: Adding unique location (369.1, 47.9, -92.3)
+[Info   : Unity Log] [Passive Forsaken Powers] Applying GP_Eikthyr forsaken power.
+[Info   : Unity Log] [Passive Forsaken Powers] Applying GP_TheElder forsaken power.
+[Info   : Unity Log] [Passive Forsaken Powers] Applying GP_Bonemass forsaken power.
+[Info   : Unity Log] [Passive Forsaken Powers] Applying GP_Moder forsaken power.
+[Info   :Transparent Sails] Creating texture for sail_diffuse
+[Info   :Transparent Sails] Mast -432258: Overwriting sail texture: sail_diffuse
+[Info   : Unity Log] 12/27/2021 20:38:40: Minimap: Adding unique location (369.1, 45.2, -97.4)
+
+[Info   : Unity Log] 12/27/2021 20:38:40: Minimap: Adding unique location (1227.7, 62.9, -2863.5)
 
 [Info   : Unity Log] Compass scale 1 1080 50
-[Info   : Unity Log] 12/27/2021 19:17:09: Resumed music meadows at 0
+[Info   : Unity Log] 12/27/2021 20:38:42: Resumed music meadows at 0
+
+[Info   : Unity Log] 12/27/2021 20:38:45: client got keys 20
+
+[Info   :ColorfulLights] Removed 0/1 fireplace refs.
+[Info   :ColorfulPortals] Removed 0/2 portal references.
+[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
+[Info   : Unity Log] 12/27/2021 20:39:07: Loading dungeon
+
+[Info   : Unity Log] 12/27/2021 20:39:07: Dungeon loaded 34
+
+[Info   : Unity Log] 12/27/2021 20:39:07: Dungeon load time 20,985 ms
+
+[Info   : Unity Log] 12/27/2021 20:39:13: Vis equip model set to 1
+
+[Info   :ColorfulLights] Removed 1/1 fireplace refs.
+[Info   :ColorfulPortals] Removed 2/2 portal references.
+[Info   : Unity Log] 12/27/2021 20:39:42: Spawned Greyling x 1
 
 [Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
+[Info   : Unity Log] 12/27/2021 20:39:49: Stoped music meadows at 2935295
 
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
+[Info   : Unity Log] 12/27/2021 20:39:49: Resumed music meadows at 2935295
 
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
-
-[Error  : Unity Log] ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index
-Stack trace:
-System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-System.ThrowHelper.ThrowArgumentOutOfRangeException () (at <eae584ce26bc40229c1b1aa476bfa589>:0)
-BuildExpansion.HudPatches+Hud_UpdatePieceList_Patch.Prefix (Hud& __instance, Player& player, UnityEngine.Vector2Int& selectedNr, Piece+PieceCategory& category, System.Boolean& updateAllBuildStatuses) (at <5386513a789b4d77b3f8192b2172fc1e>:0)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdatePieceList>(Hud,Player,UnityEngine.Vector2Int,Piece/PieceCategory,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::UpdateBuild>(Hud,Player,bool)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Trampoline<Hud::UpdateBuild>?1865854976(Hud,Player,bool)
-Jotunn.Managers.PieceManager.TogglePieceCategories (On.Hud+orig_UpdateBuild orig, Hud self, Player player, System.Boolean forceUpdateAllBuildStatuses) (at <f84cf90787894bc1a52202a508f9a7c0>:0)
-(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition.Hook<Hud::UpdateBuild>?1781004928(Hud,Player,bool)
-(wrapper dynamic-method) Hud.DMD<Hud::Update>(Hud)
+[Info   : Unity Log] 12/27/2021 20:40:07: Vis equip model set to 1
 
 [Info   :ColorfulLights] Removed 0/0 fireplace refs.
-[Info   : Unity Log] 12/27/2021 19:18:07: UI Group status changed MenuRoot = True
+[Info   : Unity Log] 12/27/2021 20:40:22: Vis equip model set to 1
 
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] 12/27/2021 19:18:11: UI Group status changed MenuRoot = True
+[Info   : Unity Log] 12/27/2021 20:40:39: client got keys 20
 
-[Info   : Unity Log] 12/27/2021 19:18:12: UI Group status changed MenuRoot = False
+[Info   : Unity Log] 12/27/2021 20:40:44: Grave should fit in inventory, loot all
 
-[Info   : Unity Log] 12/27/2021 19:18:13: Game - OnApplicationQuit
+[Info   : Unity Log] 12/27/2021 20:40:44: Player 2142949725 wants to takeall from Player_tombstone(Clone)   im: 2142949725
 
-[Info   : Unity Log] 12/27/2021 19:18:13: Shuting down
+[Info   : Unity Log] 12/27/2021 20:40:44: Added to stack21 0
 
-[Info   : Unity Log] 12/27/2021 19:18:13: ZNet Shutdown
+[Info   :ColorfulLights] Removed 0/0 fireplace refs.
+[Info   : Unity Log] 12/27/2021 20:41:09: Spawned Deer x 2
 
-[Info   : Unity Log] 12/27/2021 19:18:13: clone 26
+[Info   : Unity Log] 12/27/2021 20:41:09: Spawned Greyling x 2
 
-[Info   : Unity Log] 12/27/2021 19:18:14: Sending disconnect msg
+[Info   :ColorfulLights] Removed 0/0 fireplace refs.
+[Info   : Unity Log] 12/27/2021 20:41:30: Starting respawn
 
-[Info   : Unity Log] 12/27/2021 19:18:16: FOund selected ButtonYes
+[Warning: Unity Log] 12/27/2021 20:41:30: Local player destroyed
 
-[Info   : Unity Log] 12/27/2021 19:18:16: ZNet OnDestroy
+[Info   : Unity Log] 12/27/2021 20:41:30: tip:$loadscreen_tip03
 
-[Info   : Unity Log] 12/27/2021 19:18:16: Net scene destroyed
+[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
+[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
+[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
+[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
+[Info   :Build Camera] in CraftingStation_Start, changing rangeBuild from 20 to 100
+[Info   : Unity Log] New portal activation Distance:  3
+[Info   : Unity Log] New portal activation Distance:  3
+[Info   : Unity Log] 12/27/2021 20:41:34: Force generaeting hmap (-320.0, 0.0, -256.0)
 
-[Info   : Unity Log] 12/27/2021 19:18:16: Steam manager on destroy
+[Info   : Unity Log] 12/27/2021 20:41:34: Force generaeting hmap (-320.0, 0.0, -192.0)
 
-[Warning: Unity Log] 12/27/2021 19:18:16: Local player destroyed
+[Info   : Unity Log] 12/27/2021 20:41:34: Force generaeting hmap (-320.0, 0.0, -128.0)
+
+[Info   : Unity Log] 12/27/2021 20:41:38: Found bed at custom spawn point
+
+[Info   :Build Camera] in Player_Awake, changing maxPlaceDistance from 8 to 100
+[Info   :BiggerPickupRadius] 2
+[Info   :BiggerPickupRadius] Player pickup range set to 6
+[Info   : Unity Log] [Passive Forsaken Powers] Applying GP_Eikthyr forsaken power.
+[Info   : Unity Log] [Passive Forsaken Powers] Applying GP_TheElder forsaken power.
+[Info   : Unity Log] [Passive Forsaken Powers] Applying GP_Bonemass forsaken power.
+[Info   : Unity Log] [Passive Forsaken Powers] Applying GP_Moder forsaken power.
+[Info   :Transparent Sails] Mast -1569592: Overwriting sail texture: sail_diffuse
+[Info   : Unity Log] 12/27/2021 20:41:40: Stoped music meadows at 7842507
+
+[Info   : Unity Log] 12/27/2021 20:41:40: Resumed music meadows at 7842507
+
+[Info   : Unity Log] 12/27/2021 20:41:43: client got keys 20
+
+[Info   :ColorfulLights] Removed 0/1 fireplace refs.
+[Info   :ColorfulPortals] Removed 0/2 portal references.
+[Info   : Unity Log] 12/27/2021 20:42:01: Right click
+
+[Info   :ColorfulLights] Removed 0/1 fireplace refs.
+[Info   :ColorfulPortals] Removed 0/2 portal references.
+[Info   : Unity Log] 12/27/2021 20:42:43: UI Group status changed MenuRoot = True
+
+[Info   : Unity Log] 12/27/2021 20:42:44: UI Group status changed MenuRoot = False
+
+[Info   : Unity Log] 12/27/2021 20:42:45: Game - OnApplicationQuit
+
+[Info   : Unity Log] 12/27/2021 20:42:45: Shuting down
+
+[Info   : Unity Log] 12/27/2021 20:42:45: ZNet Shutdown
+
+[Info   : Unity Log] 12/27/2021 20:42:45: Sending disconnect msg
+
+[Info   : Unity Log] 12/27/2021 20:42:45: Sent to 90154478637514757
+
+[Info   : Unity Log] 12/27/2021 20:42:45: Released session ticket
+
+[Info   : Unity Log] 12/27/2021 20:42:45: Disposing socket
+
+[Info   : Unity Log] 12/27/2021 20:42:45: Closing socket 90154478637514757
+
+[Info   : Unity Log] 12/27/2021 20:42:45:   send queue size:0
+
+[Info   : Unity Log] 12/27/2021 20:42:45: Last socket, unregistering callback
+
+[Info   : Unity Log] 12/27/2021 20:42:45: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+
+[Info   : Unity Log] 12/27/2021 20:42:45: Disposing socket
+
+[Info   : Unity Log] 12/27/2021 20:42:45: Last socket, unregistering callback
+
+[Info   : Unity Log] 12/27/2021 20:42:45: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_LeatherBelt): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_SilverRing): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_GoldRubyRing): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ShardRareUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ShardEpicUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ShardLegendaryUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_DustRareUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_DustEpicUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_DustLegendaryUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ReagentRareUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ReagentEpicUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_ReagentLegendaryUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EssenceRareUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EssenceEpicUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EssenceLegendaryUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RunestoneRareUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RunestoneEpicUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RunestoneLegendaryUpgrade): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_MagicShardToDust_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_MagicShardToEssence_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_MagicShardToReagent_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RareShardToDust_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RareShardToEssence_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_RareShardToReagent_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EpicShardToDust_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EpicShardToEssence_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EpicShardToReagent_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_LegendaryShardToDust_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_LegendaryShardToEssence_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_LegendaryShardToReagent_Conversion): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_BoneSkeletonTrophy): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_BoneSkeletonTrophy
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_EyeGreydwarfTrophy): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EyeGreydwarfTrophy
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_AntlerDeerTrophy): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_AntlerDeerTrophy
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_HideTrollTrophy): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HideTrollTrophy
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_CoreSurtlingTrophy): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_CoreSurtlingTrophy
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_FreezeGlandDrakeTrophy): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_DragonTearRunestone): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
+[Info   : Unity Log] [PrefabCreator] Removed recipe (Recipe_YagluthThingRunestone): 1
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
+[Info   : Unity Log] 12/27/2021 20:42:47: Steam manager on destroy
 
 [Info   : Unity Log] Compass Destroying plugin
-[Warning:  HarmonyX] UnpatchAll has been called with harmonyID=null - This will remove ALL HARMONY PATCHES. If you want to only unpatch patches created by this instance (harmony-auto-8237c30e-e6f0-485f-8cf7-09bf5a1a7a7b), use UnpatchSelf() instead.
+[Warning:  HarmonyX] UnpatchAll has been called with harmonyID=null - This will remove ALL HARMONY PATCHES. If you want to only unpatch patches created by this instance (harmony-auto-dd0c96c3-6e5c-4a44-b1d5-8e2c636691fa), use UnpatchSelf() instead.
+[Info   : Unity Log] Crafting Skill UnPatched!
+[Info   : Unity Log] Fishing Skill UnPatched!
+[Info   : Unity Log] Hunting Skill UnPatched!
+[Info   : Unity Log] Overhauls UnPatched!
+[Info   : Unity Log] Sailing Skill UnPatched!
+[Info   : Unity Log] Strength Skill UnPatched!
+[Info   : Unity Log] Taming Skill UnPatched!
+[Info   : Unity Log] Vitality Skill UnPatched!
+[Warning:  HarmonyX] UnpatchAll has been called with harmonyID=null - This will remove ALL HARMONY PATCHES. If you want to only unpatch patches created by this instance (MeadBaseIconFix), use UnpatchSelf() instead.
+[Info   : Unity Log] 12/27/2021 20:42:52: FOund selected ButtonYes
+
+[Info   : Unity Log] 12/27/2021 20:42:52: ZNet OnDestroy
+
+[Info   : Unity Log] 12/27/2021 20:42:52: Net scene destroyed
+
+[Warning: Unity Log] 12/27/2021 20:42:52: Local player destroyed
+
